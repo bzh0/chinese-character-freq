@@ -1,0 +1,209 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <title>说来说去 | Say What?</title>
+
+    <!--including d3 library via CDN url-->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!--style-->
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+  </head>
+
+  <body>
+    <div id="sidebar">
+      说来说去
+      <br />
+      <p id="enTitle" class="en">Say What?</p>
+      <div id="overlayButtonContainer">
+        <button id="aboutOverlayButton" class="en overlayButton">About</button></br>
+        <button id="instructionsOverlayButton" class="en overlayButton">
+          Instructions
+        </button></br>
+        <button id="settingsButton" class="en overlayButton">
+            &#x25BC Graph Settings
+        </button>
+      </div>
+      <div id="graphSettingsSlider" class="slideDown en">
+          <div id="graphSettingsOptions">
+              <div id="toggleHoverContainer">
+                  <label id="toggleHoverWindow" class="switch">
+                    <input id="toggleHoverWindowCheckbox" type="checkbox" checked />
+                    <span class="slider round"></span>
+                  </label>
+                  Show character info popup on hover
+              </div>
+              <div id="toggleTextContainer">
+                <label id="toggleTextWindow" class="switch">
+                  <input id="toggleTextCheckbox" type="checkbox" checked />
+                  <span class="slider round"></span>
+                </label>
+                Show text on large nodes
+              </div>
+              <div id="changeNodeNumContainer">
+                  <p class="en" style="font-size:1.1vw">Currently Showing <b><span id="currentNumChar">200</span></b> Most Common Characters</p>
+                  <p class="en">Show <input type="text" id="currentSliderNumChar" class="charListItem" value="200"></input> instead:</p>
+                  <input type="range" min="1" max="400" value="200" class="rangeSlider" id="nodeNumSelectSlider">
+                  <p class="en" id="numberCharWarning" style="font-size:.9vw">(large numbers may take longer time to load)</p>
+                  <button id="updateCurrentNumChar" class="en overlayButton">Update</button>
+              </div>
+            
+              <button id="resetGraphViewButton" class = "en overlayButton">Reset Graph Settings</button>
+          </div>
+        </div>
+    </div>
+
+    <div id="graph"></div>
+    <div id="info">
+        <div id="infoHeader">
+            <button id="closeButton">x</button>
+            <p id = "sideChar" class="ch"></p>
+        </div>
+        <div id="infoContent">
+            <p class = "en"><b>Pinyin:</b> <span id = "sidePinyin"></span></p>
+            <p class ="en"><b>Definition:</b> <span id = "sideDef"></span></p>
+            <div id= "sideRadical">
+                <p class="en"><b>Radical:</b> <span id = "sideRadicalChar" class="ch"></span></p>
+                <p class="en"><b>Radical Meaning:</b> <span id="sideRadicalMeaning"></span></p>
+                <details>
+                    <summary><span class="en"><b>Shares Radical With:</b></span></summary>
+                    <div id="toggleSameRadicalHighlightContainer" class="en">
+                        <label id="toggleSameRadical" class="switch">
+                          <input id="toggleSameRadicalCheckbox" type="checkbox" />
+                          <span class="slider round"></span>
+                        </label>
+                        Highlight Characters w/ Same Radical
+                  </div>
+                    <ul id="sameRadicalWordsList"></ul>
+                </details>
+            </div>
+            <div id="sideWords">
+                <details>
+                    <summary><span class="en"><b>Occurences:</b></span></summary>
+                    <ul id="sideWordsList"></ul>
+                </details>
+            </div>
+            <div id="words"></div>
+        </div>
+    </div>
+
+    <div class="nodeHover" id="nodeHoverContainer">
+      <p class="ch" id="chNodeHover"></p>
+      <p class="en" id = "pinyinNodeHover"></p>
+      <br/>
+      <p class="en" id="enNodeHover"></p>
+      <!-- filled in in scripts.js-->
+    </div>
+
+    <div id="about" class="overlayPage">
+      <div class="overlayContentContainer">
+        <div class="overlayTitle en">
+          About
+        </div>
+        <div class="overlayContent en">
+          In Chinese, words can be composed of multiple characters. This project
+          aims to visualize connections between commonly used Chinese characters
+          - what words are they usually a part of or are they more commonly used
+          individually? How do they combine with other characters to create new
+          meanings?
+
+          <br />
+          <br />
+          <b>Background</b><br/>
+
+          <b>Radicals</b> are parts of a character that can lend the character phonetic and/or semantic meaning.
+          For example, the heart radical, which can appear as <span ch>心</span> or <span ch>忄</span>, appears in both <span ch>念</span> - meaning "to think, recall" - and 
+          <span ch>忘</span> - meaning "to forget." Both characters relate to internal actions or feelings, and the heart radical generally indicates a word related to thoughts or emotions.
+          Sometimes, a radical by is already a complete character.
+
+          <br />
+          <br />
+        
+          <b>Pinyin</b> is a system used to specify how to pronounce characters. It uses the Latin alphabet together with <b>tones</b>, which further specify how a character should sound.
+          There are four basic tones, labeled 1 through 4, corresponding to a word's vowel sound is flat, rising, falling-rising, or falling. There is a also a fifth tone that is 
+          neutral or toneless - there is no clear tone in these pronunciations. For example, the pinyin "li4" indicates a pronunciation like "lee" but with a downwards, falling tone.
+          <br/><br/>
+          A character can have multiple pronunciations, often corresponding to different definitions. The pronunciation is usually decided by the context.
+
+          <br/>
+          <br/>
+          <b>Sources</b></br>
+
+
+          This project uses the
+          <a
+            href="http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-ch"
+            >SUBTLEX-CH</a
+          >
+          dataset, which has the commonly used words in movie subtitles. The
+          frequency of words in subtitles is believed to be a good reflection of
+          the frequency of their usage in general. There were nearly 100,000 words in the dataset, but only the top ~500 are included in this visualization.
+          These 500 words each occurred over 7000 times in the movie subtitles analyzed, and together they involve 400 unique characters.
+          <br />
+          <br />
+          Information on radicals, pinyin, and definitions of words and characters is taken from the dictionary by
+          <a href="https://github.com/skishore/makemeahanzi">Make Me a Hanzi</a
+          > and from the <a href="https://www.mdbg.net/chinese/dictionary?page=cc-cedict">CC-CEDICT</a>
+        dictionary Chinese to English dictionary. The CC-CEDICT dictinoary was read with the help of
+        <a href="https://github.com/rubber-duck-dragon/rubber-duck-dragon.github.io/blob/master/cc-cedict_parser/parser.py">this parser</a>.
+        </div>
+        <button id="closeAboutButton" class="overlayButton en">close</button>
+      </div>
+    </div>
+
+    <div id="instructions" class="overlayPage">
+      <div class="overlayContentContainer">
+        <div class="overlayTitle en">
+          Instructions
+        </div>
+        <div class="overlayContent en">
+            There are over 50,000 <b>characters</b> in the Chinese language. They serve as the building blocks of <b>words</b>, combining in all sorts of ways to create new meanings.
+            Each character has a <b>radical</b> and <b>Pinyin pronunciation</b> - you can learn more about these in the <b>About</b> page in the sidebar.
+            <br /><br />
+            <b>Main Graph</b><br/>
+            In this visualization, each circle represents a character, and a link between two circles means they combine to form a word.
+            The size of the circle indicates how frequently the corresponding character is used - whether it be by itself, or as part of a word.
+            <br/><br/>
+            You can...
+            <ul>
+                <li>Hover a node to see basic information on the character, as well as highlight neighboring characters</li>
+                <li>Click on a node to learn more about it in the <b>info panel</b> on the right</li>
+                <li>Drag nodes to better see connections</li>
+            </ul>
+            <br/><br/>
+            <b>Info Panel</b></br>
+            The info panel gives detailed information on a character, including:
+            <ul>
+                <li>Pinyin pronunciation</li>
+                <li>Meaning</li>
+                <li>Radical, meaning, and other characters with the same radical</li>
+                <li>Words that the character appears in</li>
+            </ul>
+            You can...
+            <ul>
+                <li>Highlight all characters with the same radical as the one you've selected</li>
+                <li>Hover over words the character appears in to see the other characters in the word</li>
+            </ul>
+
+            <br/><br/>
+            <b>Sidebar</b><br/>
+            Using the sidebar on the left, you can...
+            <ul>
+                <li>Open this instructions page or the about page, which gives more information on Chinese and this project</li>
+                <li>Turn on/off the information window that appears when you hover over circles</li>
+                <li>Turn on/off text labels on large circles</li>
+                <li>Change how many common characters are shown, sorted from most to least frequent</li>
+                <li>Reset the view of the graph to the original state</li>
+            </ul>  
+        </div>
+        
+        <button id="closeInstructionsButton" class="overlayButton en">
+          close
+        </button>
+      </div>
+    </div>
+    <script src="constants.js"></script>
+    <script src="scripts.js"></script>
+  </body>
+</html>

@@ -1,0 +1,77 @@
+@font-face {
+  font-family: MaShanZheng;
+  src: url(../fonts/MaShanZheng-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoMono;
+  src: url(../fonts/Roboto_Mono/RobotoMono-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoMono;
+  src: url(../fonts/Roboto_Mono/RobotoMono-Bold.ttf);
+  font-weight: bold;
+}
+
+body {
+  margin: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  font-family: "MaShanZheng";
+  text-align: center;
+}
+
+a {
+  color: #00909e;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffb367;
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.en {
+  font-family: "RobotoMono";
+}
+
+#title {
+  margin-top: 2%;
+}
+
+#title .ch {
+  font-size: 4vw;
+}
+
+#title .en {
+  margin-top: 20px;
+  font-size: 3.2vw;
+}
+
+#links {
+  font-size: 1.6vw;
+}
+
+#projPreview {
+  margin-top: 2%;
+}
+
+#previewImg {
+  width: 60rem;
+  height: auto;
+  margin: 0 10%;
+}

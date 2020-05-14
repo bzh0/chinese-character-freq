@@ -1,0 +1,6348 @@
+{
+  "char": {
+    "的": {
+      "id": 1,
+      "total_fr": 1735746,
+      "solo_fr": 1682530,
+      "by_word": { "是的": 44210, "他妈的": 9006 },
+      "by_other_char": { "是": 44210, "他": 9006, "妈": 9006 },
+      "definition": "aim, goal; of; possessive particle; -self suffix",
+      "radical": "白",
+      "pinyin": "de5/di1/di2/di4"
+    },
+    "我": {
+      "id": 2,
+      "total_fr": 2053981,
+      "solo_fr": 1682285,
+      "by_word": { "我们": 371696 },
+      "by_other_char": { "们": 371696 },
+      "definition": "I, me, my; our, us",
+      "radical": "戈",
+      "pinyin": "wo3"
+    },
+    "你": {
+      "id": 3,
+      "total_fr": 1442370,
+      "solo_fr": 1329424,
+      "by_word": { "你们": 112946 },
+      "by_other_char": { "们": 112946 },
+      "definition": "you, second person pronoun",
+      "radical": "亻",
+      "pinyin": "ni3"
+    },
+    "是": {
+      "id": 4,
+      "total_fr": 1144933,
+      "solo_fr": 947807,
+      "by_word": {
+        "但是": 52718,
+        "是的": 44210,
+        "就是": 28137,
+        "只是": 21213,
+        "还是": 19998,
+        "可是": 11739,
+        "真是": 10559,
+        "总是": 8552
+      },
+      "by_other_char": {
+        "但": 52718,
+        "的": 44210,
+        "就": 28137,
+        "只": 21213,
+        "还": 19998,
+        "可": 11739,
+        "真": 10559,
+        "总": 8552
+      },
+      "definition": "to be; indeed, right, yes; okay",
+      "radical": "日",
+      "pinyin": "shi4"
+    },
+    "了": {
+      "id": 5,
+      "total_fr": 974766,
+      "solo_fr": 946365,
+      "by_word": { "为了": 18274, "了解": 10127 },
+      "by_other_char": { "为": 18274, "解": 10127 },
+      "definition": "clear; to finish; particle of completed action",
+      "radical": "亅",
+      "pinyin": "le5/liao3/liao4"
+    },
+    "不": {
+      "id": 6,
+      "total_fr": 788855,
+      "solo_fr": 689161,
+      "by_word": {
+        "不过": 23333,
+        "不要": 20679,
+        "对不起": 20548,
+        "不错": 18930,
+        "不能": 9019,
+        "不管": 7185
+      },
+      "by_other_char": {
+        "过": 23333,
+        "要": 20679,
+        "对": 20548,
+        "起": 20548,
+        "错": 18930,
+        "能": 9019,
+        "管": 7185
+      },
+      "definition": "no, not, un-; negative prefix",
+      "radical": "一",
+      "pinyin": "bu4"
+    },
+    "在": {
+      "id": 7,
+      "total_fr": 517886,
+      "solo_fr": 429766,
+      "by_word": { "现在": 88120 },
+      "by_other_char": { "现": 88120 },
+      "definition": "at, in, on; to exist; used to indicate the present progressive tense",
+      "radical": "土",
+      "pinyin": "zai4"
+    },
+    "他": {
+      "id": 8,
+      "total_fr": 561282,
+      "solo_fr": 397653,
+      "by_word": { "他们": 140460, "其他": 14163, "他妈的": 9006 },
+      "by_other_char": { "们": 140460, "其": 14163, "妈": 9006, "的": 9006 },
+      "definition": "other, another; he, she, it",
+      "radical": "亻",
+      "pinyin": "ta1"
+    },
+    "们": {
+      "id": 9,
+      "total_fr": 691895,
+      "solo_fr": 39958,
+      "by_word": {
+        "我们": 371696,
+        "他们": 140460,
+        "你们": 112946,
+        "它们": 9933,
+        "她们": 8912,
+        "人们": 7990
+      },
+      "by_other_char": {
+        "我": 371696,
+        "他": 140460,
+        "你": 112946,
+        "它": 9933,
+        "她": 8912,
+        "人": 7990
+      },
+      "definition": "plural marker for pronouns and some nouns",
+      "radical": "亻",
+      "pinyin": "men5"
+    },
+    "好": {
+      "id": 10,
+      "total_fr": 361320,
+      "solo_fr": 334698,
+      "by_word": { "好像": 11214, "好好": 7704 },
+      "by_other_char": { "像": 11214, "好": 15408 },
+      "definition": "good, excellent, fine; proper, suitable; well",
+      "radical": "女",
+      "pinyin": "hao3/hao4"
+    },
+    "有": {
+      "id": 11,
+      "total_fr": 479793,
+      "solo_fr": 289109,
+      "by_word": {
+        "没有": 108237,
+        "还有": 35932,
+        "所有": 27749,
+        "有人": 9877,
+        "有些": 8889
+      },
+      "by_other_char": {
+        "没": 108237,
+        "还": 35932,
+        "所": 27749,
+        "人": 9877,
+        "些": 8889
+      },
+      "definition": "to have, to own, to possess; to exist",
+      "radical": "月",
+      "pinyin": "you3"
+    },
+    "这": {
+      "id": 12,
+      "total_fr": 622496,
+      "solo_fr": 286987,
+      "by_word": {
+        "这个": 92058,
+        "这样": 64295,
+        "这里": 53900,
+        "这么": 49082,
+        "这些": 36735,
+        "这儿": 24824,
+        "这种": 14615
+      },
+      "by_other_char": {
+        "个": 92058,
+        "样": 64295,
+        "里": 53900,
+        "么": 49082,
+        "些": 36735,
+        "儿": 24824,
+        "种": 14615
+      },
+      "definition": "this, these; such; here",
+      "radical": "辶",
+      "pinyin": "zhe4"
+    },
+    "就": {
+      "id": 13,
+      "total_fr": 304773,
+      "solo_fr": 276636,
+      "by_word": { "就是": 28137 },
+      "by_other_char": { "是": 28137 },
+      "definition": "just, simply; to go to; to approach, near",
+      "radical": "尢",
+      "pinyin": "jiu4"
+    },
+    "会": {
+      "id": 14,
+      "total_fr": 277500,
+      "solo_fr": 265929,
+      "by_word": { "机会": 11571 },
+      "by_other_char": { "机": 11571 },
+      "definition": "to assemble, to meet; meeting; association, group",
+      "radical": "人",
+      "pinyin": "hui4/kuai4"
+    },
+    "吗": {
+      "id": 15,
+      "total_fr": 249187,
+      "solo_fr": 249187,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "final interrogative particle",
+      "radical": "口",
+      "pinyin": "ma3/ma5"
+    },
+    "要": {
+      "id": 16,
+      "total_fr": 325610,
+      "solo_fr": 238656,
+      "by_word": { "需要": 44362, "不要": 20679, "重要": 11677, "只要": 10236 },
+      "by_other_char": { "需": 44362, "不": 20679, "重": 11677, "只": 10236 },
+      "definition": "essential, necessary; to ask for; to coerce; to demand",
+      "radical": "覀",
+      "pinyin": "yao1/yao4"
+    },
+    "什": {
+      "id": 17,
+      "total_fr": 297032,
+      "solo_fr": 0,
+      "by_word": { "什么": 236517, "为什么": 51063, "没什么": 9452 },
+      "by_other_char": { "么": 297032, "为": 51063, "没": 9452 },
+      "definition": "what? mixed, miscellaneous",
+      "radical": "亻",
+      "pinyin": "shen2/shi2"
+    },
+    "么": {
+      "id": 18,
+      "total_fr": 537180,
+      "solo_fr": 39120,
+      "by_word": {
+        "什么": 236517,
+        "怎么": 89166,
+        "为什么": 51063,
+        "这么": 49082,
+        "那么": 41794,
+        "怎么样": 20986,
+        "没什么": 9452
+      },
+      "by_other_char": {
+        "什": 297032,
+        "怎": 110152,
+        "为": 51063,
+        "这": 49082,
+        "那": 41794,
+        "样": 20986,
+        "没": 9452
+      },
+      "definition": "interrogative particle",
+      "radical": "丿",
+      "pinyin": "ma2/ma5/me5"
+    },
+    "说": {
+      "id": 19,
+      "total_fr": 254064,
+      "solo_fr": 226955,
+      "by_word": { "来说": 10026, "说话": 8985, "听说": 8098 },
+      "by_other_char": { "来": 10026, "话": 8985, "听": 8098 },
+      "definition": "to speak, to say; to scold, to upbraid",
+      "radical": "讠",
+      "pinyin": "shui4/shuo1"
+    },
+    "她": {
+      "id": 20,
+      "total_fr": 230332,
+      "solo_fr": 221420,
+      "by_word": { "她们": 8912 },
+      "by_other_char": { "们": 8912 },
+      "definition": "she, her",
+      "radical": "女",
+      "pinyin": "ta1"
+    },
+    "想": {
+      "id": 21,
+      "total_fr": 212185,
+      "solo_fr": 212185,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to believe, to wish for; to consider, to plan, to think",
+      "radical": "心",
+      "pinyin": "xiang3"
+    },
+    "一": {
+      "id": 22,
+      "total_fr": 539496,
+      "solo_fr": 203626,
+      "by_word": {
+        "一个": 116726,
+        "一起": 32889,
+        "一样": 28861,
+        "一下": 27171,
+        "一直": 24551,
+        "一切": 21709,
+        "一点": 20342,
+        "一定": 20273,
+        "第一": 18192,
+        "一些": 17133,
+        "唯一": 8023
+      },
+      "by_other_char": {
+        "个": 116726,
+        "起": 32889,
+        "样": 28861,
+        "下": 27171,
+        "直": 24551,
+        "切": 21709,
+        "点": 20342,
+        "定": 20273,
+        "第": 18192,
+        "些": 17133,
+        "唯": 8023
+      },
+      "definition": "one; a, an; alone",
+      "radical": "一",
+      "pinyin": "yi1"
+    },
+    "很": {
+      "id": 23,
+      "total_fr": 215458,
+      "solo_fr": 200584,
+      "by_word": { "很多": 14874 },
+      "by_other_char": { "多": 14874 },
+      "definition": "very, quite, much",
+      "radical": "彳",
+      "pinyin": "hen3"
+    },
+    "知": {
+      "id": 24,
+      "total_fr": 196745,
+      "solo_fr": 0,
+      "by_word": { "知道": 196745 },
+      "by_other_char": { "道": 196745 },
+      "definition": "to know, to perceive, to comprehend",
+      "radical": "矢",
+      "pinyin": "zhi1"
+    },
+    "道": {
+      "id": 25,
+      "total_fr": 196745,
+      "solo_fr": 0,
+      "by_word": { "知道": 196745 },
+      "by_other_char": { "知": 196745 },
+      "definition": "method, way; path, road",
+      "radical": "辶",
+      "pinyin": "dao4"
+    },
+    "人": {
+      "id": 26,
+      "total_fr": 250390,
+      "solo_fr": 194914,
+      "by_word": {
+        "女人": 14388,
+        "别人": 11613,
+        "男人": 11608,
+        "有人": 9877,
+        "人们": 7990
+      },
+      "by_other_char": {
+        "女": 14388,
+        "别": 11613,
+        "男": 11608,
+        "有": 9877,
+        "们": 7990
+      },
+      "definition": "man, person; people",
+      "radical": "人",
+      "pinyin": "ren2"
+    },
+    "吧": {
+      "id": 27,
+      "total_fr": 194084,
+      "solo_fr": 194084,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "emphatic final particle",
+      "radical": "口",
+      "pinyin": "ba1/ba5/bia1"
+    },
+    "那": {
+      "id": 28,
+      "total_fr": 344280,
+      "solo_fr": 190087,
+      "by_word": {
+        "那么": 41794,
+        "那个": 41417,
+        "那些": 26450,
+        "那样": 17495,
+        "那里": 16783,
+        "那儿": 10254
+      },
+      "by_other_char": {
+        "么": 41794,
+        "个": 41417,
+        "些": 26450,
+        "样": 17495,
+        "里": 16783,
+        "儿": 10254
+      },
+      "definition": "that, that one, those",
+      "radical": "阝",
+      "pinyin": "na3/na4/nuo2"
+    },
+    "来": {
+      "id": 29,
+      "total_fr": 327713,
+      "solo_fr": 185154,
+      "by_word": {
+        "起来": 37205,
+        "回来": 22423,
+        "出来": 20938,
+        "过来": 16223,
+        "下来": 12748,
+        "来说": 10026,
+        "从来": 8581,
+        "看来": 7416,
+        "进来": 6999
+      },
+      "by_other_char": {
+        "起": 37205,
+        "回": 22423,
+        "出": 20938,
+        "过": 16223,
+        "下": 12748,
+        "说": 10026,
+        "从": 8581,
+        "看": 7416,
+        "进": 6999
+      },
+      "definition": "to arrive, to come, to return; in the future, later on",
+      "radical": "木",
+      "pinyin": "lai2"
+    },
+    "都": {
+      "id": 30,
+      "total_fr": 177619,
+      "solo_fr": 177619,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "all, each, entirely, whole; metropolis; capital",
+      "radical": "阝",
+      "pinyin": "dou1/du1"
+    },
+    "个": {
+      "id": 31,
+      "total_fr": 432791,
+      "solo_fr": 173905,
+      "by_word": { "一个": 116726, "这个": 92058, "那个": 41417, "每个": 8685 },
+      "by_other_char": { "一": 116726, "这": 92058, "那": 41417, "每": 8685 },
+      "definition": "this, that; single; measure word for individuals",
+      "radical": "丨",
+      "pinyin": "ge4"
+    },
+    "能": {
+      "id": 32,
+      "total_fr": 220099,
+      "solo_fr": 166656,
+      "by_word": { "可能": 44424, "不能": 9019 },
+      "by_other_char": { "可": 44424, "不": 9019 },
+      "definition": "can, may; capable, full of energy",
+      "radical": "⺼",
+      "pinyin": "neng2"
+    },
+    "去": {
+      "id": 33,
+      "total_fr": 203823,
+      "solo_fr": 163054,
+      "by_word": { "过去": 13485, "出去": 11524, "回去": 7993, "下去": 7767 },
+      "by_other_char": { "过": 13485, "出": 11524, "回": 7993, "下": 7767 },
+      "definition": "to go away, to leave, to depart",
+      "radical": "厶",
+      "pinyin": "qu4"
+    },
+    "没": {
+      "id": 34,
+      "total_fr": 277197,
+      "solo_fr": 159508,
+      "by_word": { "没有": 108237, "没什么": 9452 },
+      "by_other_char": { "有": 108237, "什": 9452, "么": 9452 },
+      "definition": "not, none, gone; to bury; to sink, to drown",
+      "radical": "氵",
+      "pinyin": "mei2/mo4"
+    },
+    "和": {
+      "id": 35,
+      "total_fr": 150418,
+      "solo_fr": 150418,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "harmony, peace; calm, peaceful",
+      "radical": "口",
+      "pinyin": "he2/he4/hu2/huo2/huo4"
+    },
+    "到": {
+      "id": 36,
+      "total_fr": 220083,
+      "solo_fr": 139534,
+      "by_word": {
+        "看到": 26783,
+        "找到": 22128,
+        "得到": 11188,
+        "见到": 10317,
+        "到底": 10133
+      },
+      "by_other_char": {
+        "看": 26783,
+        "找": 22128,
+        "得": 11188,
+        "见": 10317,
+        "底": 10133
+      },
+      "definition": "to go to, to arrive",
+      "radical": "刂",
+      "pinyin": "dao4"
+    },
+    "对": {
+      "id": 37,
+      "total_fr": 153353,
+      "solo_fr": 132805,
+      "by_word": { "对不起": 20548 },
+      "by_other_char": { "不": 20548, "起": 20548 },
+      "definition": "correct, right; facing, opposed",
+      "radical": "寸",
+      "pinyin": "dui4"
+    },
+    "也": {
+      "id": 38,
+      "total_fr": 157884,
+      "solo_fr": 131801,
+      "by_word": { "也许": 26083 },
+      "by_other_char": { "许": 26083 },
+      "definition": "also, too",
+      "radical": "乚",
+      "pinyin": "ye3"
+    },
+    "啊": {
+      "id": 39,
+      "total_fr": 130963,
+      "solo_fr": 130963,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "ah, exclamatory particle",
+      "radical": "口",
+      "pinyin": "a1/a2/a3/a4/a5"
+    },
+    "还": {
+      "id": 40,
+      "total_fr": 186256,
+      "solo_fr": 130326,
+      "by_word": { "还有": 35932, "还是": 19998 },
+      "by_other_char": { "有": 35932, "是": 19998 },
+      "definition": "also, besides; still, yet; to return",
+      "radical": "辶",
+      "pinyin": "hai2/huan2"
+    },
+    "把": {
+      "id": 41,
+      "total_fr": 124534,
+      "solo_fr": 124534,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to grasp, to hold; to guard, to take; handle",
+      "radical": "扌",
+      "pinyin": "ba3/ba4"
+    },
+    "让": {
+      "id": 42,
+      "total_fr": 123809,
+      "solo_fr": 123809,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to allow, to permit, to yield",
+      "radical": "讠",
+      "pinyin": "rang4"
+    },
+    "做": {
+      "id": 43,
+      "total_fr": 122364,
+      "solo_fr": 122364,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to work, to make; to act",
+      "radical": "亻",
+      "pinyin": "zuo4"
+    },
+    "给": {
+      "id": 44,
+      "total_fr": 117218,
+      "solo_fr": 117218,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to give, to lend; for, by",
+      "radical": "纟",
+      "pinyin": "gei3/ji3"
+    },
+    "上": {
+      "id": 45,
+      "total_fr": 156191,
+      "solo_fr": 114371,
+      "by_word": { "上帝": 14605, "马上": 10413, "晚上": 9574, "身上": 7228 },
+      "by_other_char": { "帝": 14605, "马": 10413, "晚": 9574, "身": 7228 },
+      "definition": "above, on top, superior; to go up; to attend; previous",
+      "radical": "一",
+      "pinyin": "shang3/shang4"
+    },
+    "过": {
+      "id": 46,
+      "total_fr": 165429,
+      "solo_fr": 112388,
+      "by_word": { "不过": 23333, "过来": 16223, "过去": 13485 },
+      "by_other_char": { "不": 23333, "来": 16223, "去": 13485 },
+      "definition": "pass; to go across, to pass through",
+      "radical": "辶",
+      "pinyin": "guo4/guo5"
+    },
+    "得": {
+      "id": 47,
+      "total_fr": 181322,
+      "solo_fr": 105189,
+      "by_word": { "觉得": 51047, "记得": 13898, "得到": 11188 },
+      "by_other_char": { "觉": 51047, "记": 13898, "到": 11188 },
+      "definition": "to obtain, to get, to acquire; suitable, proper; ready",
+      "radical": "彳",
+      "pinyin": "de2/de5/dei3"
+    },
+    "看": {
+      "id": 48,
+      "total_fr": 196825,
+      "solo_fr": 102546,
+      "by_word": { "看到": 26783, "看看": 24319, "看见": 11442, "看来": 7416 },
+      "by_other_char": { "到": 26783, "看": 48638, "见": 11442, "来": 7416 },
+      "definition": "to look, to see; to examine, to scrutinize",
+      "radical": "目",
+      "pinyin": "kan1/kan4"
+    },
+    "真": {
+      "id": 49,
+      "total_fr": 120094,
+      "solo_fr": 102445,
+      "by_word": { "真是": 10559, "真正": 7090 },
+      "by_other_char": { "是": 10559, "正": 7090 },
+      "definition": "real, actual, true, genuine",
+      "radical": "目",
+      "pinyin": "zhen1"
+    },
+    "着": {
+      "id": 50,
+      "total_fr": 100091,
+      "solo_fr": 100091,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to make a move, to take action",
+      "radical": "目",
+      "pinyin": "zhao1/zhao2/zhe5/zhuo2"
+    },
+    "事": {
+      "id": 51,
+      "total_fr": 125891,
+      "solo_fr": 97715,
+      "by_word": { "事情": 28176 },
+      "by_other_char": { "情": 28176 },
+      "definition": "affair, matter, business; to serve; accident, incident",
+      "radical": "亅",
+      "pinyin": "shi4"
+    },
+    "怎": {
+      "id": 52,
+      "total_fr": 119681,
+      "solo_fr": 0,
+      "by_word": { "怎么": 89166, "怎么样": 20986, "怎样": 9529 },
+      "by_other_char": { "么": 110152, "样": 30515 },
+      "definition": "what? why? how?",
+      "radical": "心",
+      "pinyin": "zen3"
+    },
+    "现": {
+      "id": 53,
+      "total_fr": 122298,
+      "solo_fr": 0,
+      "by_word": { "现在": 88120, "发现": 19774, "出现": 7322, "表现": 7082 },
+      "by_other_char": { "在": 88120, "发": 19774, "出": 7322, "表": 7082 },
+      "definition": "to appear, to manifest; current, now",
+      "radical": "王",
+      "pinyin": "xian4"
+    },
+    "可": {
+      "id": 54,
+      "total_fr": 181484,
+      "solo_fr": 46123,
+      "by_word": { "可以": 79198, "可能": 44424, "可是": 11739 },
+      "by_other_char": { "以": 79198, "能": 44424, "是": 11739 },
+      "definition": "may, can, -able; possibly",
+      "radical": "口",
+      "pinyin": "ke3/ke4"
+    },
+    "以": {
+      "id": 55,
+      "total_fr": 166966,
+      "solo_fr": 13083,
+      "by_word": {
+        "可以": 79198,
+        "所以": 37014,
+        "以为": 16582,
+        "以前": 12391,
+        "以后": 8698
+      },
+      "by_other_char": {
+        "可": 79198,
+        "所": 37014,
+        "为": 16582,
+        "前": 12391,
+        "后": 8698
+      },
+      "definition": "according to; so as to; because of; then",
+      "radical": "人",
+      "pinyin": "yi3/Yi3"
+    },
+    "点": {
+      "id": 56,
+      "total_fr": 98007,
+      "solo_fr": 77665,
+      "by_word": { "一点": 20342 },
+      "by_other_char": { "一": 20342 },
+      "definition": "dot, point, speck",
+      "radical": "灬",
+      "pinyin": "dian3"
+    },
+    "呢": {
+      "id": 57,
+      "total_fr": 76752,
+      "solo_fr": 76752,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "wool; interrogative or emphatic final particle",
+      "radical": "口",
+      "pinyin": "ne5/ni2"
+    },
+    "如": {
+      "id": 58,
+      "total_fr": 95601,
+      "solo_fr": 0,
+      "by_word": { "如果": 76417, "如何": 10879, "如此": 8305 },
+      "by_other_char": { "果": 76417, "何": 10879, "此": 8305 },
+      "definition": "as, as if, like, such as, supposing",
+      "radical": "女",
+      "pinyin": "ru2"
+    },
+    "果": {
+      "id": 59,
+      "total_fr": 83502,
+      "solo_fr": 0,
+      "by_word": { "如果": 76417, "结果": 7085 },
+      "by_other_char": { "如": 76417, "结": 7085 },
+      "definition": "fruit, nut; result",
+      "radical": "木",
+      "pinyin": "guo3"
+    },
+    "只": {
+      "id": 60,
+      "total_fr": 104147,
+      "solo_fr": 72698,
+      "by_word": { "只是": 21213, "只要": 10236 },
+      "by_other_char": { "是": 21213, "要": 10236 },
+      "definition": "only, merely, just",
+      "radical": "口",
+      "pinyin": "zhi3/zhi1"
+    },
+    "别": {
+      "id": 61,
+      "total_fr": 88609,
+      "solo_fr": 69865,
+      "by_word": { "别人": 11613, "特别": 7131 },
+      "by_other_char": { "人": 11613, "特": 7131 },
+      "definition": "to separate, to distinguish, to classify; to leave; other; do not, must not",
+      "radical": "刂",
+      "pinyin": "bie2/bie4"
+    },
+    "哦": {
+      "id": 62,
+      "total_fr": 69380,
+      "solo_fr": 69380,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "oh? really? is that so?",
+      "radical": "口",
+      "pinyin": "e2/o2/o4/o5"
+    },
+    "但": {
+      "id": 63,
+      "total_fr": 120959,
+      "solo_fr": 68241,
+      "by_word": { "但是": 52718 },
+      "by_other_char": { "是": 52718 },
+      "definition": "only; but, however, yet, still",
+      "radical": "亻",
+      "pinyin": "dan4"
+    },
+    "被": {
+      "id": 64,
+      "total_fr": 65695,
+      "solo_fr": 65695,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "bedding; a passive particle meaning \"by\"",
+      "radical": "衤",
+      "pinyin": "bei4"
+    },
+    "走": {
+      "id": 65,
+      "total_fr": 65258,
+      "solo_fr": 65258,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to walk, to run, to flee",
+      "radical": "走",
+      "pinyin": "zou3"
+    },
+    "太": {
+      "id": 66,
+      "total_fr": 65151,
+      "solo_fr": 65151,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "very, too much; big; extreme",
+      "radical": "大",
+      "pinyin": "tai4"
+    },
+    "样": {
+      "id": 67,
+      "total_fr": 141166,
+      "solo_fr": 0,
+      "by_word": {
+        "这样": 64295,
+        "一样": 28861,
+        "怎么样": 20986,
+        "那样": 17495,
+        "怎样": 9529
+      },
+      "by_other_char": {
+        "这": 64295,
+        "一": 28861,
+        "怎": 30515,
+        "么": 20986,
+        "那": 17495
+      },
+      "definition": "form, pattern, shape, style",
+      "radical": "木",
+      "pinyin": "yang4"
+    },
+    "里": {
+      "id": 68,
+      "total_fr": 157613,
+      "solo_fr": 63276,
+      "by_word": { "这里": 53900, "那里": 16783, "哪里": 13471, "里面": 10183 },
+      "by_other_char": { "这": 53900, "那": 16783, "哪": 13471, "面": 10183 },
+      "definition": "unit of distance equal to 0.5km; village; lane",
+      "radical": "里",
+      "pinyin": "li3/Li3"
+    },
+    "跟": {
+      "id": 69,
+      "total_fr": 62979,
+      "solo_fr": 62979,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "heel; to accompany, to follow; with",
+      "radical": "足",
+      "pinyin": "gen1"
+    },
+    "告": {
+      "id": 70,
+      "total_fr": 61222,
+      "solo_fr": 0,
+      "by_word": { "告诉": 61222 },
+      "by_other_char": { "诉": 61222 },
+      "definition": "to tell, to inform, to announce; to accuse",
+      "radical": "口",
+      "pinyin": "gao4"
+    },
+    "诉": {
+      "id": 71,
+      "total_fr": 61222,
+      "solo_fr": 0,
+      "by_word": { "告诉": 61222 },
+      "by_other_char": { "告": 61222 },
+      "definition": "to accuse, to sue; to inform; to narrate",
+      "radical": "讠",
+      "pinyin": "su4"
+    },
+    "因": {
+      "id": 72,
+      "total_fr": 67652,
+      "solo_fr": 0,
+      "by_word": { "因为": 59823, "原因": 7829 },
+      "by_other_char": { "为": 59823, "原": 7829 },
+      "definition": "cause, reason; by; because",
+      "radical": "囗",
+      "pinyin": "yin1"
+    },
+    "为": {
+      "id": 73,
+      "total_fr": 226639,
+      "solo_fr": 45565,
+      "by_word": {
+        "因为": 59823,
+        "为什么": 51063,
+        "认为": 25294,
+        "为了": 18274,
+        "以为": 16582,
+        "成为": 10038
+      },
+      "by_other_char": {
+        "因": 59823,
+        "什": 51063,
+        "么": 51063,
+        "认": 25294,
+        "了": 18274,
+        "以": 16582,
+        "成": 10038
+      },
+      "definition": "to do, to act; to handle, to govern; to be",
+      "radical": "丶",
+      "pinyin": "wei2/wei4"
+    },
+    "自": {
+      "id": 74,
+      "total_fr": 57978,
+      "solo_fr": 0,
+      "by_word": { "自己": 57978 },
+      "by_other_char": { "己": 57978 },
+      "definition": "self; private, personal; from",
+      "radical": "自",
+      "pinyin": "zi4"
+    },
+    "己": {
+      "id": 75,
+      "total_fr": 57978,
+      "solo_fr": 0,
+      "by_word": { "自己": 57978 },
+      "by_other_char": { "自": 57978 },
+      "definition": "self, oneself; personal, private; 6th heavenly stem",
+      "radical": "己",
+      "pinyin": "ji3"
+    },
+    "再": {
+      "id": 76,
+      "total_fr": 67478,
+      "solo_fr": 56520,
+      "by_word": { "再见": 10958 },
+      "by_other_char": { "见": 10958 },
+      "definition": "again, twice, re-",
+      "radical": "冂",
+      "pinyin": "zai4"
+    },
+    "听": {
+      "id": 77,
+      "total_fr": 62986,
+      "solo_fr": 54888,
+      "by_word": { "听说": 8098 },
+      "by_other_char": { "说": 8098 },
+      "definition": "to hear, to listen; to understand; to obey",
+      "radical": "口",
+      "pinyin": "yin3/ting1/ting4"
+    },
+    "快": {
+      "id": 78,
+      "total_fr": 53510,
+      "solo_fr": 53510,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "speedy, rapid, quick; soon",
+      "radical": "忄",
+      "pinyin": "kuai4"
+    },
+    "谁": {
+      "id": 79,
+      "total_fr": 52782,
+      "solo_fr": 52782,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "who? whom? whose? anyone?",
+      "radical": "讠",
+      "pinyin": "shei2"
+    },
+    "多": {
+      "id": 80,
+      "total_fr": 77444,
+      "solo_fr": 52605,
+      "by_word": { "很多": 14874, "多少": 9965 },
+      "by_other_char": { "很": 14874, "少": 9965 },
+      "definition": "much, many, multi-; more than, over",
+      "radical": "夕",
+      "pinyin": "duo1"
+    },
+    "用": {
+      "id": 81,
+      "total_fr": 52436,
+      "solo_fr": 52436,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to use, to employ, to apply; use",
+      "radical": "用",
+      "pinyin": "yong4"
+    },
+    "时": {
+      "id": 82,
+      "total_fr": 118060,
+      "solo_fr": 23472,
+      "by_word": { "时候": 52176, "时间": 30703, "小时": 11709 },
+      "by_other_char": { "候": 52176, "间": 30703, "小": 11709 },
+      "definition": "time, season; period, era, age",
+      "radical": "日",
+      "pinyin": "shi2"
+    },
+    "候": {
+      "id": 83,
+      "total_fr": 52176,
+      "solo_fr": 0,
+      "by_word": { "时候": 52176 },
+      "by_other_char": { "时": 52176 },
+      "definition": "to wait, to expect; to visit; to greet",
+      "radical": "亻",
+      "pinyin": "hou4"
+    },
+    "下": {
+      "id": 84,
+      "total_fr": 99661,
+      "solo_fr": 51975,
+      "by_word": { "一下": 27171, "下来": 12748, "下去": 7767 },
+      "by_other_char": { "一": 27171, "来": 12748, "去": 7767 },
+      "definition": "below, underneath; inferior; to bring down; next",
+      "radical": "一",
+      "pinyin": "xia4"
+    },
+    "已": {
+      "id": 85,
+      "total_fr": 51772,
+      "solo_fr": 0,
+      "by_word": { "已经": 51772 },
+      "by_other_char": { "经": 51772 },
+      "definition": "already; finished; to stop; then, afterwards",
+      "radical": "己",
+      "pinyin": "yi3"
+    },
+    "经": {
+      "id": 86,
+      "total_fr": 51772,
+      "solo_fr": 0,
+      "by_word": { "已经": 51772 },
+      "by_other_char": { "已": 51772 },
+      "definition": "the classics; to experience, to undergo",
+      "radical": "纟",
+      "pinyin": "jing1"
+    },
+    "谢": {
+      "id": 87,
+      "total_fr": 111774,
+      "solo_fr": 0,
+      "by_word": { "谢谢": 51457, "感谢": 8860 },
+      "by_other_char": { "谢": 102914, "感": 8860 },
+      "definition": "to thank; to refuse politely",
+      "radical": "讠",
+      "pinyin": "xie4"
+    },
+    "觉": {
+      "id": 88,
+      "total_fr": 72362,
+      "solo_fr": 0,
+      "by_word": { "觉得": 51047, "感觉": 21315 },
+      "by_other_char": { "得": 51047, "感": 21315 },
+      "definition": "conscious; to nap, to sleep; to wake up",
+      "radical": "见",
+      "pinyin": "jiao4/jue2"
+    },
+    "天": {
+      "id": 89,
+      "total_fr": 85518,
+      "solo_fr": 50660,
+      "by_word": { "今天": 24750, "明天": 10108 },
+      "by_other_char": { "今": 24750, "明": 10108 },
+      "definition": "sky, heaven; god, celestial",
+      "radical": "大",
+      "pinyin": "tian1"
+    },
+    "像": {
+      "id": 90,
+      "total_fr": 61443,
+      "solo_fr": 50229,
+      "by_word": { "好像": 11214 },
+      "by_other_char": { "好": 11214 },
+      "definition": "picture, image, figure; to resemble",
+      "radical": "亻",
+      "pinyin": "xiang4"
+    },
+    "它": {
+      "id": 91,
+      "total_fr": 58957,
+      "solo_fr": 49024,
+      "by_word": { "它们": 9933 },
+      "by_other_char": { "们": 9933 },
+      "definition": "it; other",
+      "radical": "宀",
+      "pinyin": "ta1"
+    },
+    "从": {
+      "id": 92,
+      "total_fr": 55894,
+      "solo_fr": 47313,
+      "by_word": { "从来": 8581 },
+      "by_other_char": { "来": 8581 },
+      "definition": "from, by, since, whence, through",
+      "radical": "人",
+      "pinyin": "cong2"
+    },
+    "先": {
+      "id": 93,
+      "total_fr": 62924,
+      "solo_fr": 16060,
+      "by_word": { "先生": 46864 },
+      "by_other_char": { "生": 46864 },
+      "definition": "first, former, previous",
+      "radical": "儿",
+      "pinyin": "xian1"
+    },
+    "生": {
+      "id": 94,
+      "total_fr": 101063,
+      "solo_fr": 0,
+      "by_word": { "先生": 46864, "发生": 22602, "生活": 15918, "医生": 15679 },
+      "by_other_char": { "先": 46864, "发": 22602, "活": 15918, "医": 15679 },
+      "definition": "life, lifetime; birth; growth",
+      "radical": "生",
+      "pinyin": "sheng1"
+    },
+    "找": {
+      "id": 95,
+      "total_fr": 68775,
+      "solo_fr": 46647,
+      "by_word": { "找到": 22128 },
+      "by_other_char": { "到": 22128 },
+      "definition": "to search for, to look for, to find; change (as in money)",
+      "radical": "扌",
+      "pinyin": "zhao3"
+    },
+    "最": {
+      "id": 96,
+      "total_fr": 61664,
+      "solo_fr": 46464,
+      "by_word": { "最后": 15200 },
+      "by_other_char": { "后": 15200 },
+      "definition": "most, extremely, exceedingly; superlative",
+      "radical": "曰",
+      "pinyin": "zui4"
+    },
+    "喜": {
+      "id": 97,
+      "total_fr": 46146,
+      "solo_fr": 0,
+      "by_word": { "喜欢": 46146 },
+      "by_other_char": { "欢": 46146 },
+      "definition": "to love; to enjoy, to be happy; joyful, glad",
+      "radical": "口",
+      "pinyin": "xi3"
+    },
+    "欢": {
+      "id": 98,
+      "total_fr": 54820,
+      "solo_fr": 0,
+      "by_word": { "喜欢": 46146, "欢迎": 8674 },
+      "by_other_char": { "喜": 46146, "迎": 8674 },
+      "definition": "happy, glad, joyful",
+      "radical": "欠",
+      "pinyin": "huan1"
+    },
+    "大": {
+      "id": 99,
+      "total_fr": 62519,
+      "solo_fr": 45061,
+      "by_word": { "大家": 17458 },
+      "by_other_char": { "家": 17458 },
+      "definition": "big, great, vast, high, deep",
+      "radical": "大",
+      "pinyin": "da4/dai4"
+    },
+    "需": {
+      "id": 100,
+      "total_fr": 44362,
+      "solo_fr": 0,
+      "by_word": { "需要": 44362 },
+      "by_other_char": { "要": 44362 },
+      "definition": "to need, to require; must",
+      "radical": "雨",
+      "pinyin": "xu1"
+    },
+    "死": {
+      "id": 101,
+      "total_fr": 51961,
+      "solo_fr": 44056,
+      "by_word": { "该死": 7905 },
+      "by_other_char": { "该": 7905 },
+      "definition": "dead; death; impassable, inflexible",
+      "radical": "歹",
+      "pinyin": "si3"
+    },
+    "次": {
+      "id": 102,
+      "total_fr": 43873,
+      "solo_fr": 43873,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "order, sequence; second, next; one after the other",
+      "radical": "欠",
+      "pinyin": "ci4"
+    },
+    "出": {
+      "id": 103,
+      "total_fr": 82568,
+      "solo_fr": 42784,
+      "by_word": { "出来": 20938, "出去": 11524, "出现": 7322 },
+      "by_other_char": { "来": 20938, "去": 11524, "现": 7322 },
+      "definition": "to go out, to send out; stand; produce",
+      "radical": "凵",
+      "pinyin": "chu1"
+    },
+    "干": {
+      "id": 104,
+      "total_fr": 41651,
+      "solo_fr": 41651,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "arid, dry; to oppose; to offend; to invade",
+      "radical": "十",
+      "pinyin": "gan1/gan4"
+    },
+    "嘿": {
+      "id": 105,
+      "total_fr": 41175,
+      "solo_fr": 41175,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "quiet, silent",
+      "radical": "口",
+      "pinyin": "hei1"
+    },
+    "话": {
+      "id": 106,
+      "total_fr": 78548,
+      "solo_fr": 39900,
+      "by_word": { "电话": 18374, "打电话": 11289, "说话": 8985 },
+      "by_other_char": { "电": 29663, "打": 11289, "说": 8985 },
+      "definition": "talk, speech; language, dialect",
+      "radical": "讠",
+      "pinyin": "hua4"
+    },
+    "而": {
+      "id": 107,
+      "total_fr": 58785,
+      "solo_fr": 39381,
+      "by_word": { "而且": 19404 },
+      "by_other_char": { "且": 19404 },
+      "definition": "and, and then, and yet; but",
+      "radical": "而",
+      "pinyin": "er2"
+    },
+    "东": {
+      "id": 108,
+      "total_fr": 38127,
+      "solo_fr": 0,
+      "by_word": { "东西": 38127 },
+      "by_other_char": { "西": 38127 },
+      "definition": "east, eastern, eastward",
+      "radical": "一",
+      "pinyin": "dong1"
+    },
+    "西": {
+      "id": 109,
+      "total_fr": 38127,
+      "solo_fr": 0,
+      "by_word": { "东西": 38127 },
+      "by_other_char": { "东": 38127 },
+      "definition": "west, western, westward",
+      "radical": "西",
+      "pinyin": "Xi1/xi1"
+    },
+    "应": {
+      "id": 110,
+      "total_fr": 37811,
+      "solo_fr": 0,
+      "by_word": { "应该": 37811 },
+      "by_other_char": { "该": 37811 },
+      "definition": "should, must; to respond, to handle; to deal with, to cope",
+      "radical": "广",
+      "pinyin": "ying1/ying4"
+    },
+    "该": {
+      "id": 111,
+      "total_fr": 79885,
+      "solo_fr": 34169,
+      "by_word": { "应该": 37811, "该死": 7905 },
+      "by_other_char": { "应": 37811, "死": 7905 },
+      "definition": "should, ought to, must",
+      "radical": "讠",
+      "pinyin": "gai1"
+    },
+    "孩": {
+      "id": 112,
+      "total_fr": 50440,
+      "solo_fr": 0,
+      "by_word": { "孩子": 37243, "女孩": 13197 },
+      "by_other_char": { "子": 37243, "女": 13197 },
+      "definition": "baby, child; children",
+      "radical": "子",
+      "pinyin": "hai2"
+    },
+    "子": {
+      "id": 113,
+      "total_fr": 56566,
+      "solo_fr": 0,
+      "by_word": { "孩子": 37243, "儿子": 11100, "房子": 8223 },
+      "by_other_char": { "孩": 37243, "儿": 11100, "房": 8223 },
+      "definition": "son, child; seed, egg; fruit; small thing",
+      "radical": "子",
+      "pinyin": "zi3/zi5"
+    },
+    "起": {
+      "id": 114,
+      "total_fr": 110873,
+      "solo_fr": 20231,
+      "by_word": { "起来": 37205, "一起": 32889, "对不起": 20548 },
+      "by_other_char": { "来": 37205, "一": 32889, "对": 20548, "不": 20548 },
+      "definition": "to begin, to initiate; to rise, to stand up",
+      "radical": "走",
+      "pinyin": "qi3"
+    },
+    "所": {
+      "id": 115,
+      "total_fr": 84478,
+      "solo_fr": 19715,
+      "by_word": { "所以": 37014, "所有": 27749 },
+      "by_other_char": { "以": 37014, "有": 27749 },
+      "definition": "place, location; \"that which\", a particle introducing a passive clause",
+      "radical": "户",
+      "pinyin": "suo3"
+    },
+    "些": {
+      "id": 116,
+      "total_fr": 110493,
+      "solo_fr": 21286,
+      "by_word": { "这些": 36735, "那些": 26450, "一些": 17133, "有些": 8889 },
+      "by_other_char": { "这": 36735, "那": 26450, "一": 17133, "有": 8889 },
+      "definition": "little, few; rather, somewhat",
+      "radical": "二",
+      "pinyin": "xie1"
+    },
+    "才": {
+      "id": 117,
+      "total_fr": 36716,
+      "solo_fr": 36716,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "ability, talent, gift; just, only",
+      "radical": "扌",
+      "pinyin": "cai2"
+    },
+    "两": {
+      "id": 118,
+      "total_fr": 36580,
+      "solo_fr": 36580,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "two, both, pair, couple; ounce",
+      "radical": "一",
+      "pinyin": "liang3"
+    },
+    "错": {
+      "id": 119,
+      "total_fr": 55096,
+      "solo_fr": 36166,
+      "by_word": { "不错": 18930 },
+      "by_other_char": { "不": 18930 },
+      "definition": "error, mistake; incorrect, wrong",
+      "radical": "钅",
+      "pinyin": "cuo4"
+    },
+    "又": {
+      "id": 120,
+      "total_fr": 35561,
+      "solo_fr": 35561,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "and, also, again, in addition",
+      "radical": "又",
+      "pinyin": "you4"
+    },
+    "小": {
+      "id": 121,
+      "total_fr": 62121,
+      "solo_fr": 34967,
+      "by_word": { "小时": 11709, "小姐": 8423, "小心": 7022 },
+      "by_other_char": { "时": 11709, "姐": 8423, "心": 7022 },
+      "definition": "small, tiny, insignificant",
+      "radical": "小",
+      "pinyin": "xiao3"
+    },
+    "中": {
+      "id": 122,
+      "total_fr": 34862,
+      "solo_fr": 34862,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "central; center, middle; amidst; to hit (target), to attain; China; Chinese",
+      "radical": "丨",
+      "pinyin": "Zhong1/zhong1/zhong4"
+    },
+    "叫": {
+      "id": 123,
+      "total_fr": 34648,
+      "solo_fr": 34648,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "cry, shout; to call, to greet, to hail",
+      "radical": "口",
+      "pinyin": "jiao4"
+    },
+    "嗯": {
+      "id": 124,
+      "total_fr": 34639,
+      "solo_fr": 34639,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "interjection indicating agreement or appreciation",
+      "radical": "口",
+      "pinyin": "en1/en4/en5"
+    },
+    "等": {
+      "id": 125,
+      "total_fr": 65858,
+      "solo_fr": 34016,
+      "by_word": { "等等": 15921 },
+      "by_other_char": { "等": 31842 },
+      "definition": "rank, grade; same, equal; to wait",
+      "radical": "⺮",
+      "pinyin": "deng3"
+    },
+    "问": {
+      "id": 126,
+      "total_fr": 53819,
+      "solo_fr": 20455,
+      "by_word": { "问题": 33364 },
+      "by_other_char": { "题": 33364 },
+      "definition": "to ask about, to inquire after",
+      "radical": "门",
+      "pinyin": "wen4"
+    },
+    "题": {
+      "id": 127,
+      "total_fr": 33364,
+      "solo_fr": 0,
+      "by_word": { "问题": 33364 },
+      "by_other_char": { "问": 33364 },
+      "definition": "forehead; headline, title; theme",
+      "radical": "页",
+      "pinyin": "ti2"
+    },
+    "拿": {
+      "id": 128,
+      "total_fr": 32361,
+      "solo_fr": 32361,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to bring, to grasp, to hold, to take",
+      "radical": "手",
+      "pinyin": "na2"
+    },
+    "更": {
+      "id": 129,
+      "total_fr": 32253,
+      "solo_fr": 32253,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "more, further; to shift, to alternate; to modify",
+      "radical": "曰",
+      "pinyin": "geng1/geng4"
+    },
+    "开": {
+      "id": 130,
+      "total_fr": 79867,
+      "solo_fr": 27382,
+      "by_word": { "开始": 32126, "离开": 20359 },
+      "by_other_char": { "始": 32126, "离": 20359 },
+      "definition": "to open; to start, to initiate, to begin",
+      "radical": "廾",
+      "pinyin": "kai1"
+    },
+    "始": {
+      "id": 131,
+      "total_fr": 32126,
+      "solo_fr": 0,
+      "by_word": { "开始": 32126 },
+      "by_other_char": { "开": 32126 },
+      "definition": "to begin, to start; beginning",
+      "radical": "女",
+      "pinyin": "shi3"
+    },
+    "帮": {
+      "id": 132,
+      "total_fr": 41826,
+      "solo_fr": 31793,
+      "by_word": { "帮助": 10033 },
+      "by_other_char": { "助": 10033 },
+      "definition": "to help, to assist; to support, to defend; party; gang",
+      "radical": "巾",
+      "pinyin": "bang1"
+    },
+    "打": {
+      "id": 133,
+      "total_fr": 49827,
+      "solo_fr": 31223,
+      "by_word": { "打电话": 11289, "打算": 7315 },
+      "by_other_char": { "电": 11289, "话": 11289, "算": 7315 },
+      "definition": "to attack, to beat, to hit, to strike",
+      "radical": "扌",
+      "pinyin": "da2/da3"
+    },
+    "爱": {
+      "id": 134,
+      "total_fr": 43905,
+      "solo_fr": 31122,
+      "by_word": { "亲爱": 12783 },
+      "by_other_char": { "亲": 12783 },
+      "definition": "to love, to like, to be fond of; love, affection",
+      "radical": "爫",
+      "pinyin": "ai4"
+    },
+    "带": {
+      "id": 135,
+      "total_fr": 31069,
+      "solo_fr": 31069,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "belt, strap; band, ribbon; area, zone; to carry, to raise, to wear",
+      "radical": "巾",
+      "pinyin": "dai4"
+    },
+    "间": {
+      "id": 136,
+      "total_fr": 37911,
+      "solo_fr": 0,
+      "by_word": { "时间": 30703, "房间": 7208 },
+      "by_other_char": { "时": 30703, "房": 7208 },
+      "definition": "between, among; midpoint; space, place, locality",
+      "radical": "门",
+      "pinyin": "jian1/jian4"
+    },
+    "年": {
+      "id": 137,
+      "total_fr": 30648,
+      "solo_fr": 30648,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "year; anniversary; a person's age",
+      "radical": "干",
+      "pinyin": "nian2"
+    },
+    "请": {
+      "id": 138,
+      "total_fr": 30598,
+      "solo_fr": 30598,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to ask, to request; to invite; please",
+      "radical": "讠",
+      "pinyin": "qing3"
+    },
+    "回": {
+      "id": 139,
+      "total_fr": 70035,
+      "solo_fr": 30259,
+      "by_word": { "回来": 22423, "回家": 9360, "回去": 7993 },
+      "by_other_char": { "来": 22423, "家": 9360, "去": 7993 },
+      "definition": "to return, to turn around; a time",
+      "radical": "囗",
+      "pinyin": "hui2"
+    },
+    "工": {
+      "id": 140,
+      "total_fr": 30191,
+      "solo_fr": 0,
+      "by_word": { "工作": 30191 },
+      "by_other_char": { "作": 30191 },
+      "definition": "labor, work; laborer, worker",
+      "radical": "工",
+      "pinyin": "gong1"
+    },
+    "作": {
+      "id": 141,
+      "total_fr": 30191,
+      "solo_fr": 0,
+      "by_word": { "工作": 30191 },
+      "by_other_char": { "工": 30191 },
+      "definition": "to make; to write, to compose; to act, to perform",
+      "radical": "亻",
+      "pinyin": "zuo1/zuo4"
+    },
+    "然": {
+      "id": 142,
+      "total_fr": 56065,
+      "solo_fr": 0,
+      "by_word": { "然后": 29752, "当然": 26313 },
+      "by_other_char": { "后": 29752, "当": 26313 },
+      "definition": "certainly; naturally; suddenly",
+      "radical": "灬",
+      "pinyin": "ran2"
+    },
+    "后": {
+      "id": 143,
+      "total_fr": 86767,
+      "solo_fr": 22018,
+      "by_word": { "然后": 29752, "最后": 15200, "之后": 11099, "以后": 8698 },
+      "by_other_char": { "然": 29752, "最": 15200, "之": 11099, "以": 8698 },
+      "definition": "after; behind, rear; descendants",
+      "radical": "口",
+      "pinyin": "hou4"
+    },
+    "当": {
+      "id": 144,
+      "total_fr": 55932,
+      "solo_fr": 29619,
+      "by_word": { "当然": 26313 },
+      "by_other_char": { "然": 26313 },
+      "definition": "appropriate, timely; to act, to serve; the sound of bells",
+      "radical": "⺌",
+      "pinyin": "dang1/dang4"
+    },
+    "见": {
+      "id": 145,
+      "total_fr": 62057,
+      "solo_fr": 29340,
+      "by_word": { "看见": 11442, "再见": 10958, "见到": 10317 },
+      "by_other_char": { "看": 11442, "再": 10958, "到": 10317 },
+      "definition": "to see, to observe, to meet, to appear",
+      "radical": "见",
+      "pinyin": "jian4/xian4"
+    },
+    "钱": {
+      "id": 146,
+      "total_fr": 29221,
+      "solo_fr": 29221,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "money, currency, coins",
+      "radical": "钅",
+      "pinyin": "qian2"
+    },
+    "噢": {
+      "id": 147,
+      "total_fr": 29190,
+      "solo_fr": 29190,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to moan; interjection indicating pain or sadness",
+      "radical": "口",
+      "pinyin": "o1"
+    },
+    "情": {
+      "id": 148,
+      "total_fr": 38849,
+      "solo_fr": 0,
+      "by_word": { "事情": 28176, "情况": 10673 },
+      "by_other_char": { "事": 28176, "况": 10673 },
+      "definition": "emotion, feeling, sentiment",
+      "radical": "忄",
+      "pinyin": "qing2"
+    },
+    "吃": {
+      "id": 149,
+      "total_fr": 27913,
+      "solo_fr": 27913,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to eat; to drink; to suffer, to endure, to bear",
+      "radical": "口",
+      "pinyin": "chi1"
+    },
+    "家": {
+      "id": 150,
+      "total_fr": 67690,
+      "solo_fr": 27026,
+      "by_word": { "大家": 17458, "家伙": 13846, "回家": 9360 },
+      "by_other_char": { "大": 17458, "伙": 13846, "回": 9360 },
+      "definition": "house, home, residence; family",
+      "radical": "宀",
+      "pinyin": "jia1"
+    },
+    "非": {
+      "id": 151,
+      "total_fr": 26976,
+      "solo_fr": 0,
+      "by_word": { "非常": 26976 },
+      "by_other_char": { "常": 26976 },
+      "definition": "not, negative, non-; to oppose",
+      "radical": "非",
+      "pinyin": "Fei1/fei1"
+    },
+    "常": {
+      "id": 152,
+      "total_fr": 26976,
+      "solo_fr": 0,
+      "by_word": { "非常": 26976 },
+      "by_other_char": { "非": 26976 },
+      "definition": "common, general, normal; always, frequently, regularly",
+      "radical": "巾",
+      "pinyin": "chang2"
+    },
+    "希": {
+      "id": 153,
+      "total_fr": 26658,
+      "solo_fr": 0,
+      "by_word": { "希望": 26658 },
+      "by_other_char": { "望": 26658 },
+      "definition": "rare; to hope for, to strive for; to expect",
+      "radical": "巾",
+      "pinyin": "xi1"
+    },
+    "望": {
+      "id": 154,
+      "total_fr": 26658,
+      "solo_fr": 0,
+      "by_word": { "希望": 26658 },
+      "by_other_char": { "希": 26658 },
+      "definition": "to expect, to hope, to look forward to",
+      "radical": "月",
+      "pinyin": "wang4"
+    },
+    "哪": {
+      "id": 155,
+      "total_fr": 54729,
+      "solo_fr": 26385,
+      "by_word": { "哪儿": 14873, "哪里": 13471 },
+      "by_other_char": { "儿": 14873, "里": 13471 },
+      "definition": "which? where? how?",
+      "radical": "口",
+      "pinyin": "na3/na5/nei3"
+    },
+    "许": {
+      "id": 156,
+      "total_fr": 34398,
+      "solo_fr": 0,
+      "by_word": { "也许": 26083, "或许": 8315 },
+      "by_other_char": { "也": 26083, "或": 8315 },
+      "definition": "to consent, to permit; to promise, to betroth",
+      "radical": "讠",
+      "pinyin": "xu3"
+    },
+    "行": {
+      "id": 157,
+      "total_fr": 26032,
+      "solo_fr": 26032,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to go, to walk, to move; professional",
+      "radical": "行",
+      "pinyin": "hang2/xing2"
+    },
+    "朋": {
+      "id": 158,
+      "total_fr": 26017,
+      "solo_fr": 0,
+      "by_word": { "朋友": 26017 },
+      "by_other_char": { "友": 26017 },
+      "definition": "friend, pal, acquaintance",
+      "radical": "月",
+      "pinyin": "peng2"
+    },
+    "友": {
+      "id": 159,
+      "total_fr": 26017,
+      "solo_fr": 0,
+      "by_word": { "朋友": 26017 },
+      "by_other_char": { "朋": 26017 },
+      "definition": "friend, companion; fraternity",
+      "radical": "又",
+      "pinyin": "you3"
+    },
+    "妈": {
+      "id": 160,
+      "total_fr": 78576,
+      "solo_fr": 18110,
+      "by_word": { "妈妈": 25730, "他妈的": 9006 },
+      "by_other_char": { "妈": 51460, "他": 9006, "的": 9006 },
+      "definition": "mother, mama",
+      "radical": "女",
+      "pinyin": "ma1"
+    },
+    "相": {
+      "id": 161,
+      "total_fr": 25699,
+      "solo_fr": 0,
+      "by_word": { "相信": 25699 },
+      "by_other_char": { "信": 25699 },
+      "definition": "mutual, reciprocal; equal; each other",
+      "radical": "目",
+      "pinyin": "xiang1/xiang4"
+    },
+    "信": {
+      "id": 162,
+      "total_fr": 33149,
+      "solo_fr": 7450,
+      "by_word": { "相信": 25699 },
+      "by_other_char": { "相": 25699 },
+      "definition": "to trust, to believe; letter, sign",
+      "radical": "亻",
+      "pinyin": "xin4"
+    },
+    "前": {
+      "id": 163,
+      "total_fr": 53191,
+      "solo_fr": 25613,
+      "by_word": { "之前": 15187, "以前": 12391 },
+      "by_other_char": { "之": 15187, "以": 12391 },
+      "definition": "in front, forward; former, preceding",
+      "radical": "刂",
+      "pinyin": "qian2"
+    },
+    "嗨": {
+      "id": 164,
+      "total_fr": 25335,
+      "solo_fr": 25335,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "an exclamation",
+      "radical": "口",
+      "pinyin": "hai1"
+    },
+    "认": {
+      "id": 165,
+      "total_fr": 39598,
+      "solo_fr": 0,
+      "by_word": { "认为": 25294, "认识": 14304 },
+      "by_other_char": { "为": 25294, "识": 14304 },
+      "definition": "to know, to recognize, to understand",
+      "radical": "讠",
+      "pinyin": "ren4"
+    },
+    "将": {
+      "id": 166,
+      "total_fr": 24946,
+      "solo_fr": 24946,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "the future, what will be; ready, prepared; a general",
+      "radical": "丬",
+      "pinyin": "jiang1/jiang4/qiang1"
+    },
+    "儿": {
+      "id": 167,
+      "total_fr": 69501,
+      "solo_fr": 0,
+      "by_word": {
+        "这儿": 24824,
+        "哪儿": 14873,
+        "儿子": 11100,
+        "那儿": 10254,
+        "女儿": 8450
+      },
+      "by_other_char": {
+        "这": 24824,
+        "哪": 14873,
+        "子": 11100,
+        "那": 10254,
+        "女": 8450
+      },
+      "definition": "son, child",
+      "radical": "儿",
+      "pinyin": "ren2/er2/r5"
+    },
+    "今": {
+      "id": 168,
+      "total_fr": 38928,
+      "solo_fr": 0,
+      "by_word": { "今天": 24750, "今晚": 14178 },
+      "by_other_char": { "天": 24750, "晚": 14178 },
+      "definition": "modern, current; today, now",
+      "radical": "人",
+      "pinyin": "jin1"
+    },
+    "明": {
+      "id": 169,
+      "total_fr": 34852,
+      "solo_fr": 0,
+      "by_word": { "明白": 24744, "明天": 10108 },
+      "by_other_char": { "白": 24744, "天": 10108 },
+      "definition": "bright, clear; to explain, to understand, to shed light",
+      "radical": "日",
+      "pinyin": "Ming2/ming2"
+    },
+    "白": {
+      "id": 170,
+      "total_fr": 24744,
+      "solo_fr": 0,
+      "by_word": { "明白": 24744 },
+      "by_other_char": { "明": 24744 },
+      "definition": "white; clear, pure, unblemished; bright",
+      "radical": "白",
+      "pinyin": "bai2"
+    },
+    "直": {
+      "id": 171,
+      "total_fr": 24551,
+      "solo_fr": 0,
+      "by_word": { "一直": 24551 },
+      "by_other_char": { "一": 24551 },
+      "definition": "straight, vertical; candid, direct, frank",
+      "radical": "目",
+      "pinyin": "zhi2"
+    },
+    "车": {
+      "id": 172,
+      "total_fr": 23974,
+      "solo_fr": 23974,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "cart, vehicle; to move in a cart",
+      "radical": "车",
+      "pinyin": "che1/ju1"
+    },
+    "杀": {
+      "id": 173,
+      "total_fr": 23405,
+      "solo_fr": 23405,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to kill, to murder, to slaughter; to hurt",
+      "radical": "木",
+      "pinyin": "sha1"
+    },
+    "地": {
+      "id": 174,
+      "total_fr": 41367,
+      "solo_fr": 18009,
+      "by_word": { "地方": 23358 },
+      "by_other_char": { "方": 23358 },
+      "definition": "earth, ground, soil; land, region; structural particle used before a verb",
+      "radical": "土",
+      "pinyin": "de5/di4"
+    },
+    "方": {
+      "id": 175,
+      "total_fr": 23358,
+      "solo_fr": 0,
+      "by_word": { "地方": 23358 },
+      "by_other_char": { "地": 23358 },
+      "definition": "square, rectangle; side; region; flag",
+      "radical": "方",
+      "pinyin": "fang1"
+    },
+    "呃": {
+      "id": 176,
+      "total_fr": 22734,
+      "solo_fr": 22734,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "belch; hiccup",
+      "radical": "口",
+      "pinyin": "e4"
+    },
+    "发": {
+      "id": 177,
+      "total_fr": 42376,
+      "solo_fr": 0,
+      "by_word": { "发生": 22602, "发现": 19774 },
+      "by_other_char": { "生": 22602, "现": 19774 },
+      "definition": "to issue, to dispatch, to send out; hair",
+      "radical": "又",
+      "pinyin": "fa1/fa4"
+    },
+    "几": {
+      "id": 178,
+      "total_fr": 22431,
+      "solo_fr": 22431,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "small table; how many; a few, some",
+      "radical": "几",
+      "pinyin": "ji1/ji3"
+    },
+    "准": {
+      "id": 179,
+      "total_fr": 22202,
+      "solo_fr": 0,
+      "by_word": { "准备": 22202 },
+      "by_other_char": { "备": 22202 },
+      "definition": "standard, accurate; to permit, to approve, to allow",
+      "radical": "冫",
+      "pinyin": "zhun3"
+    },
+    "备": {
+      "id": 180,
+      "total_fr": 22202,
+      "solo_fr": 0,
+      "by_word": { "准备": 22202 },
+      "by_other_char": { "准": 22202 },
+      "definition": "to prepare; to get ready, to equip; ready; perfect",
+      "radical": "夂",
+      "pinyin": "bei4"
+    },
+    "爸": {
+      "id": 181,
+      "total_fr": 53014,
+      "solo_fr": 9154,
+      "by_word": { "爸爸": 21930 },
+      "by_other_char": { "爸": 43860 },
+      "definition": "father, papa",
+      "radical": "父",
+      "pinyin": "ba4"
+    },
+    "切": {
+      "id": 182,
+      "total_fr": 21709,
+      "solo_fr": 0,
+      "by_word": { "一切": 21709 },
+      "by_other_char": { "一": 21709 },
+      "definition": "to cut, to mince, to slice, to carve; close to; eager",
+      "radical": "刀",
+      "pinyin": "qie1/qie4"
+    },
+    "抱": {
+      "id": 183,
+      "total_fr": 21563,
+      "solo_fr": 0,
+      "by_word": { "抱歉": 21563 },
+      "by_other_char": { "歉": 21563 },
+      "definition": "to embrace, to hold in one's arms; to enfold",
+      "radical": "扌",
+      "pinyin": "bao4"
+    },
+    "歉": {
+      "id": 184,
+      "total_fr": 21563,
+      "solo_fr": 0,
+      "by_word": { "抱歉": 21563 },
+      "by_other_char": { "抱": 21563 },
+      "definition": "deficient, lacking; to apologize, to regret, to be sorry",
+      "radical": "欠",
+      "pinyin": "qian4"
+    },
+    "比": {
+      "id": 185,
+      "total_fr": 32097,
+      "solo_fr": 21371,
+      "by_word": { "比赛": 10726 },
+      "by_other_char": { "赛": 10726 },
+      "definition": "to compare, liken; comparison; than",
+      "radical": "比",
+      "pinyin": "Bi3/bi1/bi3/bi4"
+    },
+    "感": {
+      "id": 186,
+      "total_fr": 30175,
+      "solo_fr": 0,
+      "by_word": { "感觉": 21315, "感谢": 8860 },
+      "by_other_char": { "觉": 21315, "谢": 8860 },
+      "definition": "to affect, to move, to touch; to perceive, to sense",
+      "radical": "心",
+      "pinyin": "gan3"
+    },
+    "离": {
+      "id": 187,
+      "total_fr": 20359,
+      "solo_fr": 0,
+      "by_word": { "离开": 20359 },
+      "by_other_char": { "开": 20359 },
+      "definition": "rare beast; strange; elegant",
+      "radical": "禸",
+      "pinyin": "chi1/li2"
+    },
+    "定": {
+      "id": 188,
+      "total_fr": 67772,
+      "solo_fr": 8761,
+      "by_word": { "一定": 20273, "肯定": 18531, "决定": 10318, "确定": 9889 },
+      "by_other_char": { "一": 20273, "肯": 18531, "决": 10318, "确": 9889 },
+      "definition": "to decide, to fix, to settle; to order; definite, fixed, sure",
+      "radical": "宀",
+      "pinyin": "ding4"
+    },
+    "住": {
+      "id": 189,
+      "total_fr": 19602,
+      "solo_fr": 19602,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to reside, to live at, to dwell, to lodge; to stop",
+      "radical": "亻",
+      "pinyin": "zhu4"
+    },
+    "件": {
+      "id": 190,
+      "total_fr": 19568,
+      "solo_fr": 19568,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "item, matter; component, part; measure word for events",
+      "radical": "亻",
+      "pinyin": "jian4"
+    },
+    "正": {
+      "id": 191,
+      "total_fr": 26626,
+      "solo_fr": 19536,
+      "by_word": { "真正": 7090 },
+      "by_other_char": { "真": 7090 },
+      "definition": "straight, right, proper, correct, just, true",
+      "radical": "止",
+      "pinyin": "zheng1/zheng4"
+    },
+    "且": {
+      "id": 192,
+      "total_fr": 19404,
+      "solo_fr": 0,
+      "by_word": { "而且": 19404 },
+      "by_other_char": { "而": 19404 },
+      "definition": "moreover, also (post-subject); about to, will soon (pre-verb)",
+      "radical": "一",
+      "pinyin": "qie3"
+    },
+    "并": {
+      "id": 193,
+      "total_fr": 19394,
+      "solo_fr": 19394,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to combine, to annex; also, what's more",
+      "radical": "干",
+      "pinyin": "bing4"
+    },
+    "必": {
+      "id": 194,
+      "total_fr": 19320,
+      "solo_fr": 0,
+      "by_word": { "必须": 19320 },
+      "by_other_char": { "须": 19320 },
+      "definition": "surely, certainly; must; will",
+      "radical": "心",
+      "pinyin": "bi4"
+    },
+    "须": {
+      "id": 195,
+      "total_fr": 19320,
+      "solo_fr": 0,
+      "by_word": { "必须": 19320 },
+      "by_other_char": { "必": 19320 },
+      "definition": "beard; must; necessary",
+      "radical": "彡",
+      "pinyin": "xu1"
+    },
+    "意": {
+      "id": 196,
+      "total_fr": 35559,
+      "solo_fr": 0,
+      "by_word": { "意思": 19239, "愿意": 9191, "注意": 7129 },
+      "by_other_char": { "思": 19239, "愿": 9191, "注": 7129 },
+      "definition": "thought, idea, opinion; desire, wish; meaning, intention",
+      "radical": "心",
+      "pinyin": "Yi4/yi4"
+    },
+    "思": {
+      "id": 197,
+      "total_fr": 19239,
+      "solo_fr": 0,
+      "by_word": { "意思": 19239 },
+      "by_other_char": { "意": 19239 },
+      "definition": "to think, to ponder, to consider; final particle",
+      "radical": "心",
+      "pinyin": "si1"
+    },
+    "放": {
+      "id": 198,
+      "total_fr": 19099,
+      "solo_fr": 19099,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to release, to liberate, to free",
+      "radical": "攵",
+      "pinyin": "fang4"
+    },
+    "肯": {
+      "id": 199,
+      "total_fr": 18531,
+      "solo_fr": 0,
+      "by_word": { "肯定": 18531 },
+      "by_other_char": { "定": 18531 },
+      "definition": "to agree to, to consent, to permit; ready, willing",
+      "radical": "⺼",
+      "pinyin": "ken3"
+    },
+    "电": {
+      "id": 200,
+      "total_fr": 36912,
+      "solo_fr": 0,
+      "by_word": { "电话": 18374, "打电话": 11289, "电影": 7249 },
+      "by_other_char": { "话": 29663, "打": 11289, "影": 7249 },
+      "definition": "electricity; electric; lightning",
+      "radical": "曰",
+      "pinyin": "dian4"
+    },
+    "搞": {
+      "id": 201,
+      "total_fr": 18263,
+      "solo_fr": 18263,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to do, to fix, to make, to settle",
+      "radical": "扌",
+      "pinyin": "gao3"
+    },
+    "棒": {
+      "id": 202,
+      "total_fr": 18253,
+      "solo_fr": 18253,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "stick, club; strong, smart; to hit",
+      "radical": "木",
+      "pinyin": "bang4"
+    },
+    "第": {
+      "id": 203,
+      "total_fr": 18192,
+      "solo_fr": 0,
+      "by_word": { "第一": 18192 },
+      "by_other_char": { "一": 18192 },
+      "definition": "sequence, number; grade, degree; particle prefacing an ordinal",
+      "radical": "⺮",
+      "pinyin": "di4"
+    },
+    "进": {
+      "id": 204,
+      "total_fr": 24633,
+      "solo_fr": 17634,
+      "by_word": { "进来": 6999 },
+      "by_other_char": { "来": 6999 },
+      "definition": "to advance, to make progress; to come in, to enter",
+      "radical": "辶",
+      "pinyin": "jin4"
+    },
+    "新": {
+      "id": 205,
+      "total_fr": 17291,
+      "solo_fr": 17291,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "new, recent, fresh, modern",
+      "radical": "斤",
+      "pinyin": "Xin1/xin1"
+    },
+    "您": {
+      "id": 206,
+      "total_fr": 17279,
+      "solo_fr": 17279,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "honorific for 'you'",
+      "radical": "心",
+      "pinyin": "nin2"
+    },
+    "向": {
+      "id": 207,
+      "total_fr": 17219,
+      "solo_fr": 17219,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "towards; direction, trend",
+      "radical": "口",
+      "pinyin": "xiang4"
+    },
+    "三": {
+      "id": 208,
+      "total_fr": 16916,
+      "solo_fr": 16916,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "three",
+      "radical": "一",
+      "pinyin": "san1"
+    },
+    "高": {
+      "id": 209,
+      "total_fr": 23895,
+      "solo_fr": 7415,
+      "by_word": { "高兴": 16480 },
+      "by_other_char": { "兴": 16480 },
+      "definition": "tall, lofty; high, elevated",
+      "radical": "高",
+      "pinyin": "gao1"
+    },
+    "兴": {
+      "id": 210,
+      "total_fr": 16480,
+      "solo_fr": 0,
+      "by_word": { "高兴": 16480 },
+      "by_other_char": { "高": 16480 },
+      "definition": "to thrive, to prosper, to flourish",
+      "radical": "八",
+      "pinyin": "xing1/xing4"
+    },
+    "嘛": {
+      "id": 211,
+      "total_fr": 16472,
+      "solo_fr": 16472,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "final exclamatory particle",
+      "radical": "口",
+      "pinyin": "ma5"
+    },
+    "老": {
+      "id": 212,
+      "total_fr": 16451,
+      "solo_fr": 16451,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "old, aged; experienced",
+      "radical": "老",
+      "pinyin": "lao3"
+    },
+    "位": {
+      "id": 213,
+      "total_fr": 16368,
+      "solo_fr": 16368,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "seat, throne; rank, status; position, location",
+      "radical": "亻",
+      "pinyin": "wei4"
+    },
+    "掉": {
+      "id": 214,
+      "total_fr": 16141,
+      "solo_fr": 16141,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to drop, to fall, to remove",
+      "radical": "扌",
+      "pinyin": "diao4"
+    },
+    "活": {
+      "id": 215,
+      "total_fr": 27427,
+      "solo_fr": 11509,
+      "by_word": { "生活": 15918 },
+      "by_other_char": { "生": 15918 },
+      "definition": "to exist, to live, to survive; living, working",
+      "radical": "氵",
+      "pinyin": "huo2"
+    },
+    "之": {
+      "id": 216,
+      "total_fr": 42090,
+      "solo_fr": 15804,
+      "by_word": { "之前": 15187, "之后": 11099 },
+      "by_other_char": { "前": 15187, "后": 11099 },
+      "definition": "marks preceding phrase as modifier of following phrase; it, him her, them; to go to",
+      "radical": "丿",
+      "pinyin": "zhi1"
+    },
+    "买": {
+      "id": 217,
+      "total_fr": 15766,
+      "solo_fr": 15766,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to buy, to purchase; to bribe, to persuade",
+      "radical": "大",
+      "pinyin": "mai3"
+    },
+    "种": {
+      "id": 218,
+      "total_fr": 30331,
+      "solo_fr": 15716,
+      "by_word": { "这种": 14615 },
+      "by_other_char": { "这": 14615 },
+      "definition": "race, kind, breed; seed; to plant",
+      "radical": "禾",
+      "pinyin": "zhong3/zhong4"
+    },
+    "医": {
+      "id": 219,
+      "total_fr": 15679,
+      "solo_fr": 0,
+      "by_word": { "医生": 15679 },
+      "by_other_char": { "生": 15679 },
+      "definition": "to cure, to heal, to treat; doctor; medicine",
+      "radical": "匸",
+      "pinyin": "yi1"
+    },
+    "伙": {
+      "id": 220,
+      "total_fr": 28909,
+      "solo_fr": 0,
+      "by_word": { "伙计": 15063, "家伙": 13846 },
+      "by_other_char": { "计": 15063, "家": 13846 },
+      "definition": "companion, colleague; utensils",
+      "radical": "亻",
+      "pinyin": "huo3"
+    },
+    "计": {
+      "id": 221,
+      "total_fr": 24232,
+      "solo_fr": 0,
+      "by_word": { "伙计": 15063, "计划": 9169 },
+      "by_other_char": { "伙": 15063, "划": 9169 },
+      "definition": "to calculate, to count; to plan, to reckon; plot, scheme",
+      "radical": "讠",
+      "pinyin": "ji4"
+    },
+    "手": {
+      "id": 222,
+      "total_fr": 15010,
+      "solo_fr": 15010,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "hand",
+      "radical": "手",
+      "pinyin": "shou3"
+    },
+    "任": {
+      "id": 223,
+      "total_fr": 14918,
+      "solo_fr": 0,
+      "by_word": { "任何": 14918 },
+      "by_other_char": { "何": 14918 },
+      "definition": "to trust, to rely on; to appoint; to bear; duty, office",
+      "radical": "亻",
+      "pinyin": "ren4"
+    },
+    "何": {
+      "id": 224,
+      "total_fr": 25797,
+      "solo_fr": 0,
+      "by_word": { "任何": 14918, "如何": 10879 },
+      "by_other_char": { "任": 14918, "如": 10879 },
+      "definition": "what, why, where, which, how",
+      "radical": "亻",
+      "pinyin": "he2"
+    },
+    "帝": {
+      "id": 225,
+      "total_fr": 14605,
+      "solo_fr": 0,
+      "by_word": { "上帝": 14605 },
+      "by_other_char": { "上": 14605 },
+      "definition": "supreme ruler, emperor; god",
+      "radical": "巾",
+      "pinyin": "di4"
+    },
+    "女": {
+      "id": 226,
+      "total_fr": 54922,
+      "solo_fr": 8343,
+      "by_word": { "女人": 14388, "女孩": 13197, "女士": 10544, "女儿": 8450 },
+      "by_other_char": { "人": 14388, "孩": 13197, "士": 10544, "儿": 8450 },
+      "definition": "woman, girl; female",
+      "radical": "女",
+      "pinyin": "nu:3/ru3"
+    },
+    "名": {
+      "id": 227,
+      "total_fr": 24285,
+      "solo_fr": 9950,
+      "by_word": { "名字": 14335 },
+      "by_other_char": { "字": 14335 },
+      "definition": "name; position, rank, title",
+      "radical": "口",
+      "pinyin": "ming2"
+    },
+    "字": {
+      "id": 228,
+      "total_fr": 14335,
+      "solo_fr": 0,
+      "by_word": { "名字": 14335 },
+      "by_other_char": { "名": 14335 },
+      "definition": "character, letter, symbol, word",
+      "radical": "子",
+      "pinyin": "zi4"
+    },
+    "识": {
+      "id": 229,
+      "total_fr": 14304,
+      "solo_fr": 0,
+      "by_word": { "认识": 14304 },
+      "by_other_char": { "认": 14304 },
+      "definition": "knowledge; to understand, to recognize, to know",
+      "radical": "讠",
+      "pinyin": "shi2/zhi4"
+    },
+    "坐": {
+      "id": 230,
+      "total_fr": 14204,
+      "solo_fr": 14204,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "seat; to sit; to ride, to travel by",
+      "radical": "土",
+      "pinyin": "zuo4"
+    },
+    "晚": {
+      "id": 231,
+      "total_fr": 31722,
+      "solo_fr": 7970,
+      "by_word": { "今晚": 14178, "晚上": 9574 },
+      "by_other_char": { "今": 14178, "上": 9574 },
+      "definition": "night, evening; late",
+      "radical": "日",
+      "pinyin": "wan3"
+    },
+    "其": {
+      "id": 232,
+      "total_fr": 21230,
+      "solo_fr": 0,
+      "by_word": { "其他": 14163, "其实": 7067 },
+      "by_other_char": { "他": 14163, "实": 7067 },
+      "definition": "his, her, its, their; that",
+      "radical": "八",
+      "pinyin": "qi2"
+    },
+    "喝": {
+      "id": 233,
+      "total_fr": 14004,
+      "solo_fr": 14004,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to drink; to shout, to call out",
+      "radical": "口",
+      "pinyin": "he1/he4"
+    },
+    "记": {
+      "id": 234,
+      "total_fr": 13898,
+      "solo_fr": 0,
+      "by_word": { "记得": 13898 },
+      "by_other_char": { "得": 13898 },
+      "definition": "mark, sign; to note, to record",
+      "radical": "讠",
+      "pinyin": "ji4"
+    },
+    "与": {
+      "id": 235,
+      "total_fr": 13700,
+      "solo_fr": 13700,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "and; with; to; for; to give, to grant",
+      "radical": "一",
+      "pinyin": "yu2/yu3/yu4"
+    },
+    "或": {
+      "id": 236,
+      "total_fr": 21912,
+      "solo_fr": 0,
+      "by_word": { "或者": 13597, "或许": 8315 },
+      "by_other_char": { "者": 13597, "许": 8315 },
+      "definition": "or, either, else; maybe, perhaps, possibly",
+      "radical": "戈",
+      "pinyin": "huo4"
+    },
+    "者": {
+      "id": 237,
+      "total_fr": 24984,
+      "solo_fr": 11387,
+      "by_word": { "或者": 13597 },
+      "by_other_char": { "或": 13597 },
+      "definition": "that which; they who; those who",
+      "radical": "耂",
+      "pinyin": "zhe3"
+    },
+    "写": {
+      "id": 238,
+      "total_fr": 13589,
+      "solo_fr": 13589,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to write; to draw, to sketch; to compose",
+      "radical": "冖",
+      "pinyin": "xie3"
+    },
+    "穿": {
+      "id": 239,
+      "total_fr": 13586,
+      "solo_fr": 13586,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to drill, to pierce; to dress, to wear",
+      "radical": "穴",
+      "pinyin": "chuan1"
+    },
+    "弄": {
+      "id": 240,
+      "total_fr": 13574,
+      "solo_fr": 13574,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to do; to mock, to tease; to play with",
+      "radical": "廾",
+      "pinyin": "long4/nong4"
+    },
+    "啦": {
+      "id": 241,
+      "total_fr": 13369,
+      "solo_fr": 13369,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "final particle of an assertion",
+      "radical": "口",
+      "pinyin": "la1/la5"
+    },
+    "却": {
+      "id": 242,
+      "total_fr": 13346,
+      "solo_fr": 13346,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "still, but; decline; retreat",
+      "radical": "卩",
+      "pinyin": "que4"
+    },
+    "算": {
+      "id": 243,
+      "total_fr": 20652,
+      "solo_fr": 13337,
+      "by_word": { "打算": 7315 },
+      "by_other_char": { "打": 7315 },
+      "definition": "to calculate, to count; to figure, to plan",
+      "radical": "⺮",
+      "pinyin": "suan4"
+    },
+    "担": {
+      "id": 244,
+      "total_fr": 13238,
+      "solo_fr": 0,
+      "by_word": { "担心": 13238 },
+      "by_other_char": { "心": 13238 },
+      "definition": "to bear, to carry; burden, responsibility",
+      "radical": "扌",
+      "pinyin": "dan1/dan4"
+    },
+    "心": {
+      "id": 245,
+      "total_fr": 29215,
+      "solo_fr": 8955,
+      "by_word": { "担心": 13238, "小心": 7022 },
+      "by_other_char": { "担": 13238, "小": 7022 },
+      "definition": "heart; mind; soul",
+      "radical": "心",
+      "pinyin": "xin1"
+    },
+    "继": {
+      "id": 246,
+      "total_fr": 13221,
+      "solo_fr": 0,
+      "by_word": { "继续": 13221 },
+      "by_other_char": { "续": 13221 },
+      "definition": "to continue, to carry on; to succeed, to inherit",
+      "radical": "纟",
+      "pinyin": "ji4"
+    },
+    "续": {
+      "id": 247,
+      "total_fr": 13221,
+      "solo_fr": 0,
+      "by_word": { "继续": 13221 },
+      "by_other_char": { "继": 13221 },
+      "definition": "continuous, serial",
+      "radical": "纟",
+      "pinyin": "xu4"
+    },
+    "送": {
+      "id": 248,
+      "total_fr": 13212,
+      "solo_fr": 13212,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to see off, to send off, to dispatch; to give",
+      "radical": "辶",
+      "pinyin": "song4"
+    },
+    "玩": {
+      "id": 249,
+      "total_fr": 13033,
+      "solo_fr": 13033,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to play with, to joke, to entertain",
+      "radical": "王",
+      "pinyin": "wan2"
+    },
+    "亲": {
+      "id": 250,
+      "total_fr": 25182,
+      "solo_fr": 0,
+      "by_word": { "亲爱": 12783, "父亲": 12399 },
+      "by_other_char": { "爱": 12783, "父": 12399 },
+      "definition": "relatives, parents; intimate; the hazelnut tree",
+      "radical": "立",
+      "pinyin": "qin1/qing4"
+    },
+    "成": {
+      "id": 251,
+      "total_fr": 22577,
+      "solo_fr": 12539,
+      "by_word": { "成为": 10038 },
+      "by_other_char": { "为": 10038 },
+      "definition": "to accomplish; to become; to complete, to finish; to succeed",
+      "radical": "戈",
+      "pinyin": "cheng2"
+    },
+    "条": {
+      "id": 252,
+      "total_fr": 12508,
+      "solo_fr": 12508,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "clause, condition; string, stripe",
+      "radical": "木",
+      "pinyin": "tiao2"
+    },
+    "够": {
+      "id": 253,
+      "total_fr": 12404,
+      "solo_fr": 12404,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "enough, adequate; to reach, to attain; to pass muster",
+      "radical": "夕",
+      "pinyin": "gou4"
+    },
+    "父": {
+      "id": 254,
+      "total_fr": 12399,
+      "solo_fr": 0,
+      "by_word": { "父亲": 12399 },
+      "by_other_char": { "亲": 12399 },
+      "definition": "father, dad",
+      "radical": "父",
+      "pinyin": "fu4"
+    },
+    "跑": {
+      "id": 255,
+      "total_fr": 12332,
+      "solo_fr": 12332,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to run, to flee, to escape",
+      "radical": "足",
+      "pinyin": "pao2/pao3"
+    },
+    "月": {
+      "id": 256,
+      "total_fr": 12253,
+      "solo_fr": 12253,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "moon; month",
+      "radical": "月",
+      "pinyin": "yue4"
+    },
+    "早": {
+      "id": 257,
+      "total_fr": 12185,
+      "solo_fr": 12185,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "early; soon; morning",
+      "radical": "日",
+      "pinyin": "zao3"
+    },
+    "美": {
+      "id": 258,
+      "total_fr": 19385,
+      "solo_fr": 7200,
+      "by_word": { "美国": 12185 },
+      "by_other_char": { "国": 12185 },
+      "definition": "beautiful, pretty; pleasing",
+      "radical": "羊",
+      "pinyin": "Mei3/mei3"
+    },
+    "国": {
+      "id": 259,
+      "total_fr": 12185,
+      "solo_fr": 0,
+      "by_word": { "美国": 12185 },
+      "by_other_char": { "美": 12185 },
+      "definition": "country, nation, state; national",
+      "radical": "囗",
+      "pinyin": "guo2"
+    },
+    "长": {
+      "id": 260,
+      "total_fr": 12173,
+      "solo_fr": 12173,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "long, lasting; to excel in",
+      "radical": "长",
+      "pinyin": "chang2/zhang3"
+    },
+    "完": {
+      "id": 261,
+      "total_fr": 23230,
+      "solo_fr": 11162,
+      "by_word": { "完全": 12068 },
+      "by_other_char": { "全": 12068 },
+      "definition": "to complete, to finish, to settle; whole",
+      "radical": "宀",
+      "pinyin": "wan2"
+    },
+    "全": {
+      "id": 262,
+      "total_fr": 29302,
+      "solo_fr": 7693,
+      "by_word": { "完全": 12068, "安全": 9541 },
+      "by_other_char": { "完": 12068, "安": 9541 },
+      "definition": "whole, entire, complete; to preserve",
+      "radical": "入",
+      "pinyin": "quan2"
+    },
+    "宝": {
+      "id": 263,
+      "total_fr": 11950,
+      "solo_fr": 0,
+      "by_word": { "宝贝": 11950 },
+      "by_other_char": { "贝": 11950 },
+      "definition": "treasure, jewel; rare, precious",
+      "radical": "宀",
+      "pinyin": "bao3"
+    },
+    "贝": {
+      "id": 264,
+      "total_fr": 11950,
+      "solo_fr": 0,
+      "by_word": { "宝贝": 11950 },
+      "by_other_char": { "宝": 11950 },
+      "definition": "sea shell; money, currency",
+      "radical": "贝",
+      "pinyin": "bei4"
+    },
+    "号": {
+      "id": 265,
+      "total_fr": 11862,
+      "solo_fr": 11862,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "mark, sign; symbol; number; to call, to cry, to roar",
+      "radical": "口",
+      "pinyin": "hao2/hao4"
+    },
+    "枪": {
+      "id": 266,
+      "total_fr": 11850,
+      "solo_fr": 11850,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "gun, rife; lance, spear",
+      "radical": "木",
+      "pinyin": "qiang1"
+    },
+    "狗": {
+      "id": 267,
+      "total_fr": 11808,
+      "solo_fr": 11808,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "dog",
+      "radical": "犭",
+      "pinyin": "gou3"
+    },
+    "世": {
+      "id": 268,
+      "total_fr": 11721,
+      "solo_fr": 0,
+      "by_word": { "世界": 11721 },
+      "by_other_char": { "界": 11721 },
+      "definition": "generation, era, age; world",
+      "radical": "一",
+      "pinyin": "shi4"
+    },
+    "界": {
+      "id": 269,
+      "total_fr": 11721,
+      "solo_fr": 0,
+      "by_word": { "世界": 11721 },
+      "by_other_char": { "世": 11721 },
+      "definition": "boundary, limit; domain; society, the world",
+      "radical": "田",
+      "pinyin": "jie4"
+    },
+    "重": {
+      "id": 270,
+      "total_fr": 11677,
+      "solo_fr": 0,
+      "by_word": { "重要": 11677 },
+      "by_other_char": { "要": 11677 },
+      "definition": "heavy, weighty; to double, to repeat",
+      "radical": "里",
+      "pinyin": "chong2/zhong4"
+    },
+    "谈": {
+      "id": 271,
+      "total_fr": 29293,
+      "solo_fr": 11653,
+      "by_word": { "谈谈": 8820 },
+      "by_other_char": { "谈": 17640 },
+      "definition": "to talk, to chat; conversation; surname",
+      "radical": "讠",
+      "pinyin": "tan2"
+    },
+    "男": {
+      "id": 272,
+      "total_fr": 11608,
+      "solo_fr": 0,
+      "by_word": { "男人": 11608 },
+      "by_other_char": { "人": 11608 },
+      "definition": "man, boy; male; baron; surname",
+      "radical": "田",
+      "pinyin": "nan2"
+    },
+    "头": {
+      "id": 273,
+      "total_fr": 11582,
+      "solo_fr": 11582,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "head; chief, boss; first, top",
+      "radical": "大",
+      "pinyin": "tou2/tou5"
+    },
+    "机": {
+      "id": 274,
+      "total_fr": 11571,
+      "solo_fr": 0,
+      "by_word": { "机会": 11571 },
+      "by_other_char": { "会": 11571 },
+      "definition": "desk; machine; moment, opportunity",
+      "radical": "木",
+      "pinyin": "ji1"
+    },
+    "岁": {
+      "id": 275,
+      "total_fr": 11556,
+      "solo_fr": 11556,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "year; years old, age; harvest",
+      "radical": "山",
+      "pinyin": "sui4"
+    },
+    "喂": {
+      "id": 276,
+      "total_fr": 11286,
+      "solo_fr": 11286,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "interjection used to call attention",
+      "radical": "口",
+      "pinyin": "wei2/wei4"
+    },
+    "警": {
+      "id": 277,
+      "total_fr": 11176,
+      "solo_fr": 0,
+      "by_word": { "警察": 11176 },
+      "by_other_char": { "察": 11176 },
+      "definition": "to guard, to watch; alarm, alert",
+      "radical": "言",
+      "pinyin": "jing3"
+    },
+    "察": {
+      "id": 278,
+      "total_fr": 11176,
+      "solo_fr": 0,
+      "by_word": { "警察": 11176 },
+      "by_other_char": { "警": 11176 },
+      "definition": "to examine, to investigate, to observe",
+      "radical": "宀",
+      "pinyin": "Cha2/cha2"
+    },
+    "张": {
+      "id": 279,
+      "total_fr": 11146,
+      "solo_fr": 11146,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to display; to expand, to open; to stretch; a sheet of paper",
+      "radical": "弓",
+      "pinyin": "zhang1"
+    },
+    "漂": {
+      "id": 280,
+      "total_fr": 11032,
+      "solo_fr": 0,
+      "by_word": { "漂亮": 11032 },
+      "by_other_char": { "亮": 11032 },
+      "definition": "to drift, to float; to be tossed about; bleach",
+      "radical": "氵",
+      "pinyin": "piao1/piao3/piao4"
+    },
+    "亮": {
+      "id": 281,
+      "total_fr": 11032,
+      "solo_fr": 0,
+      "by_word": { "漂亮": 11032 },
+      "by_other_char": { "漂": 11032 },
+      "definition": "bright, brilliant, radiant, light",
+      "radical": "亠",
+      "pinyin": "liang4"
+    },
+    "分": {
+      "id": 282,
+      "total_fr": 11029,
+      "solo_fr": 0,
+      "by_word": { "分钟": 11029 },
+      "by_other_char": { "钟": 11029 },
+      "definition": "to divide, to allocate; fraction; small unit of time or other quantity",
+      "radical": "刀",
+      "pinyin": "fen1/fen4"
+    },
+    "钟": {
+      "id": 283,
+      "total_fr": 11029,
+      "solo_fr": 0,
+      "by_word": { "分钟": 11029 },
+      "by_other_char": { "分": 11029 },
+      "definition": "clock; bell",
+      "radical": "钅",
+      "pinyin": "zhong1"
+    },
+    "接": {
+      "id": 284,
+      "total_fr": 18414,
+      "solo_fr": 10970,
+      "by_word": { "接受": 7444 },
+      "by_other_char": { "受": 7444 },
+      "definition": "to connect, to join; to receive, to meet, to answer the phone",
+      "radical": "扌",
+      "pinyin": "jie1"
+    },
+    "场": {
+      "id": 285,
+      "total_fr": 10963,
+      "solo_fr": 10963,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "field, open space; market, square; stage",
+      "radical": "土",
+      "pinyin": "chang2/chang3"
+    },
+    "求": {
+      "id": 286,
+      "total_fr": 10904,
+      "solo_fr": 10904,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to seek; to request, to demand; to beseech, to beg for",
+      "radical": "氺",
+      "pinyin": "qiu2"
+    },
+    "刚": {
+      "id": 287,
+      "total_fr": 10888,
+      "solo_fr": 10888,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "hard, strong, tough; just, barely",
+      "radical": "刂",
+      "pinyin": "gang1"
+    },
+    "赛": {
+      "id": 288,
+      "total_fr": 10726,
+      "solo_fr": 0,
+      "by_word": { "比赛": 10726 },
+      "by_other_char": { "比": 10726 },
+      "definition": "to compete, to contend; contest, race",
+      "radical": "贝",
+      "pinyin": "sai4"
+    },
+    "呀": {
+      "id": 289,
+      "total_fr": 10700,
+      "solo_fr": 10700,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "particle used to express surprise",
+      "radical": "口",
+      "pinyin": "ya5"
+    },
+    "况": {
+      "id": 290,
+      "total_fr": 10673,
+      "solo_fr": 0,
+      "by_word": { "情况": 10673 },
+      "by_other_char": { "情": 10673 },
+      "definition": "condition, situation; furthermore",
+      "radical": "冫",
+      "pinyin": "kuang4"
+    },
+    "变": {
+      "id": 291,
+      "total_fr": 18014,
+      "solo_fr": 10580,
+      "by_word": { "改变": 7434 },
+      "by_other_char": { "改": 7434 },
+      "definition": "to change, to transform, to alter; rebel",
+      "radical": "又",
+      "pinyin": "bian4"
+    },
+    "关": {
+      "id": 292,
+      "total_fr": 20833,
+      "solo_fr": 0,
+      "by_word": { "关系": 10567, "关于": 10266 },
+      "by_other_char": { "系": 10567, "于": 10266 },
+      "definition": "frontier pass; to close, to shut; relation",
+      "radical": "丷",
+      "pinyin": "guan1"
+    },
+    "系": {
+      "id": 293,
+      "total_fr": 10567,
+      "solo_fr": 0,
+      "by_word": { "关系": 10567 },
+      "by_other_char": { "关": 10567 },
+      "definition": "system; line, link, connection",
+      "radical": "糸",
+      "pinyin": "xi4/ji4"
+    },
+    "士": {
+      "id": 294,
+      "total_fr": 10544,
+      "solo_fr": 0,
+      "by_word": { "女士": 10544 },
+      "by_other_char": { "女": 10544 },
+      "definition": "scholar, gentleman; soldier",
+      "radical": "士",
+      "pinyin": "shi4"
+    },
+    "本": {
+      "id": 295,
+      "total_fr": 20837,
+      "solo_fr": 10526,
+      "by_word": { "根本": 10311 },
+      "by_other_char": { "根": 10311 },
+      "definition": "root, origin, source; basis",
+      "radical": "木",
+      "pinyin": "ben3"
+    },
+    "马": {
+      "id": 296,
+      "total_fr": 10413,
+      "solo_fr": 0,
+      "by_word": { "马上": 10413 },
+      "by_other_char": { "上": 10413 },
+      "definition": "horse; surname",
+      "radical": "马",
+      "pinyin": "ma3"
+    },
+    "决": {
+      "id": 297,
+      "total_fr": 10318,
+      "solo_fr": 0,
+      "by_word": { "决定": 10318 },
+      "by_other_char": { "定": 10318 },
+      "definition": "to decide, to determine, to judge",
+      "radical": "冫",
+      "pinyin": "jue2"
+    },
+    "根": {
+      "id": 298,
+      "total_fr": 10311,
+      "solo_fr": 0,
+      "by_word": { "根本": 10311 },
+      "by_other_char": { "本": 10311 },
+      "definition": "root, basis, foundation",
+      "radical": "木",
+      "pinyin": "gen1"
+    },
+    "于": {
+      "id": 299,
+      "total_fr": 18993,
+      "solo_fr": 8727,
+      "by_word": { "关于": 10266 },
+      "by_other_char": { "关": 10266 },
+      "definition": "at, in, on; to, from; alas!",
+      "radical": "二",
+      "pinyin": "yu2"
+    },
+    "难": {
+      "id": 300,
+      "total_fr": 10254,
+      "solo_fr": 10254,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "hard, difficult, arduous; unable",
+      "radical": "又",
+      "pinyin": "nan2/nan4"
+    },
+    "面": {
+      "id": 301,
+      "total_fr": 10183,
+      "solo_fr": 0,
+      "by_word": { "里面": 10183 },
+      "by_other_char": { "里": 10183 },
+      "definition": "face; surface, side; plane, dimension",
+      "radical": "面",
+      "pinyin": "mian4"
+    },
+    "每": {
+      "id": 302,
+      "total_fr": 18839,
+      "solo_fr": 10154,
+      "by_word": { "每个": 8685 },
+      "by_other_char": { "个": 8685 },
+      "definition": "each, every",
+      "radical": "母",
+      "pinyin": "mei3"
+    },
+    "份": {
+      "id": 303,
+      "total_fr": 10154,
+      "solo_fr": 10154,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "job, part, role; duty",
+      "radical": "亻",
+      "pinyin": "fen4"
+    },
+    "底": {
+      "id": 304,
+      "total_fr": 10133,
+      "solo_fr": 0,
+      "by_word": { "到底": 10133 },
+      "by_other_char": { "到": 10133 },
+      "definition": "bottom, underside; below, underneath",
+      "radical": "广",
+      "pinyin": "de5/di3"
+    },
+    "解": {
+      "id": 305,
+      "total_fr": 10127,
+      "solo_fr": 0,
+      "by_word": { "了解": 10127 },
+      "by_other_char": { "了": 10127 },
+      "definition": "to explain; to loosen; to unfasten, to untie",
+      "radical": "角",
+      "pinyin": "jie3/jie4/xie4"
+    },
+    "站": {
+      "id": 306,
+      "total_fr": 10081,
+      "solo_fr": 10081,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "stand, station; to halt, to stand; website; measure word for stands and stations",
+      "radical": "立",
+      "pinyin": "zhan4"
+    },
+    "结": {
+      "id": 307,
+      "total_fr": 17135,
+      "solo_fr": 0,
+      "by_word": { "结束": 10050, "结果": 7085 },
+      "by_other_char": { "束": 10050, "果": 7085 },
+      "definition": "knot, tie; to connect, to join",
+      "radical": "纟",
+      "pinyin": "jie1/jie2"
+    },
+    "束": {
+      "id": 308,
+      "total_fr": 10050,
+      "solo_fr": 0,
+      "by_word": { "结束": 10050 },
+      "by_other_char": { "结": 10050 },
+      "definition": "to bind, to control, to restrain; bale",
+      "radical": "木",
+      "pinyin": "shu4"
+    },
+    "公": {
+      "id": 309,
+      "total_fr": 10046,
+      "solo_fr": 0,
+      "by_word": { "公司": 10046 },
+      "by_other_char": { "司": 10046 },
+      "definition": "fair, equitable; public; duke",
+      "radical": "八",
+      "pinyin": "gong1"
+    },
+    "司": {
+      "id": 310,
+      "total_fr": 10046,
+      "solo_fr": 0,
+      "by_word": { "公司": 10046 },
+      "by_other_char": { "公": 10046 },
+      "definition": "to take charge of, to control, to manage; officer",
+      "radical": "口",
+      "pinyin": "si1"
+    },
+    "永": {
+      "id": 311,
+      "total_fr": 10036,
+      "solo_fr": 0,
+      "by_word": { "永远": 10036 },
+      "by_other_char": { "远": 10036 },
+      "definition": "long; perpetual, eternal; forever",
+      "radical": "水",
+      "pinyin": "yong3"
+    },
+    "远": {
+      "id": 312,
+      "total_fr": 10036,
+      "solo_fr": 0,
+      "by_word": { "永远": 10036 },
+      "by_other_char": { "永": 10036 },
+      "definition": "distant, remote, far; profound",
+      "radical": "辶",
+      "pinyin": "yuan3/yuan4"
+    },
+    "助": {
+      "id": 313,
+      "total_fr": 10033,
+      "solo_fr": 0,
+      "by_word": { "帮助": 10033 },
+      "by_other_char": { "帮": 10033 },
+      "definition": "to help, to aid, to assist",
+      "radical": "力",
+      "pinyin": "zhu4"
+    },
+    "少": {
+      "id": 314,
+      "total_fr": 9965,
+      "solo_fr": 0,
+      "by_word": { "多少": 9965 },
+      "by_other_char": { "多": 9965 },
+      "definition": "few, little; less; inadequate",
+      "radical": "小",
+      "pinyin": "shao3/shao4"
+    },
+    "哇": {
+      "id": 315,
+      "total_fr": 9951,
+      "solo_fr": 9951,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to vomit; an infant's cry",
+      "radical": "口",
+      "pinyin": "wa1/wa5"
+    },
+    "总": {
+      "id": 316,
+      "total_fr": 18450,
+      "solo_fr": 9898,
+      "by_word": { "总是": 8552 },
+      "by_other_char": { "是": 8552 },
+      "definition": "to gather, to collect; overall, altogether",
+      "radical": "心",
+      "pinyin": "zong3"
+    },
+    "确": {
+      "id": 317,
+      "total_fr": 17519,
+      "solo_fr": 0,
+      "by_word": { "确定": 9889, "确实": 7630 },
+      "by_other_char": { "定": 9889, "实": 7630 },
+      "definition": "certain, sure; definite, exact; real, true",
+      "radical": "石",
+      "pinyin": "que4"
+    },
+    "清": {
+      "id": 318,
+      "total_fr": 9836,
+      "solo_fr": 0,
+      "by_word": { "清楚": 9836 },
+      "by_other_char": { "楚": 9836 },
+      "definition": "clean, pure; clear, distinct; peaceful",
+      "radical": "氵",
+      "pinyin": "Qing1/qing1"
+    },
+    "楚": {
+      "id": 319,
+      "total_fr": 9836,
+      "solo_fr": 0,
+      "by_word": { "清楚": 9836 },
+      "by_other_char": { "清": 9836 },
+      "definition": "clear, distinct; pain, suffering; surname",
+      "radical": "木",
+      "pinyin": "chu3"
+    },
+    "安": {
+      "id": 320,
+      "total_fr": 9541,
+      "solo_fr": 0,
+      "by_word": { "安全": 9541 },
+      "by_other_char": { "全": 9541 },
+      "definition": "peaceful, tranquil, quiet",
+      "radical": "宀",
+      "pinyin": "an1"
+    },
+    "块": {
+      "id": 321,
+      "total_fr": 9365,
+      "solo_fr": 9365,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "piece, lump, chunk; dollar; measure word for currency",
+      "radical": "土",
+      "pinyin": "kuai4"
+    },
+    "留": {
+      "id": 322,
+      "total_fr": 9272,
+      "solo_fr": 9272,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to stay, to remain; to preserve, to keep; to leave a message; ",
+      "radical": "田",
+      "pinyin": "liu2"
+    },
+    "周": {
+      "id": 323,
+      "total_fr": 9241,
+      "solo_fr": 9241,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "Zhou dynasty; circumference",
+      "radical": "口",
+      "pinyin": "zhou1"
+    },
+    "愿": {
+      "id": 324,
+      "total_fr": 9191,
+      "solo_fr": 0,
+      "by_word": { "愿意": 9191 },
+      "by_other_char": { "意": 9191 },
+      "definition": "desire, wish; honest, virtuous; ready, willing",
+      "radical": "心",
+      "pinyin": "yuan4"
+    },
+    "划": {
+      "id": 325,
+      "total_fr": 9169,
+      "solo_fr": 0,
+      "by_word": { "计划": 9169 },
+      "by_other_char": { "计": 9169 },
+      "definition": "to row or paddle a boat; to scratch; to plan; profitable",
+      "radical": "刂",
+      "pinyin": "hua2/hua4"
+    },
+    "俩": {
+      "id": 326,
+      "total_fr": 9037,
+      "solo_fr": 9037,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "two, a pair, a couple",
+      "radical": "亻",
+      "pinyin": "lia3"
+    },
+    "停": {
+      "id": 327,
+      "total_fr": 9028,
+      "solo_fr": 9028,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to suspend, to halt, to delay; suitable",
+      "radical": "亻",
+      "pinyin": "ting2"
+    },
+    "另": {
+      "id": 328,
+      "total_fr": 8973,
+      "solo_fr": 8973,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "another; separate, other",
+      "radical": "口",
+      "pinyin": "ling4"
+    },
+    "花": {
+      "id": 329,
+      "total_fr": 8947,
+      "solo_fr": 8947,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "flower, blossom; to spend (time or money)",
+      "radical": "艹",
+      "pinyin": "hua1"
+    },
+    "门": {
+      "id": 330,
+      "total_fr": 8879,
+      "solo_fr": 8879,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "gate, door, entrance, opening",
+      "radical": "门",
+      "pinyin": "men2"
+    },
+    "管": {
+      "id": 331,
+      "total_fr": 15882,
+      "solo_fr": 8697,
+      "by_word": { "不管": 7185 },
+      "by_other_char": { "不": 7185 },
+      "definition": "tube, pipe, duct; to manage, to control",
+      "radical": "⺮",
+      "pinyin": "guan3"
+    },
+    "照": {
+      "id": 332,
+      "total_fr": 8687,
+      "solo_fr": 0,
+      "by_word": { "照片": 8687 },
+      "by_other_char": { "片": 8687 },
+      "definition": "to shine, to reflect, to illuminate",
+      "radical": "灬",
+      "pinyin": "zhao4"
+    },
+    "片": {
+      "id": 333,
+      "total_fr": 8687,
+      "solo_fr": 0,
+      "by_word": { "照片": 8687 },
+      "by_other_char": { "照": 8687 },
+      "definition": "slice, splinter; page, strip",
+      "radical": "片",
+      "pinyin": "pian1/pian4"
+    },
+    "迎": {
+      "id": 334,
+      "total_fr": 8674,
+      "solo_fr": 0,
+      "by_word": { "欢迎": 8674 },
+      "by_other_char": { "欢": 8674 },
+      "definition": "to welcome, to receive, to greet",
+      "radical": "辶",
+      "pinyin": "ying2"
+    },
+    "敢": {
+      "id": 335,
+      "total_fr": 8664,
+      "solo_fr": 8664,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "bold, brave; to dare, to venture",
+      "radical": "攵",
+      "pinyin": "gan3"
+    },
+    "兄": {
+      "id": 336,
+      "total_fr": 8631,
+      "solo_fr": 0,
+      "by_word": { "兄弟": 8631 },
+      "by_other_char": { "弟": 8631 },
+      "definition": "elder brother",
+      "radical": "儿",
+      "pinyin": "xiong1"
+    },
+    "弟": {
+      "id": 337,
+      "total_fr": 8631,
+      "solo_fr": 0,
+      "by_word": { "兄弟": 8631 },
+      "by_other_char": { "兄": 8631 },
+      "definition": "young brother, junior",
+      "radical": "弓",
+      "pinyin": "di4/ti4"
+    },
+    "嘴": {
+      "id": 338,
+      "total_fr": 8513,
+      "solo_fr": 8513,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "mouth, lips",
+      "radical": "口",
+      "pinyin": "zui3"
+    },
+    "跳": {
+      "id": 339,
+      "total_fr": 8496,
+      "solo_fr": 8496,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to hop, to skip; to jump, to leap; to vault; to dance",
+      "radical": "足",
+      "pinyin": "tiao4"
+    },
+    "拜": {
+      "id": 340,
+      "total_fr": 8456,
+      "solo_fr": 0,
+      "by_word": { "拜托": 8456 },
+      "by_other_char": { "托": 8456 },
+      "definition": "to bow, to salute; to worship, to pay respects",
+      "radical": "手",
+      "pinyin": "bai4"
+    },
+    "托": {
+      "id": 341,
+      "total_fr": 8456,
+      "solo_fr": 0,
+      "by_word": { "拜托": 8456 },
+      "by_other_char": { "拜": 8456 },
+      "definition": "to raise, to support; to entrust, to rely on",
+      "radical": "扌",
+      "pinyin": "tuo1"
+    },
+    "抓": {
+      "id": 342,
+      "total_fr": 8430,
+      "solo_fr": 8430,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to clutch, to grab, to seize",
+      "radical": "扌",
+      "pinyin": "zhua1"
+    },
+    "姐": {
+      "id": 343,
+      "total_fr": 8423,
+      "solo_fr": 0,
+      "by_word": { "小姐": 8423 },
+      "by_other_char": { "小": 8423 },
+      "definition": "elder sister; miss, young lady",
+      "radical": "女",
+      "pinyin": "jie3"
+    },
+    "动": {
+      "id": 344,
+      "total_fr": 8406,
+      "solo_fr": 8406,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to move, to happen; movement, action",
+      "radical": "力",
+      "pinyin": "dong4"
+    },
+    "赢": {
+      "id": 345,
+      "total_fr": 8363,
+      "solo_fr": 8363,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to win, to gain; surplus, profit",
+      "radical": "贝",
+      "pinyin": "ying2"
+    },
+    "消": {
+      "id": 346,
+      "total_fr": 8346,
+      "solo_fr": 0,
+      "by_word": { "消息": 8346 },
+      "by_other_char": { "息": 8346 },
+      "definition": "news, rumors; to die out, to melt away, to vanish",
+      "radical": "氵",
+      "pinyin": "xiao1"
+    },
+    "息": {
+      "id": 347,
+      "total_fr": 8346,
+      "solo_fr": 0,
+      "by_word": { "消息": 8346 },
+      "by_other_char": { "消": 8346 },
+      "definition": "to end, to cease, to put a stop to; pause, breath, rest; news",
+      "radical": "心",
+      "pinyin": "xi1"
+    },
+    "忙": {
+      "id": 348,
+      "total_fr": 8342,
+      "solo_fr": 8342,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "busy, hurried, pressed for time",
+      "radical": "忄",
+      "pinyin": "mang2"
+    },
+    "此": {
+      "id": 349,
+      "total_fr": 15900,
+      "solo_fr": 7595,
+      "by_word": { "如此": 8305 },
+      "by_other_char": { "如": 8305 },
+      "definition": "this, these; in this case, then",
+      "radical": "止",
+      "pinyin": "ci3"
+    },
+    "队": {
+      "id": 350,
+      "total_fr": 8286,
+      "solo_fr": 8286,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "team, group, band, army unit; measure word for groups of people",
+      "radical": "阝",
+      "pinyin": "dui4"
+    },
+    "无": {
+      "id": 351,
+      "total_fr": 8226,
+      "solo_fr": 0,
+      "by_word": { "无法": 8226 },
+      "by_other_char": { "法": 8226 },
+      "definition": "no, not; lacking, -less",
+      "radical": "无",
+      "pinyin": "wu2"
+    },
+    "法": {
+      "id": 352,
+      "total_fr": 16285,
+      "solo_fr": 0,
+      "by_word": { "无法": 8226, "办法": 8059 },
+      "by_other_char": { "无": 8226, "办": 8059 },
+      "definition": "law, rule, statute; method, way; French",
+      "radical": "氵",
+      "pinyin": "fa3/Fa3"
+    },
+    "房": {
+      "id": 353,
+      "total_fr": 15431,
+      "solo_fr": 0,
+      "by_word": { "房子": 8223, "房间": 7208 },
+      "by_other_char": { "子": 8223, "间": 7208 },
+      "definition": "building, house, room",
+      "radical": "户",
+      "pinyin": "fang2"
+    },
+    "拉": {
+      "id": 354,
+      "total_fr": 8219,
+      "solo_fr": 8219,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to pull, to drag; to seize, to hold; to lengthen; to play (a violin)",
+      "radical": "扌",
+      "pinyin": "la1"
+    },
+    "衣": {
+      "id": 355,
+      "total_fr": 8130,
+      "solo_fr": 0,
+      "by_word": { "衣服": 8130 },
+      "by_other_char": { "服": 8130 },
+      "definition": "cloth; clothes, apparel; dress, coat",
+      "radical": "衣",
+      "pinyin": "yi1/yi4"
+    },
+    "服": {
+      "id": 356,
+      "total_fr": 8130,
+      "solo_fr": 0,
+      "by_word": { "衣服": 8130 },
+      "by_other_char": { "衣": 8130 },
+      "definition": "clothes; to dress, to wear; to take medicine",
+      "radical": "月",
+      "pinyin": "fu2/fu4"
+    },
+    "救": {
+      "id": 357,
+      "total_fr": 8095,
+      "solo_fr": 8095,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "aid, help; to rescue, to save",
+      "radical": "攵",
+      "pinyin": "jiu4"
+    },
+    "参": {
+      "id": 358,
+      "total_fr": 8081,
+      "solo_fr": 0,
+      "by_word": { "参加": 8081 },
+      "by_other_char": { "加": 8081 },
+      "definition": "to take part in, to intervene; ginseng",
+      "radical": "厶",
+      "pinyin": "can1/shen1"
+    },
+    "加": {
+      "id": 359,
+      "total_fr": 8081,
+      "solo_fr": 0,
+      "by_word": { "参加": 8081 },
+      "by_other_char": { "参": 8081 },
+      "definition": "to add to, to increase, to augment",
+      "radical": "力",
+      "pinyin": "Jia1/jia1"
+    },
+    "办": {
+      "id": 360,
+      "total_fr": 8059,
+      "solo_fr": 0,
+      "by_word": { "办法": 8059 },
+      "by_other_char": { "法": 8059 },
+      "definition": "to set up; to manage, to run; to deal with, to handle",
+      "radical": "力",
+      "pinyin": "ban4"
+    },
+    "睡": {
+      "id": 361,
+      "total_fr": 8031,
+      "solo_fr": 8031,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to sleep, to doze",
+      "radical": "目",
+      "pinyin": "shui4"
+    },
+    "唯": {
+      "id": 362,
+      "total_fr": 8023,
+      "solo_fr": 0,
+      "by_word": { "唯一": 8023 },
+      "by_other_char": { "一": 8023 },
+      "definition": "only; sole",
+      "radical": "口",
+      "pinyin": "wei2/wei3"
+    },
+    "闭": {
+      "id": 363,
+      "total_fr": 7894,
+      "solo_fr": 7894,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to shut, to close; to obstruct, to block",
+      "radical": "门",
+      "pinyin": "bi4"
+    },
+    "选": {
+      "id": 364,
+      "total_fr": 7885,
+      "solo_fr": 0,
+      "by_word": { "选择": 7885 },
+      "by_other_char": { "择": 7885 },
+      "definition": "to select, to elect, to choose; election",
+      "radical": "辶",
+      "pinyin": "xuan3"
+    },
+    "择": {
+      "id": 365,
+      "total_fr": 7885,
+      "solo_fr": 0,
+      "by_word": { "选择": 7885 },
+      "by_other_char": { "选": 7885 },
+      "definition": "to select, to choose",
+      "radical": "扌",
+      "pinyin": "ze2"
+    },
+    "坏": {
+      "id": 366,
+      "total_fr": 7842,
+      "solo_fr": 7842,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "bad, rotten, spoiled; to break down",
+      "radical": "土",
+      "pinyin": "huai4"
+    },
+    "原": {
+      "id": 367,
+      "total_fr": 7829,
+      "solo_fr": 0,
+      "by_word": { "原因": 7829 },
+      "by_other_char": { "因": 7829 },
+      "definition": "source, origin, beginning",
+      "radical": "厂",
+      "pinyin": "Yuan2/yuan2"
+    },
+    "受": {
+      "id": 368,
+      "total_fr": 15200,
+      "solo_fr": 7756,
+      "by_word": { "接受": 7444 },
+      "by_other_char": { "接": 7444 },
+      "definition": "to receive, to get, to accept; to bear",
+      "radical": "又",
+      "pinyin": "shou4"
+    },
+    "连": {
+      "id": 369,
+      "total_fr": 7706,
+      "solo_fr": 7706,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to join, to connect; continuous; even",
+      "radical": "辶",
+      "pinyin": "lian2"
+    },
+    "实": {
+      "id": 370,
+      "total_fr": 14697,
+      "solo_fr": 0,
+      "by_word": { "确实": 7630, "其实": 7067 },
+      "by_other_char": { "确": 7630, "其": 7067 },
+      "definition": "real, true; honest, sincere",
+      "radical": "宀",
+      "pinyin": "shi2"
+    },
+    "挺": {
+      "id": 371,
+      "total_fr": 7603,
+      "solo_fr": 7603,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to straighten, to stand upright; rigid, stiff",
+      "radical": "扌",
+      "pinyin": "ting3"
+    },
+    "水": {
+      "id": 372,
+      "total_fr": 7581,
+      "solo_fr": 7581,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "water, liquid, lotion, juice",
+      "radical": "水",
+      "pinyin": "shui3"
+    },
+    "混": {
+      "id": 373,
+      "total_fr": 7572,
+      "solo_fr": 0,
+      "by_word": { "混蛋": 7572 },
+      "by_other_char": { "蛋": 7572 },
+      "definition": "muddy, confused; to mix, to blend; to mingle",
+      "radical": "氵",
+      "pinyin": "hun2/hun4"
+    },
+    "蛋": {
+      "id": 374,
+      "total_fr": 7572,
+      "solo_fr": 0,
+      "by_word": { "混蛋": 7572 },
+      "by_other_char": { "混": 7572 },
+      "definition": "egg",
+      "radical": "虫",
+      "pinyin": "Dan4/dan4"
+    },
+    "杯": {
+      "id": 375,
+      "total_fr": 7541,
+      "solo_fr": 7541,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "cup, glass; measure word for liquids",
+      "radical": "木",
+      "pinyin": "bei1"
+    },
+    "保": {
+      "id": 376,
+      "total_fr": 14609,
+      "solo_fr": 0,
+      "by_word": { "保证": 7515, "保护": 7094 },
+      "by_other_char": { "证": 7515, "护": 7094 },
+      "definition": "to safeguard, to protect, to defend, to care for",
+      "radical": "亻",
+      "pinyin": "Bao3/bao3"
+    },
+    "证": {
+      "id": 377,
+      "total_fr": 7515,
+      "solo_fr": 0,
+      "by_word": { "保证": 7515 },
+      "by_other_char": { "保": 7515 },
+      "definition": "to prove, to verify; certificate, proof",
+      "radical": "讠",
+      "pinyin": "zheng4"
+    },
+    "学": {
+      "id": 378,
+      "total_fr": 7502,
+      "solo_fr": 0,
+      "by_word": { "学校": 7502 },
+      "by_other_char": { "校": 7502 },
+      "definition": "learning, knowledge, science; to study, to go to school; -ology",
+      "radical": "子",
+      "pinyin": "xue2"
+    },
+    "校": {
+      "id": 379,
+      "total_fr": 7502,
+      "solo_fr": 0,
+      "by_word": { "学校": 7502 },
+      "by_other_char": { "学": 7502 },
+      "definition": "school; military field officer",
+      "radical": "木",
+      "pinyin": "jiao4/xiao4"
+    },
+    "卖": {
+      "id": 380,
+      "total_fr": 7475,
+      "solo_fr": 7475,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to sell; to betray; to show off",
+      "radical": "十",
+      "pinyin": "mai4"
+    },
+    "改": {
+      "id": 381,
+      "total_fr": 7434,
+      "solo_fr": 0,
+      "by_word": { "改变": 7434 },
+      "by_other_char": { "变": 7434 },
+      "definition": "to alter, to change, to improve, to remodel",
+      "radical": "攵",
+      "pinyin": "gai3"
+    },
+    "舞": {
+      "id": 382,
+      "total_fr": 7420,
+      "solo_fr": 7420,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to dance; to brandish",
+      "radical": "舛",
+      "pinyin": "wu3"
+    },
+    "麻": {
+      "id": 383,
+      "total_fr": 7376,
+      "solo_fr": 0,
+      "by_word": { "麻烦": 7376 },
+      "by_other_char": { "烦": 7376 },
+      "definition": "hemp, flax, sesame; numb",
+      "radical": "麻",
+      "pinyin": "ma2"
+    },
+    "烦": {
+      "id": 384,
+      "total_fr": 7376,
+      "solo_fr": 0,
+      "by_word": { "麻烦": 7376 },
+      "by_other_char": { "麻": 7376 },
+      "definition": "to bother, to trouble, to vex",
+      "radical": "火",
+      "pinyin": "fan2"
+    },
+    "影": {
+      "id": 385,
+      "total_fr": 7249,
+      "solo_fr": 0,
+      "by_word": { "电影": 7249 },
+      "by_other_char": { "电": 7249 },
+      "definition": "shadow; image, reflection; photograph",
+      "radical": "彡",
+      "pinyin": "ying3"
+    },
+    "试": {
+      "id": 386,
+      "total_fr": 7231,
+      "solo_fr": 7231,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to try, to experiment; exam, test",
+      "radical": "讠",
+      "pinyin": "shi4"
+    },
+    "身": {
+      "id": 387,
+      "total_fr": 7228,
+      "solo_fr": 0,
+      "by_word": { "身上": 7228 },
+      "by_other_char": { "上": 7228 },
+      "definition": "body, torso; person; pregnancy",
+      "radical": "身",
+      "pinyin": "shen1"
+    },
+    "书": {
+      "id": 388,
+      "total_fr": 7152,
+      "solo_fr": 7152,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "book, letter, document; writing",
+      "radical": "丨",
+      "pinyin": "Shu1/shu1"
+    },
+    "特": {
+      "id": 389,
+      "total_fr": 7131,
+      "solo_fr": 0,
+      "by_word": { "特别": 7131 },
+      "by_other_char": { "别": 7131 },
+      "definition": "special, unique, distinguished",
+      "radical": "牛",
+      "pinyin": "te4"
+    },
+    "注": {
+      "id": 390,
+      "total_fr": 7129,
+      "solo_fr": 0,
+      "by_word": { "注意": 7129 },
+      "by_other_char": { "意": 7129 },
+      "definition": "to concentrate, to focus",
+      "radical": "氵",
+      "pinyin": "zhu4"
+    },
+    "球": {
+      "id": 391,
+      "total_fr": 7121,
+      "solo_fr": 7121,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "ball, globe, sphere; round",
+      "radical": "王",
+      "pinyin": "qiu2"
+    },
+    "查": {
+      "id": 392,
+      "total_fr": 7121,
+      "solo_fr": 7121,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to investigate, to examine, to look into",
+      "radical": "木",
+      "pinyin": "cha2/zha1"
+    },
+    "忘": {
+      "id": 393,
+      "total_fr": 7120,
+      "solo_fr": 7120,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to forget, to miss, to neglect, to overlook",
+      "radical": "心",
+      "pinyin": "wang4"
+    },
+    "甚": {
+      "id": 394,
+      "total_fr": 7100,
+      "solo_fr": 0,
+      "by_word": { "甚至": 7100 },
+      "by_other_char": { "至": 7100 },
+      "definition": "considerably; very, extremely; a great extent",
+      "radical": "甘",
+      "pinyin": "shen2/shen4"
+    },
+    "至": {
+      "id": 395,
+      "total_fr": 7100,
+      "solo_fr": 0,
+      "by_word": { "甚至": 7100 },
+      "by_other_char": { "甚": 7100 },
+      "definition": "reach, arrive; very, extremely",
+      "radical": "至",
+      "pinyin": "zhi4"
+    },
+    "护": {
+      "id": 396,
+      "total_fr": 7094,
+      "solo_fr": 0,
+      "by_word": { "保护": 7094 },
+      "by_other_char": { "保": 7094 },
+      "definition": "to defend, to guard, to protect; shelter; endorse",
+      "radical": "扌",
+      "pinyin": "hu4"
+    },
+    "表": {
+      "id": 397,
+      "total_fr": 7082,
+      "solo_fr": 0,
+      "by_word": { "表现": 7082 },
+      "by_other_char": { "现": 7082 },
+      "definition": "to show, to express, to display; outside, appearance; a watch",
+      "radical": "衣",
+      "pinyin": "biao3"
+    },
+    "拍": {
+      "id": 398,
+      "total_fr": 7076,
+      "solo_fr": 7076,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "to clap, to tap; to hit, to beat, to slap; beat, rhythm",
+      "radical": "扌",
+      "pinyin": "pai1"
+    },
+    "路": {
+      "id": 399,
+      "total_fr": 6993,
+      "solo_fr": 6993,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "road, path, street; journey",
+      "radical": "足",
+      "pinyin": "lu4"
+    },
+    "呆": {
+      "id": 400,
+      "total_fr": 6983,
+      "solo_fr": 6983,
+      "by_word": {},
+      "by_other_char": {},
+      "definition": "dull, simple, stupid",
+      "radical": "口",
+      "pinyin": "dai1"
+    }
+  },
+  "radical": {
+    "⺌": { "definition": "", "words": ["当"] },
+    "⺮": { "definition": "bamboo; flute", "words": ["第", "等", "算", "管"] },
+    "⺼": {
+      "definition": "meat, flesh; organic compound",
+      "words": ["肯", "能"]
+    },
+    "亻": {
+      "definition": "man, person; people",
+      "words": [
+        "什",
+        "他",
+        "们",
+        "件",
+        "任",
+        "份",
+        "伙",
+        "但",
+        "位",
+        "住",
+        "何",
+        "作",
+        "你",
+        "保",
+        "信",
+        "俩",
+        "候",
+        "做",
+        "停",
+        "像"
+      ]
+    },
+    "亠": { "definition": "lid, cover; head", "words": ["亮"] },
+    "彡": { "definition": "hair; sunlight", "words": ["影", "须"] },
+    "巾": {
+      "definition": "cloth, curtain, handkerchief, towel",
+      "words": ["希", "帝", "带", "帮", "常"]
+    },
+    "刀": { "definition": "knife; old coin; measure", "words": ["分", "切"] },
+    "寸": { "definition": "inch; small, tiny", "words": ["对"] },
+    "己": {
+      "definition": "self, oneself; personal, private; 6th heavenly stem",
+      "words": ["己", "已"]
+    },
+    "纟": {
+      "definition": "silk; thread",
+      "words": ["经", "结", "给", "继", "续"]
+    },
+    "广": {
+      "definition": "broad, vast, wide; building, house",
+      "words": ["应", "底"]
+    },
+    "白": {
+      "definition": "white; clear, pure, unblemished; bright",
+      "words": ["白", "的"]
+    },
+    "心": {
+      "definition": "heart; mind; soul",
+      "words": [
+        "心",
+        "必",
+        "忘",
+        "怎",
+        "思",
+        "总",
+        "息",
+        "您",
+        "想",
+        "意",
+        "感",
+        "愿"
+      ]
+    },
+    "扌": {
+      "definition": "hand",
+      "words": [
+        "才",
+        "打",
+        "托",
+        "找",
+        "把",
+        "抓",
+        "护",
+        "抱",
+        "担",
+        "拉",
+        "拍",
+        "择",
+        "挺",
+        "掉",
+        "接",
+        "搞"
+      ]
+    },
+    "日": {
+      "definition": "sun; day; daytime",
+      "words": ["早", "时", "明", "是", "晚"]
+    },
+    "比": {
+      "definition": "to compare, liken; comparison; than",
+      "words": ["比"]
+    },
+    "氵": {
+      "definition": "water",
+      "words": ["没", "法", "注", "活", "消", "混", "清", "漂"]
+    },
+    "艹": { "definition": "grass, weed, plant, herb", "words": ["花"] },
+    "覀": { "definition": "west, western, westward", "words": ["要"] },
+    "足": {
+      "definition": "foot; to attain, to satisfy; enough",
+      "words": ["跑", "跟", "路", "跳"]
+    },
+    "一": {
+      "definition": "one; a, an; alone",
+      "words": ["一", "三", "上", "下", "不", "与", "且", "世", "东", "两"]
+    },
+    "十": {
+      "definition": "ten, tenth; complete; perfect",
+      "words": ["卖", "干"]
+    },
+    "丨": { "definition": "number one; line", "words": ["个", "中", "书"] },
+    "丬": { "definition": "half of tree trunk", "words": ["将"] },
+    "丶": { "definition": "dot", "words": ["为"] },
+    "丷": { "definition": "kwukyel", "words": ["关"] },
+    "丿": { "definition": "slash", "words": ["么", "之"] },
+    "大": {
+      "definition": "big, great, vast, high, deep",
+      "words": ["买", "大", "天", "太", "头"]
+    },
+    "乚": {
+      "definition": "secret, hidden, mysterious; small, minute; to conceal",
+      "words": ["也"]
+    },
+    "冫": { "definition": "ice", "words": ["决", "况", "准"] },
+    "亅": { "definition": "hook", "words": ["了", "事"] },
+    "二": { "definition": "two; twice", "words": ["于", "些"] },
+    "立": {
+      "definition": "to stand; to establish, to set up",
+      "words": ["亲", "站"]
+    },
+    "人": {
+      "definition": "man, person; people",
+      "words": ["人", "今", "从", "以", "会"]
+    },
+    "儿": { "definition": "son, child", "words": ["儿", "兄", "先"] },
+    "入": { "definition": "to enter, to come in; to join", "words": ["全"] },
+    "八": {
+      "definition": "eight; all around, all sides",
+      "words": ["公", "兴", "其"]
+    },
+    "冂": { "definition": "wide", "words": ["再"] },
+    "冖": { "definition": "cover", "words": ["写"] },
+    "车": { "definition": "cart, vehicle; to move in a cart", "words": ["车"] },
+    "马": { "definition": "horse; surname", "words": ["马"] },
+    "几": {
+      "definition": "small table; how many; a few, some",
+      "words": ["几"]
+    },
+    "夂": { "definition": "to go", "words": ["备"] },
+    "凵": { "definition": "container; receptacle", "words": ["出"] },
+    "水": {
+      "definition": "water, liquid, lotion, juice",
+      "words": ["水", "永"]
+    },
+    "刂": { "definition": "knife", "words": ["划", "刚", "别", "到", "前"] },
+    "力": {
+      "definition": "strength, power; capability, influence",
+      "words": ["办", "加", "动", "助"]
+    },
+    "匸": { "definition": "box", "words": ["医"] },
+    "口": {
+      "definition": "mouth; entrance, gate, opening",
+      "words": [
+        "另",
+        "只",
+        "叫",
+        "可",
+        "号",
+        "司",
+        "吃",
+        "名",
+        "后",
+        "向",
+        "吗",
+        "吧",
+        "听",
+        "呀",
+        "呃",
+        "呆",
+        "告",
+        "呢",
+        "周",
+        "和",
+        "哇",
+        "哦",
+        "哪",
+        "唯",
+        "啊",
+        "啦",
+        "喂",
+        "喜",
+        "喝",
+        "嗨",
+        "嗯",
+        "嘛",
+        "嘴",
+        "嘿",
+        "噢"
+      ]
+    },
+    "卩": { "definition": "seal; kneeling person", "words": ["却"] },
+    "厂": {
+      "definition": "cliff; factory, workshop; building",
+      "words": ["原"]
+    },
+    "厶": { "definition": "private, secret", "words": ["去", "参"] },
+    "又": {
+      "definition": "and, also, again, in addition",
+      "words": ["又", "友", "发", "受", "变", "难"]
+    },
+    "囗": { "definition": "enclosure; border", "words": ["回", "因", "国"] },
+    "土": {
+      "definition": "soil, earth; items made of earth",
+      "words": ["在", "地", "场", "坏", "坐", "块"]
+    },
+    "士": { "definition": "scholar, gentleman; soldier", "words": ["士"] },
+    "夕": {
+      "definition": "evening, night, dusk; slanted",
+      "words": ["多", "够"]
+    },
+    "女": {
+      "definition": "woman, girl; female",
+      "words": ["女", "她", "好", "如", "妈", "始", "姐"]
+    },
+    "子": {
+      "definition": "son, child; seed, egg; fruit; small thing",
+      "words": ["子", "字", "学", "孩"]
+    },
+    "宀": {
+      "definition": "roof; house",
+      "words": ["它", "安", "完", "定", "宝", "实", "家", "察"]
+    },
+    "小": { "definition": "small, tiny, insignificant", "words": ["小", "少"] },
+    "尢": { "definition": "weak, lame", "words": ["就"] },
+    "户": { "definition": "door; family", "words": ["房", "所"] },
+    "山": { "definition": "mountain, hill, peak", "words": ["岁"] },
+    "工": { "definition": "labor, work; laborer, worker", "words": ["工"] },
+    "干": { "definition": "", "words": ["年", "并"] },
+    "廾": { "definition": "two hands", "words": ["开", "弄"] },
+    "弓": { "definition": "bow; curved, arched", "words": ["弟", "张"] },
+    "彳": { "definition": "to step with the left foot", "words": ["很", "得"] },
+    "忄": { "definition": "heart; mind; soul", "words": ["忙", "快", "情"] },
+    "戈": {
+      "definition": "spear, lance, halberd",
+      "words": ["成", "我", "或"]
+    },
+    "手": { "definition": "hand", "words": ["手", "拜", "拿"] },
+    "攵": {
+      "definition": "to rap, to tap; script; to let go",
+      "words": ["改", "放", "救", "敢"]
+    },
+    "斤": {
+      "definition": "a catty (about 500 grams); an axe; keen, shrewd",
+      "words": ["新"]
+    },
+    "方": {
+      "definition": "square, rectangle; side; region; flag",
+      "words": ["方"]
+    },
+    "无": { "definition": "no, not; lacking, -less", "words": ["无"] },
+    "曰": { "definition": "to speak; to say", "words": ["更", "最", "电"] },
+    "月": {
+      "definition": "moon; month",
+      "words": ["月", "有", "朋", "服", "望"]
+    },
+    "木": {
+      "definition": "tree; wood, lumber; wooden",
+      "words": [
+        "本",
+        "机",
+        "杀",
+        "束",
+        "条",
+        "来",
+        "杯",
+        "果",
+        "枪",
+        "查",
+        "校",
+        "样",
+        "根",
+        "棒",
+        "楚"
+      ]
+    },
+    "欠": {
+      "definition": "to lack, to owe; to breathe, to yawn",
+      "words": ["次", "欢", "歉"]
+    },
+    "止": {
+      "definition": "to stop, to halt; to detain; to desist",
+      "words": ["正", "此"]
+    },
+    "歹": {
+      "definition": "corpse; death; evil, depraved, wicked",
+      "words": ["死"]
+    },
+    "母": { "definition": "mother; female elders; female", "words": ["每"] },
+    "田": {
+      "definition": "field, farm, arable land; cultivated",
+      "words": ["男", "界", "留"]
+    },
+    "氺": { "definition": "", "words": ["求"] },
+    "火": {
+      "definition": "fire, flame; to burn; anger, rage",
+      "words": ["烦"]
+    },
+    "灬": { "definition": "fire", "words": ["点", "然", "照"] },
+    "爫": { "definition": "claws, nails, talons", "words": ["爱"] },
+    "父": { "definition": "father, dad", "words": ["父", "爸"] },
+    "片": { "definition": "slice, splinter; page, strip", "words": ["片"] },
+    "牛": { "definition": "ox, cow, bull", "words": ["特"] },
+    "犭": { "definition": "dog", "words": ["狗"] },
+    "王": {
+      "definition": "king, ruler; royal; surname",
+      "words": ["玩", "现", "球"]
+    },
+    "甘": { "definition": "sweet, tasty; willing", "words": ["甚"] },
+    "生": { "definition": "life, lifetime; birth; growth", "words": ["生"] },
+    "用": { "definition": "to use, to employ, to apply; use", "words": ["用"] },
+    "目": {
+      "definition": "eye; to look, to see; division, topic",
+      "words": ["直", "相", "看", "真", "着", "睡"]
+    },
+    "矢": { "definition": "arrow, dart; to vow, to swear", "words": ["知"] },
+    "石": { "definition": "stone, rock, mineral", "words": ["确"] },
+    "禸": { "definition": "rump", "words": ["离"] },
+    "禾": {
+      "definition": "cereal, grain, rice; plant, stalk",
+      "words": ["种"]
+    },
+    "穴": { "definition": "cave, den, hole", "words": ["穿"] },
+    "糸": { "definition": "silk; thread", "words": ["系"] },
+    "羊": { "definition": "sheep, goat", "words": ["美"] },
+    "老": { "definition": "old, aged; experienced", "words": ["老"] },
+    "耂": { "definition": "old, aged; experienced", "words": ["者"] },
+    "而": { "definition": "and, and then, and yet; but", "words": ["而"] },
+    "自": { "definition": "self; private, personal; from", "words": ["自"] },
+    "至": { "definition": "reach, arrive; very, extremely", "words": ["至"] },
+    "舛": {
+      "definition": "mistaken; to be contrary; to deviate",
+      "words": ["舞"]
+    },
+    "虫": { "definition": "insect, worm; mollusk", "words": ["蛋"] },
+    "行": {
+      "definition": "to go, to walk, to move; professional",
+      "words": ["行"]
+    },
+    "衣": {
+      "definition": "cloth; clothes, apparel; dress, coat",
+      "words": ["衣", "表"]
+    },
+    "衤": { "definition": "cloth", "words": ["被"] },
+    "西": { "definition": "west, western, westward", "words": ["西"] },
+    "见": {
+      "definition": "to see, to observe, to meet, to appear",
+      "words": ["见", "觉"]
+    },
+    "角": { "definition": "angle, corner; horn, horn-shaped", "words": ["解"] },
+    "言": { "definition": "words, speech; to speak, to say", "words": ["警"] },
+    "讠": {
+      "definition": "words, speech; to speak, to say",
+      "words": [
+        "计",
+        "认",
+        "让",
+        "记",
+        "许",
+        "证",
+        "识",
+        "诉",
+        "试",
+        "话",
+        "该",
+        "说",
+        "请",
+        "谁",
+        "谈",
+        "谢"
+      ]
+    },
+    "贝": {
+      "definition": "sea shell; money, currency",
+      "words": ["贝", "赛", "赢"]
+    },
+    "走": { "definition": "to walk, to run, to flee", "words": ["走", "起"] },
+    "身": { "definition": "body, torso; person; pregnancy", "words": ["身"] },
+    "非": { "definition": "not, negative, non-; to oppose", "words": ["非"] },
+    "辶": {
+      "definition": "to walk; walking",
+      "words": ["过", "迎", "还", "这", "进", "远", "连", "送", "选", "道"]
+    },
+    "阝": { "definition": "place, town, city", "words": ["那", "都", "队"] },
+    "里": {
+      "definition": "unit of distance equal to 0.5km; village; lane",
+      "words": ["里", "重"]
+    },
+    "钅": { "definition": "gold, metal; money", "words": ["钟", "钱", "错"] },
+    "长": { "definition": "long, lasting; to excel in", "words": ["长"] },
+    "门": {
+      "definition": "gate, door, entrance, opening",
+      "words": ["门", "闭", "问", "间"]
+    },
+    "雨": { "definition": "rain", "words": ["需"] },
+    "面": {
+      "definition": "face; surface, side; plane, dimension",
+      "words": ["面"]
+    },
+    "页": { "definition": "page, sheet, leaf", "words": ["题"] },
+    "高": { "definition": "tall, lofty; high, elevated", "words": ["高"] },
+    "麻": { "definition": "hemp, flax, sesame; numb", "words": ["麻"] }
+  },
+  "word": {
+    "的": {
+      "total_fr": 1682530,
+      "definition": "of",
+      "pinyin": ["de5", "di1", "di2", "di4"]
+    },
+    "我": { "total_fr": 1682285, "definition": "I", "pinyin": ["wo3"] },
+    "你": {
+      "total_fr": 1329424,
+      "definition": "you (informal, as opposed to courteous 您[nin2])",
+      "pinyin": ["ni3"]
+    },
+    "是": { "total_fr": 947807, "definition": "is", "pinyin": ["shi4"] },
+    "了": {
+      "total_fr": 946365,
+      "definition": "(completed action marker)",
+      "pinyin": ["le5", "liao3", "liao4"]
+    },
+    "不": {
+      "total_fr": 689161,
+      "definition": "(negative prefix)",
+      "pinyin": ["bu4"]
+    },
+    "在": {
+      "total_fr": 429766,
+      "definition": "(located) at",
+      "pinyin": ["zai4"]
+    },
+    "他": { "total_fr": 397653, "definition": "he or him", "pinyin": ["ta1"] },
+    "我们": { "total_fr": 371696, "definition": "we", "pinyin": ["wo3 men5"] },
+    "好": {
+      "total_fr": 334698,
+      "definition": "good",
+      "pinyin": ["hao3", "hao4"]
+    },
+    "有": { "total_fr": 289109, "definition": "to have", "pinyin": ["you3"] },
+    "这": { "total_fr": 286987, "definition": "this", "pinyin": ["zhe4"] },
+    "就": { "total_fr": 276636, "definition": "at once", "pinyin": ["jiu4"] },
+    "会": {
+      "total_fr": 265929,
+      "definition": "can",
+      "pinyin": ["hui4", "kuai4"]
+    },
+    "吗": {
+      "total_fr": 249187,
+      "definition": "see 嗎啡|吗啡, morphine",
+      "pinyin": ["ma3", "ma5"]
+    },
+    "要": {
+      "total_fr": 238656,
+      "definition": "to demand",
+      "pinyin": ["yao1", "yao4"]
+    },
+    "什么": {
+      "total_fr": 236517,
+      "definition": "what?",
+      "pinyin": ["shen2 me5"]
+    },
+    "说": {
+      "total_fr": 226955,
+      "definition": "to persuade",
+      "pinyin": ["shui4", "shuo1"]
+    },
+    "她": { "total_fr": 221420, "definition": "she", "pinyin": ["ta1"] },
+    "想": {
+      "total_fr": 212185,
+      "definition": "to think",
+      "pinyin": ["xiang3"]
+    },
+    "一": { "total_fr": 203626, "definition": "one", "pinyin": ["yi1"] },
+    "很": {
+      "total_fr": 200584,
+      "definition": "(adverb of degree)",
+      "pinyin": ["hen3"]
+    },
+    "知道": {
+      "total_fr": 196745,
+      "definition": "to know",
+      "pinyin": ["zhi1 dao4"]
+    },
+    "人": { "total_fr": 194914, "definition": "man", "pinyin": ["ren2"] },
+    "吧": {
+      "total_fr": 194084,
+      "definition": "bar (loanword) (serving drinks, or providing Internet access etc)",
+      "pinyin": ["ba1", "ba5", "bia1"]
+    },
+    "那": {
+      "total_fr": 190087,
+      "definition": "variant of 哪[na3]",
+      "pinyin": ["na3", "na4", "nuo2"]
+    },
+    "来": { "total_fr": 185154, "definition": "to come", "pinyin": ["lai2"] },
+    "都": {
+      "total_fr": 177619,
+      "definition": "all",
+      "pinyin": ["dou1", "du1"]
+    },
+    "个": { "total_fr": 173905, "definition": "individual", "pinyin": ["ge4"] },
+    "能": { "total_fr": 166656, "definition": "can", "pinyin": ["neng2"] },
+    "去": { "total_fr": 163054, "definition": "to go", "pinyin": ["qu4"] },
+    "没": {
+      "total_fr": 159508,
+      "definition": "(negative prefix for verbs)",
+      "pinyin": ["mei2", "mo4"]
+    },
+    "和": {
+      "total_fr": 150418,
+      "definition": "old variant of 和[he2]",
+      "pinyin": ["he2", "he4", "hu2", "huo2", "huo4"]
+    },
+    "他们": {
+      "total_fr": 140460,
+      "definition": "they",
+      "pinyin": ["ta1 men5"]
+    },
+    "到": {
+      "total_fr": 139534,
+      "definition": "to (a place)",
+      "pinyin": ["dao4"]
+    },
+    "对": { "total_fr": 132805, "definition": "right", "pinyin": ["dui4"] },
+    "也": { "total_fr": 131801, "definition": "also", "pinyin": ["ye3"] },
+    "啊": {
+      "total_fr": 130963,
+      "definition": "interjection of surprise",
+      "pinyin": ["a1", "a2", "a3", "a4", "a5"]
+    },
+    "还": {
+      "total_fr": 130326,
+      "definition": "still",
+      "pinyin": ["hai2", "huan2"]
+    },
+    "把": {
+      "total_fr": 124534,
+      "definition": "to hold",
+      "pinyin": ["ba3", "ba4"]
+    },
+    "让": { "total_fr": 123809, "definition": "to yield", "pinyin": ["rang4"] },
+    "做": { "total_fr": 122364, "definition": "to do", "pinyin": ["zuo4"] },
+    "给": { "total_fr": 117218, "definition": "to", "pinyin": ["gei3", "ji3"] },
+    "一个": {
+      "total_fr": 116726,
+      "definition": "one (of something)",
+      "pinyin": "yi2 ge5"
+    },
+    "上": {
+      "total_fr": 114371,
+      "definition": "see 上聲|上声[shang3 sheng1]",
+      "pinyin": ["shang3", "shang4"]
+    },
+    "你们": {
+      "total_fr": 112946,
+      "definition": "you (plural)",
+      "pinyin": ["ni3 men5"]
+    },
+    "过": {
+      "total_fr": 112388,
+      "definition": "to cross",
+      "pinyin": ["guo4", "guo5"]
+    },
+    "没有": {
+      "total_fr": 108237,
+      "definition": "haven't",
+      "pinyin": ["mei2 you3"]
+    },
+    "得": {
+      "total_fr": 105189,
+      "definition": "to obtain",
+      "pinyin": ["de2", "de5", "dei3"]
+    },
+    "看": {
+      "total_fr": 102546,
+      "definition": "to look after",
+      "pinyin": ["kan1", "kan4"]
+    },
+    "真": { "total_fr": 102445, "definition": "really", "pinyin": ["zhen1"] },
+    "着": {
+      "total_fr": 100091,
+      "definition": "(chess) move",
+      "pinyin": ["zhao1", "zhao2", "zhe5", "zhuo2"]
+    },
+    "事": { "total_fr": 97715, "definition": "matter", "pinyin": ["shi4"] },
+    "这个": { "total_fr": 92058, "definition": "this", "pinyin": ["zhe4 ge5"] },
+    "怎么": { "total_fr": 89166, "definition": "how?", "pinyin": ["zen3 me5"] },
+    "现在": {
+      "total_fr": 88120,
+      "definition": "now",
+      "pinyin": ["xian4 zai4"]
+    },
+    "可以": { "total_fr": 79198, "definition": "can", "pinyin": ["ke3 yi3"] },
+    "点": { "total_fr": 77665, "definition": "point", "pinyin": ["dian3"] },
+    "呢": {
+      "total_fr": 76752,
+      "definition": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+      "pinyin": ["ne5", "ni2"]
+    },
+    "如果": { "total_fr": 76417, "definition": "if", "pinyin": ["ru2 guo3"] },
+    "只": {
+      "total_fr": 72698,
+      "definition": "only",
+      "pinyin": ["zhi3", "zhi1"]
+    },
+    "别": {
+      "total_fr": 69865,
+      "definition": "to leave",
+      "pinyin": ["bie2", "bie4"]
+    },
+    "哦": {
+      "total_fr": 69380,
+      "definition": "to chant",
+      "pinyin": ["e2", "o2", "o4", "o5"]
+    },
+    "但": { "total_fr": 68241, "definition": "but", "pinyin": ["dan4"] },
+    "被": { "total_fr": 65695, "definition": "quilt", "pinyin": ["bei4"] },
+    "走": { "total_fr": 65258, "definition": "to walk", "pinyin": ["zou3"] },
+    "太": { "total_fr": 65151, "definition": "highest", "pinyin": ["tai4"] },
+    "这样": {
+      "total_fr": 64295,
+      "definition": "this kind of",
+      "pinyin": ["zhe4 yang4"]
+    },
+    "里": {
+      "total_fr": 63276,
+      "definition": "variant of 裡|里[li3]",
+      "pinyin": ["li3", "Li3"]
+    },
+    "跟": { "total_fr": 62979, "definition": "heel", "pinyin": ["gen1"] },
+    "告诉": {
+      "total_fr": 61222,
+      "definition": "to press charges",
+      "pinyin": ["gao4 su4", "gao4 su5"]
+    },
+    "因为": {
+      "total_fr": 59823,
+      "definition": "because",
+      "pinyin": ["yin1 wei4"]
+    },
+    "自己": {
+      "total_fr": 57978,
+      "definition": "oneself",
+      "pinyin": ["zi4 ji3"]
+    },
+    "再": { "total_fr": 56520, "definition": "again", "pinyin": ["zai4"] },
+    "听": {
+      "total_fr": 54888,
+      "definition": "smile (archaic)",
+      "pinyin": ["yin3", "ting1", "ting4"]
+    },
+    "这里": {
+      "total_fr": 53900,
+      "definition": "variant of 這裡|这里[zhe4 li3]",
+      "pinyin": ["zhe4 li3"]
+    },
+    "快": { "total_fr": 53510, "definition": "rapid", "pinyin": ["kuai4"] },
+    "谁": { "total_fr": 52782, "definition": "who", "pinyin": ["shei2"] },
+    "但是": { "total_fr": 52718, "definition": "but", "pinyin": ["dan4 shi4"] },
+    "多": { "total_fr": 52605, "definition": "many", "pinyin": ["duo1"] },
+    "用": { "total_fr": 52436, "definition": "to use", "pinyin": ["yong4"] },
+    "时候": {
+      "total_fr": 52176,
+      "definition": "time",
+      "pinyin": ["shi2 hou5"]
+    },
+    "下": { "total_fr": 51975, "definition": "down", "pinyin": ["xia4"] },
+    "已经": {
+      "total_fr": 51772,
+      "definition": "already",
+      "pinyin": ["yi3 jing1"]
+    },
+    "谢谢": {
+      "total_fr": 51457,
+      "definition": "to thank",
+      "pinyin": ["xie4 xie5"]
+    },
+    "为什么": {
+      "total_fr": 51063,
+      "definition": "why?",
+      "pinyin": ["wei4 shen2 me5"]
+    },
+    "觉得": {
+      "total_fr": 51047,
+      "definition": "to think",
+      "pinyin": ["jue2 de5"]
+    },
+    "天": { "total_fr": 50660, "definition": "day", "pinyin": ["tian1"] },
+    "像": {
+      "total_fr": 50229,
+      "definition": "to resemble",
+      "pinyin": ["xiang4"]
+    },
+    "这么": {
+      "total_fr": 49082,
+      "definition": "so much",
+      "pinyin": ["zhe4 me5"]
+    },
+    "它": { "total_fr": 49024, "definition": "it", "pinyin": ["ta1"] },
+    "从": { "total_fr": 47313, "definition": "from", "pinyin": ["cong2"] },
+    "先生": {
+      "total_fr": 46864,
+      "definition": "Mister (Mr.)",
+      "pinyin": ["Xian1 sheng5", "xian1 sheng5"]
+    },
+    "找": {
+      "total_fr": 46647,
+      "definition": "to try to find",
+      "pinyin": ["zhao3"]
+    },
+    "最": {
+      "total_fr": 46464,
+      "definition": "variant of 最[zui4]",
+      "pinyin": ["zui4"]
+    },
+    "喜欢": {
+      "total_fr": 46146,
+      "definition": "to like",
+      "pinyin": ["xi3 huan5"]
+    },
+    "可": { "total_fr": 46123, "definition": "can", "pinyin": ["ke3", "ke4"] },
+    "为": {
+      "total_fr": 45565,
+      "definition": "as (in the capacity of)",
+      "pinyin": ["wei2", "wei4"]
+    },
+    "大": { "total_fr": 45061, "definition": "big", "pinyin": ["da4", "dai4"] },
+    "可能": {
+      "total_fr": 44424,
+      "definition": "might (happen)",
+      "pinyin": ["ke3 neng2"]
+    },
+    "需要": {
+      "total_fr": 44362,
+      "definition": "to need",
+      "pinyin": ["xu1 yao4"]
+    },
+    "是的": {
+      "total_fr": 44210,
+      "definition": "yes, that's right",
+      "pinyin": ["shi4 de5"]
+    },
+    "死": { "total_fr": 44056, "definition": "to die", "pinyin": ["si3"] },
+    "次": {
+      "total_fr": 43873,
+      "definition": "next in sequence",
+      "pinyin": ["ci4"]
+    },
+    "出": { "total_fr": 42784, "definition": "to go out", "pinyin": ["chu1"] },
+    "那么": {
+      "total_fr": 41794,
+      "definition": "like that",
+      "pinyin": ["na4 me5"]
+    },
+    "干": {
+      "total_fr": 41651,
+      "definition": "old variant of 乾|干[gan1]",
+      "pinyin": ["gan1", "gan4"]
+    },
+    "那个": {
+      "total_fr": 41417,
+      "definition": "that one",
+      "pinyin": ["na4 ge5"]
+    },
+    "嘿": { "total_fr": 41175, "definition": "hey", "pinyin": ["hei1"] },
+    "们": {
+      "total_fr": 39958,
+      "definition": "plural marker for pronouns, and nouns referring to individuals",
+      "pinyin": ["men5"]
+    },
+    "话": { "total_fr": 39900, "definition": "dialect", "pinyin": ["hua4"] },
+    "而": { "total_fr": 39381, "definition": "and", "pinyin": ["er2"] },
+    "么": {
+      "total_fr": 39120,
+      "definition": "exclamatory final particle",
+      "pinyin": ["ma2", "ma5", "me5"]
+    },
+    "东西": {
+      "total_fr": 38127,
+      "definition": "east and west",
+      "pinyin": ["dong1 xi1", "dong1 xi5"]
+    },
+    "应该": {
+      "total_fr": 37811,
+      "definition": "ought to",
+      "pinyin": ["ying1 gai1"]
+    },
+    "孩子": {
+      "total_fr": 37243,
+      "definition": "child",
+      "pinyin": ["hai2 zi5"]
+    },
+    "起来": {
+      "total_fr": 37205,
+      "definition": "to stand up",
+      "pinyin": ["qi3 lai5", "qi5 lai5"]
+    },
+    "所以": {
+      "total_fr": 37014,
+      "definition": "therefore",
+      "pinyin": ["suo3 yi3"]
+    },
+    "这些": {
+      "total_fr": 36735,
+      "definition": "these",
+      "pinyin": ["zhe4 xie1"]
+    },
+    "才": { "total_fr": 36716, "definition": "ability", "pinyin": ["cai2"] },
+    "两": { "total_fr": 36580, "definition": "two", "pinyin": ["liang3"] },
+    "错": { "total_fr": 36166, "definition": "mistake", "pinyin": ["cuo4"] },
+    "还有": {
+      "total_fr": 35932,
+      "definition": "furthermore",
+      "pinyin": ["hai2 you3"]
+    },
+    "又": {
+      "total_fr": 35561,
+      "definition": "(once) again",
+      "pinyin": ["you4"]
+    },
+    "小": { "total_fr": 34967, "definition": "small", "pinyin": ["xiao3"] },
+    "中": {
+      "total_fr": 34862,
+      "definition": "China",
+      "pinyin": ["Zhong1", "zhong1", "zhong4"]
+    },
+    "叫": { "total_fr": 34648, "definition": "to shout", "pinyin": ["jiao4"] },
+    "嗯": {
+      "total_fr": 34639,
+      "definition": "(a groaning sound)",
+      "pinyin": ["en1", "en4", "en5"]
+    },
+    "该": { "total_fr": 34169, "definition": "should", "pinyin": ["gai1"] },
+    "等": { "total_fr": 34016, "definition": "class", "pinyin": ["deng3"] },
+    "问题": {
+      "total_fr": 33364,
+      "definition": "question",
+      "pinyin": ["wen4 ti2"]
+    },
+    "一起": {
+      "total_fr": 32889,
+      "definition": "in the same place",
+      "pinyin": ["yi1 qi3"]
+    },
+    "拿": {
+      "total_fr": 32361,
+      "definition": "old variant of 拿[na2]",
+      "pinyin": ["na2"]
+    },
+    "更": {
+      "total_fr": 32253,
+      "definition": "to change or replace",
+      "pinyin": ["geng1", "geng4"]
+    },
+    "开始": {
+      "total_fr": 32126,
+      "definition": "to begin",
+      "pinyin": ["kai1 shi3"]
+    },
+    "帮": {
+      "total_fr": 31793,
+      "definition": "old variant of 幫|帮[bang1]",
+      "pinyin": ["bang1"]
+    },
+    "打": {
+      "total_fr": 31223,
+      "definition": "dozen (loanword)",
+      "pinyin": ["da2", "da3"]
+    },
+    "爱": { "total_fr": 31122, "definition": "to love", "pinyin": ["ai4"] },
+    "带": { "total_fr": 31069, "definition": "band", "pinyin": ["dai4"] },
+    "时间": {
+      "total_fr": 30703,
+      "definition": "time",
+      "pinyin": ["shi2 jian1"]
+    },
+    "年": { "total_fr": 30648, "definition": "year", "pinyin": ["nian2"] },
+    "请": { "total_fr": 30598, "definition": "to ask", "pinyin": ["qing3"] },
+    "回": { "total_fr": 30259, "definition": "to circle", "pinyin": ["hui2"] },
+    "工作": {
+      "total_fr": 30191,
+      "definition": "to work",
+      "pinyin": ["gong1 zuo4"]
+    },
+    "然后": {
+      "total_fr": 29752,
+      "definition": "after",
+      "pinyin": ["ran2 hou4"]
+    },
+    "当": {
+      "total_fr": 29619,
+      "definition": "(onom.) dong",
+      "pinyin": ["dang1", "dang4"]
+    },
+    "见": {
+      "total_fr": 29340,
+      "definition": "to see",
+      "pinyin": ["jian4", "xian4"]
+    },
+    "钱": { "total_fr": 29221, "definition": "coin", "pinyin": ["qian2"] },
+    "噢": { "total_fr": 29190, "definition": "Oh!", "pinyin": ["o1"] },
+    "一样": {
+      "total_fr": 28861,
+      "definition": "same",
+      "pinyin": ["yi1 yang4"]
+    },
+    "事情": {
+      "total_fr": 28176,
+      "definition": "affair",
+      "pinyin": ["shi4 qing5"]
+    },
+    "就是": {
+      "total_fr": 28137,
+      "definition": "(emphasizes that sth is precisely or exactly as stated)",
+      "pinyin": ["jiu4 shi4"]
+    },
+    "吃": { "total_fr": 27913, "definition": "to eat", "pinyin": ["chi1"] },
+    "所有": { "total_fr": 27749, "definition": "all", "pinyin": ["suo3 you3"] },
+    "开": { "total_fr": 27382, "definition": "to open", "pinyin": ["kai1"] },
+    "一下": {
+      "total_fr": 27171,
+      "definition": "(used after a verb) give it a go",
+      "pinyin": ["yi1 xia4"]
+    },
+    "家": {
+      "total_fr": 27026,
+      "definition": "see 傢伙|家伙[jia1 huo5]",
+      "pinyin": ["jia1"]
+    },
+    "非常": {
+      "total_fr": 26976,
+      "definition": "very",
+      "pinyin": ["fei1 chang2"]
+    },
+    "看到": {
+      "total_fr": 26783,
+      "definition": "to see",
+      "pinyin": "kan4 dao4"
+    },
+    "希望": {
+      "total_fr": 26658,
+      "definition": "to wish for",
+      "pinyin": ["xi1 wang4"]
+    },
+    "那些": {
+      "total_fr": 26450,
+      "definition": "those",
+      "pinyin": ["na4 xie1"]
+    },
+    "哪": {
+      "total_fr": 26385,
+      "definition": "how",
+      "pinyin": ["na3", "na5", "nei3"]
+    },
+    "当然": {
+      "total_fr": 26313,
+      "definition": "only natural",
+      "pinyin": ["dang1 ran2"]
+    },
+    "也许": {
+      "total_fr": 26083,
+      "definition": "perhaps",
+      "pinyin": ["ye3 xu3"]
+    },
+    "行": {
+      "total_fr": 26032,
+      "definition": "row",
+      "pinyin": ["hang2", "xing2"]
+    },
+    "朋友": {
+      "total_fr": 26017,
+      "definition": "friend",
+      "pinyin": ["peng2 you5"]
+    },
+    "妈妈": { "total_fr": 25730, "definition": "mama", "pinyin": ["ma1 ma5"] },
+    "相信": {
+      "total_fr": 25699,
+      "definition": "to be convinced (that sth is true)",
+      "pinyin": ["xiang1 xin4"]
+    },
+    "前": { "total_fr": 25613, "definition": "front", "pinyin": ["qian2"] },
+    "嗨": { "total_fr": 25335, "definition": "oh alas", "pinyin": ["hai1"] },
+    "认为": {
+      "total_fr": 25294,
+      "definition": "to believe",
+      "pinyin": ["ren4 wei2"]
+    },
+    "将": {
+      "total_fr": 24946,
+      "definition": "will",
+      "pinyin": ["jiang1", "jiang4", "qiang1"]
+    },
+    "这儿": { "total_fr": 24824, "definition": "here", "pinyin": ["zhe4 r5"] },
+    "今天": {
+      "total_fr": 24750,
+      "definition": "today",
+      "pinyin": ["jin1 tian1"]
+    },
+    "明白": {
+      "total_fr": 24744,
+      "definition": "clear",
+      "pinyin": ["ming2 bai5"]
+    },
+    "一直": {
+      "total_fr": 24551,
+      "definition": "straight (in a straight line)",
+      "pinyin": ["yi1 zhi2"]
+    },
+    "看看": {
+      "total_fr": 24319,
+      "definition": "to take a look at",
+      "pinyin": ["kan4 kan5"]
+    },
+    "车": { "total_fr": 23974, "definition": "car", "pinyin": ["che1", "ju1"] },
+    "时": {
+      "total_fr": 23472,
+      "definition": "old variant of 時|时[shi2]",
+      "pinyin": ["shi2"]
+    },
+    "杀": { "total_fr": 23405, "definition": "to kill", "pinyin": ["sha1"] },
+    "地方": {
+      "total_fr": 23358,
+      "definition": "region",
+      "pinyin": ["di4 fang1", "di4 fang5"]
+    },
+    "不过": { "total_fr": 23333, "definition": "only", "pinyin": ["bu4 guo4"] },
+    "呃": {
+      "total_fr": 22734,
+      "definition": "(exclamation)",
+      "pinyin": ["e4"]
+    },
+    "发生": {
+      "total_fr": 22602,
+      "definition": "to happen",
+      "pinyin": ["fa1 sheng1"]
+    },
+    "几": {
+      "total_fr": 22431,
+      "definition": "small table",
+      "pinyin": ["ji1", "ji3"]
+    },
+    "回来": {
+      "total_fr": 22423,
+      "definition": "to return",
+      "pinyin": ["hui2 lai5"]
+    },
+    "准备": {
+      "total_fr": 22202,
+      "definition": "preparation",
+      "pinyin": ["zhun3 bei4"]
+    },
+    "找到": {
+      "total_fr": 22128,
+      "definition": "to find",
+      "pinyin": ["zhao3 dao4"]
+    },
+    "后": { "total_fr": 22018, "definition": "empress", "pinyin": ["hou4"] },
+    "爸爸": {
+      "total_fr": 21930,
+      "definition": "(informal) father",
+      "pinyin": ["ba4 ba5"]
+    },
+    "一切": {
+      "total_fr": 21709,
+      "definition": "everything",
+      "pinyin": ["yi1 qie4"]
+    },
+    "抱歉": {
+      "total_fr": 21563,
+      "definition": "to be sorry",
+      "pinyin": ["bao4 qian4"]
+    },
+    "比": {
+      "total_fr": 21371,
+      "definition": "Belgium",
+      "pinyin": ["Bi3", "bi1", "bi3", "bi4"]
+    },
+    "感觉": {
+      "total_fr": 21315,
+      "definition": "to feel",
+      "pinyin": ["gan3 jue2"]
+    },
+    "些": {
+      "total_fr": 21286,
+      "definition": "classifier indicating a small amount or small number greater than 1: some, a few, several",
+      "pinyin": ["xie1"]
+    },
+    "只是": {
+      "total_fr": 21213,
+      "definition": "merely",
+      "pinyin": ["zhi3 shi4"]
+    },
+    "怎么样": {
+      "total_fr": 20986,
+      "definition": "how?",
+      "pinyin": ["zen3 me5 yang4"]
+    },
+    "出来": {
+      "total_fr": 20938,
+      "definition": "to come out",
+      "pinyin": ["chu1 lai2", "chu5 lai5"]
+    },
+    "不要": {
+      "total_fr": 20679,
+      "definition": "don't!",
+      "pinyin": ["bu4 yao4"]
+    },
+    "对不起": {
+      "total_fr": 20548,
+      "definition": "unworthy",
+      "pinyin": ["dui4 bu5 qi3"]
+    },
+    "问": { "total_fr": 20455, "definition": "to ask", "pinyin": ["wen4"] },
+    "离开": {
+      "total_fr": 20359,
+      "definition": "to depart",
+      "pinyin": ["li2 kai1"]
+    },
+    "一点": {
+      "total_fr": 20342,
+      "definition": "a bit",
+      "pinyin": ["yi1 dian3"]
+    },
+    "一定": {
+      "total_fr": 20273,
+      "definition": "surely",
+      "pinyin": ["yi1 ding4"]
+    },
+    "起": { "total_fr": 20231, "definition": "to rise", "pinyin": ["qi3"] },
+    "还是": { "total_fr": 19998, "definition": "or", "pinyin": ["hai2 shi5"] },
+    "发现": {
+      "total_fr": 19774,
+      "definition": "to find",
+      "pinyin": ["fa1 xian4"]
+    },
+    "所": { "total_fr": 19715, "definition": "actually", "pinyin": ["suo3"] },
+    "住": { "total_fr": 19602, "definition": "to live", "pinyin": ["zhu4"] },
+    "件": { "total_fr": 19568, "definition": "item", "pinyin": ["jian4"] },
+    "正": {
+      "total_fr": 19536,
+      "definition": "first month of the lunar year",
+      "pinyin": ["zheng1", "zheng4"]
+    },
+    "而且": {
+      "total_fr": 19404,
+      "definition": "(not only ...) but also",
+      "pinyin": ["er2 qie3"]
+    },
+    "并": { "total_fr": 19394, "definition": "and", "pinyin": ["bing4"] },
+    "必须": {
+      "total_fr": 19320,
+      "definition": "to have to",
+      "pinyin": ["bi4 xu1"]
+    },
+    "意思": { "total_fr": 19239, "definition": "idea", "pinyin": ["yi4 si5"] },
+    "放": { "total_fr": 19099, "definition": "to put", "pinyin": ["fang4"] },
+    "不错": {
+      "total_fr": 18930,
+      "definition": "correct",
+      "pinyin": ["bu4 cuo4"]
+    },
+    "肯定": {
+      "total_fr": 18531,
+      "definition": "to be certain",
+      "pinyin": ["ken3 ding4"]
+    },
+    "电话": {
+      "total_fr": 18374,
+      "definition": "telephone",
+      "pinyin": ["dian4 hua4"]
+    },
+    "为了": {
+      "total_fr": 18274,
+      "definition": "in order to",
+      "pinyin": ["wei4 le5"]
+    },
+    "搞": { "total_fr": 18263, "definition": "to do", "pinyin": ["gao3"] },
+    "棒": { "total_fr": 18253, "definition": "stick", "pinyin": ["bang4"] },
+    "第一": { "total_fr": 18192, "definition": "first", "pinyin": ["di4 yi1"] },
+    "妈": { "total_fr": 18110, "definition": "ma", "pinyin": ["ma1"] },
+    "地": { "total_fr": 18009, "definition": "-ly", "pinyin": ["de5", "di4"] },
+    "进": {
+      "total_fr": 17634,
+      "definition": "to go forward",
+      "pinyin": ["jin4"]
+    },
+    "那样": {
+      "total_fr": 17495,
+      "definition": "that kind",
+      "pinyin": ["na4 yang4"]
+    },
+    "大家": {
+      "total_fr": 17458,
+      "definition": "everyone",
+      "pinyin": ["da4 jia1"]
+    },
+    "新": {
+      "total_fr": 17291,
+      "definition": "abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1 po1]",
+      "pinyin": ["Xin1", "xin1"]
+    },
+    "您": {
+      "total_fr": 17279,
+      "definition": "you (courteous, as opposed to informal 你[ni3])",
+      "pinyin": ["nin2"]
+    },
+    "向": { "total_fr": 17219, "definition": "towards", "pinyin": ["xiang4"] },
+    "一些": { "total_fr": 17133, "definition": "some", "pinyin": ["yi1 xie1"] },
+    "三": { "total_fr": 16916, "definition": "three", "pinyin": ["san1"] },
+    "那里": { "total_fr": 16783, "definition": "there", "pinyin": ["na4 li5"] },
+    "以为": {
+      "total_fr": 16582,
+      "definition": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+      "pinyin": ["yi3 wei2"]
+    },
+    "高兴": {
+      "total_fr": 16480,
+      "definition": "happy",
+      "pinyin": ["gao1 xing4"]
+    },
+    "嘛": {
+      "total_fr": 16472,
+      "definition": "modal particle indicating that sth is obvious",
+      "pinyin": ["ma5"]
+    },
+    "老": {
+      "total_fr": 16451,
+      "definition": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+      "pinyin": ["lao3"]
+    },
+    "位": { "total_fr": 16368, "definition": "position", "pinyin": ["wei4"] },
+    "过来": {
+      "total_fr": 16223,
+      "definition": "to come over",
+      "pinyin": ["guo4 lai2", "guo4 lai5"]
+    },
+    "掉": { "total_fr": 16141, "definition": "to fall", "pinyin": ["diao4"] },
+    "先": { "total_fr": 16060, "definition": "early", "pinyin": ["xian1"] },
+    "等等": {
+      "total_fr": 15921,
+      "definition": "et cetera",
+      "pinyin": ["deng3 deng3"]
+    },
+    "生活": {
+      "total_fr": 15918,
+      "definition": "life",
+      "pinyin": ["sheng1 huo2"]
+    },
+    "之": {
+      "total_fr": 15804,
+      "definition": "(possessive particle, literary equivalent of 的[de5])",
+      "pinyin": ["zhi1"]
+    },
+    "买": { "total_fr": 15766, "definition": "to buy", "pinyin": ["mai3"] },
+    "种": {
+      "total_fr": 15716,
+      "definition": "seed",
+      "pinyin": ["zhong3", "zhong4"]
+    },
+    "医生": {
+      "total_fr": 15679,
+      "definition": "doctor",
+      "pinyin": ["yi1 sheng1"]
+    },
+    "最后": {
+      "total_fr": 15200,
+      "definition": "final",
+      "pinyin": ["zui4 hou4"]
+    },
+    "之前": {
+      "total_fr": 15187,
+      "definition": "before",
+      "pinyin": ["zhi1 qian2"]
+    },
+    "伙计": {
+      "total_fr": 15063,
+      "definition": "partner",
+      "pinyin": ["huo3 ji5"]
+    },
+    "手": { "total_fr": 15010, "definition": "hand", "pinyin": ["shou3"] },
+    "任何": { "total_fr": 14918, "definition": "any", "pinyin": ["ren4 he2"] },
+    "很多": { "total_fr": 14874, "definition": "many", "pinyin": "hen3 duo1" },
+    "哪儿": { "total_fr": 14873, "definition": "where?", "pinyin": ["na3 r5"] },
+    "这种": {
+      "total_fr": 14615,
+      "definition": "this",
+      "pinyin": ["zhe4 zhong3"]
+    },
+    "上帝": {
+      "total_fr": 14605,
+      "definition": "God",
+      "pinyin": ["Shang4 di4"]
+    },
+    "女人": {
+      "total_fr": 14388,
+      "definition": "woman",
+      "pinyin": ["nu:3 ren2", "nu:3 ren5"]
+    },
+    "名字": {
+      "total_fr": 14335,
+      "definition": "name (of a person or thing)",
+      "pinyin": ["ming2 zi5"]
+    },
+    "认识": {
+      "total_fr": 14304,
+      "definition": "to know",
+      "pinyin": ["ren4 shi5"]
+    },
+    "坐": { "total_fr": 14204, "definition": "to sit", "pinyin": ["zuo4"] },
+    "今晚": {
+      "total_fr": 14178,
+      "definition": "tonight",
+      "pinyin": ["jin1 wan3"]
+    },
+    "其他": { "total_fr": 14163, "definition": "other", "pinyin": ["qi2 ta1"] },
+    "喝": {
+      "total_fr": 14004,
+      "definition": "to drink",
+      "pinyin": ["he1", "he4"]
+    },
+    "记得": {
+      "total_fr": 13898,
+      "definition": "to remember",
+      "pinyin": ["ji4 de5"]
+    },
+    "家伙": {
+      "total_fr": 13846,
+      "definition": "variant of 家伙[jia1 huo5]",
+      "pinyin": ["jia1 huo5"]
+    },
+    "与": {
+      "total_fr": 13700,
+      "definition": "variant of 歟|欤[yu2]",
+      "pinyin": ["yu2", "yu3", "yu4"]
+    },
+    "或者": { "total_fr": 13597, "definition": "or", "pinyin": ["huo4 zhe3"] },
+    "写": { "total_fr": 13589, "definition": "to write", "pinyin": ["xie3"] },
+    "穿": { "total_fr": 13586, "definition": "to wear", "pinyin": ["chuan1"] },
+    "弄": {
+      "total_fr": 13574,
+      "definition": "lane",
+      "pinyin": ["long4", "nong4"]
+    },
+    "过去": {
+      "total_fr": 13485,
+      "definition": "(in the) past",
+      "pinyin": ["guo4 qu4", "guo4 qu5"]
+    },
+    "哪里": {
+      "total_fr": 13471,
+      "definition": "where?",
+      "pinyin": ["na3 li3"]
+    },
+    "啦": {
+      "total_fr": 13369,
+      "definition": "(onom.) sound of singing, cheering etc",
+      "pinyin": ["la1", "la5"]
+    },
+    "却": {
+      "total_fr": 13346,
+      "definition": "old variant of 卻|却[que4]",
+      "pinyin": ["que4"]
+    },
+    "算": {
+      "total_fr": 13337,
+      "definition": "to regard as",
+      "pinyin": ["suan4"]
+    },
+    "担心": {
+      "total_fr": 13238,
+      "definition": "anxious",
+      "pinyin": ["dan1 xin1"]
+    },
+    "继续": {
+      "total_fr": 13221,
+      "definition": "to continue",
+      "pinyin": ["ji4 xu4"]
+    },
+    "送": {
+      "total_fr": 13212,
+      "definition": "to deliver",
+      "pinyin": ["song4"]
+    },
+    "女孩": {
+      "total_fr": 13197,
+      "definition": "girl",
+      "pinyin": ["nu:3 hai2"]
+    },
+    "以": {
+      "total_fr": 13083,
+      "definition": "old variant of 以[yi3]",
+      "pinyin": ["yi3", "Yi3"]
+    },
+    "玩": { "total_fr": 13033, "definition": "to play", "pinyin": ["wan2"] },
+    "亲爱": { "total_fr": 12783, "definition": "dear", "pinyin": ["qin1 ai4"] },
+    "下来": {
+      "total_fr": 12748,
+      "definition": "to come down",
+      "pinyin": ["xia4 lai5"]
+    },
+    "成": {
+      "total_fr": 12539,
+      "definition": "to succeed",
+      "pinyin": ["cheng2"]
+    },
+    "条": { "total_fr": 12508, "definition": "strip", "pinyin": ["tiao2"] },
+    "够": {
+      "total_fr": 12404,
+      "definition": "enough (sufficient)",
+      "pinyin": ["gou4"]
+    },
+    "父亲": {
+      "total_fr": 12399,
+      "definition": "father",
+      "pinyin": ["fu4 qin1"]
+    },
+    "以前": {
+      "total_fr": 12391,
+      "definition": "before",
+      "pinyin": ["yi3 qian2"]
+    },
+    "跑": {
+      "total_fr": 12332,
+      "definition": "(of an animal) to paw (the ground)",
+      "pinyin": ["pao2", "pao3"]
+    },
+    "月": { "total_fr": 12253, "definition": "moon", "pinyin": ["yue4"] },
+    "早": { "total_fr": 12185, "definition": "early", "pinyin": ["zao3"] },
+    "美国": {
+      "total_fr": 12185,
+      "definition": "United States",
+      "pinyin": ["Mei3 guo2"]
+    },
+    "长": {
+      "total_fr": 12173,
+      "definition": "length",
+      "pinyin": ["chang2", "zhang3"]
+    },
+    "完全": {
+      "total_fr": 12068,
+      "definition": "complete",
+      "pinyin": ["wan2 quan2"]
+    },
+    "宝贝": {
+      "total_fr": 11950,
+      "definition": "treasured object",
+      "pinyin": ["bao3 bei4"]
+    },
+    "号": {
+      "total_fr": 11862,
+      "definition": "roar",
+      "pinyin": ["hao2", "hao4"]
+    },
+    "枪": { "total_fr": 11850, "definition": "gun", "pinyin": ["qiang1"] },
+    "狗": { "total_fr": 11808, "definition": "dog", "pinyin": ["gou3"] },
+    "可是": { "total_fr": 11739, "definition": "but", "pinyin": ["ke3 shi4"] },
+    "世界": {
+      "total_fr": 11721,
+      "definition": "world",
+      "pinyin": ["shi4 jie4"]
+    },
+    "小时": {
+      "total_fr": 11709,
+      "definition": "hour",
+      "pinyin": ["xiao3 shi2"]
+    },
+    "重要": {
+      "total_fr": 11677,
+      "definition": "important",
+      "pinyin": ["zhong4 yao4"]
+    },
+    "谈": { "total_fr": 11653, "definition": "to speak", "pinyin": ["tan2"] },
+    "别人": {
+      "total_fr": 11613,
+      "definition": "other people",
+      "pinyin": ["bie2 ren5"]
+    },
+    "男人": {
+      "total_fr": 11608,
+      "definition": "a man",
+      "pinyin": ["nan2 ren2"]
+    },
+    "头": {
+      "total_fr": 11582,
+      "definition": "head",
+      "pinyin": ["tou2", "tou5"]
+    },
+    "机会": {
+      "total_fr": 11571,
+      "definition": "opportunity",
+      "pinyin": ["ji1 hui4"]
+    },
+    "岁": {
+      "total_fr": 11556,
+      "definition": "variant of 歲|岁[sui4], year",
+      "pinyin": ["sui4"]
+    },
+    "出去": {
+      "total_fr": 11524,
+      "definition": "to go out",
+      "pinyin": ["chu1 qu4"]
+    },
+    "活": { "total_fr": 11509, "definition": "to live", "pinyin": ["huo2"] },
+    "看见": {
+      "total_fr": 11442,
+      "definition": "to see",
+      "pinyin": ["kan4 jian4"]
+    },
+    "者": {
+      "total_fr": 11387,
+      "definition": "(after a verb or adjective) one who (is) ...",
+      "pinyin": ["zhe3"]
+    },
+    "打电话": {
+      "total_fr": 11289,
+      "definition": "to make a telephone call",
+      "pinyin": ["da3 dian4 hua4"]
+    },
+    "喂": {
+      "total_fr": 11286,
+      "definition": "hello (when answering the phone)",
+      "pinyin": ["wei2", "wei4"]
+    },
+    "好像": {
+      "total_fr": 11214,
+      "definition": "as if",
+      "pinyin": ["hao3 xiang4"]
+    },
+    "得到": {
+      "total_fr": 11188,
+      "definition": "to get",
+      "pinyin": ["de2 dao4"]
+    },
+    "警察": {
+      "total_fr": 11176,
+      "definition": "police",
+      "pinyin": ["jing3 cha2"]
+    },
+    "完": { "total_fr": 11162, "definition": "to finish", "pinyin": ["wan2"] },
+    "张": {
+      "total_fr": 11146,
+      "definition": "to open up",
+      "pinyin": ["zhang1"]
+    },
+    "儿子": { "total_fr": 11100, "definition": "son", "pinyin": ["er2 zi5"] },
+    "之后": {
+      "total_fr": 11099,
+      "definition": "afterwards",
+      "pinyin": ["zhi1 hou4"]
+    },
+    "漂亮": {
+      "total_fr": 11032,
+      "definition": "pretty",
+      "pinyin": ["piao4 liang5"]
+    },
+    "分钟": {
+      "total_fr": 11029,
+      "definition": "minute",
+      "pinyin": ["fen1 zhong1"]
+    },
+    "接": { "total_fr": 10970, "definition": "to receive", "pinyin": ["jie1"] },
+    "场": {
+      "total_fr": 10963,
+      "definition": "threshing floor",
+      "pinyin": ["chang2", "chang3"]
+    },
+    "再见": {
+      "total_fr": 10958,
+      "definition": "goodbye",
+      "pinyin": ["zai4 jian4"]
+    },
+    "求": { "total_fr": 10904, "definition": "to seek", "pinyin": ["qiu2"] },
+    "刚": { "total_fr": 10888, "definition": "hard", "pinyin": ["gang1"] },
+    "如何": { "total_fr": 10879, "definition": "how", "pinyin": ["ru2 he2"] },
+    "比赛": {
+      "total_fr": 10726,
+      "definition": "competition (sports etc)",
+      "pinyin": ["bi3 sai4"]
+    },
+    "呀": {
+      "total_fr": 10700,
+      "definition": "(particle equivalent to 啊 after a vowel, expressing surprise or doubt)",
+      "pinyin": ["ya5"]
+    },
+    "情况": {
+      "total_fr": 10673,
+      "definition": "circumstances",
+      "pinyin": ["qing2 kuang4"]
+    },
+    "变": { "total_fr": 10580, "definition": "to change", "pinyin": ["bian4"] },
+    "关系": {
+      "total_fr": 10567,
+      "definition": "relation",
+      "pinyin": ["guan1 xi5"]
+    },
+    "真是": {
+      "total_fr": 10559,
+      "definition": "indeed",
+      "pinyin": ["zhen1 shi5"]
+    },
+    "女士": {
+      "total_fr": 10544,
+      "definition": "lady",
+      "pinyin": ["nu:3 shi4"]
+    },
+    "本": { "total_fr": 10526, "definition": "root", "pinyin": ["ben3"] },
+    "马上": {
+      "total_fr": 10413,
+      "definition": "at once",
+      "pinyin": ["ma3 shang4"]
+    },
+    "决定": {
+      "total_fr": 10318,
+      "definition": "to decide (to do something)",
+      "pinyin": ["jue2 ding4"]
+    },
+    "见到": {
+      "total_fr": 10317,
+      "definition": "to see",
+      "pinyin": ["jian4 dao4"]
+    },
+    "根本": {
+      "total_fr": 10311,
+      "definition": "fundamental",
+      "pinyin": ["gen1 ben3"]
+    },
+    "关于": {
+      "total_fr": 10266,
+      "definition": "pertaining to",
+      "pinyin": ["guan1 yu2"]
+    },
+    "那儿": { "total_fr": 10254, "definition": "there", "pinyin": ["na4 r5"] },
+    "难": {
+      "total_fr": 10254,
+      "definition": "difficult (to...)",
+      "pinyin": ["nan2", "nan4"]
+    },
+    "只要": {
+      "total_fr": 10236,
+      "definition": "if only",
+      "pinyin": ["zhi3 yao4"]
+    },
+    "里面": {
+      "total_fr": 10183,
+      "definition": "inside",
+      "pinyin": ["li3 mian4"]
+    },
+    "每": { "total_fr": 10154, "definition": "each", "pinyin": ["mei3"] },
+    "份": {
+      "total_fr": 10154,
+      "definition": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+      "pinyin": ["fen4"]
+    },
+    "到底": {
+      "total_fr": 10133,
+      "definition": "finally",
+      "pinyin": ["dao4 di3"]
+    },
+    "了解": {
+      "total_fr": 10127,
+      "definition": "to understand",
+      "pinyin": ["liao3 jie3"]
+    },
+    "明天": {
+      "total_fr": 10108,
+      "definition": "tomorrow",
+      "pinyin": ["ming2 tian1"]
+    },
+    "站": { "total_fr": 10081, "definition": "station", "pinyin": ["zhan4"] },
+    "结束": {
+      "total_fr": 10050,
+      "definition": "termination",
+      "pinyin": ["jie2 shu4"]
+    },
+    "公司": {
+      "total_fr": 10046,
+      "definition": "(business) company",
+      "pinyin": ["gong1 si1"]
+    },
+    "成为": {
+      "total_fr": 10038,
+      "definition": "to become",
+      "pinyin": ["cheng2 wei2"]
+    },
+    "永远": {
+      "total_fr": 10036,
+      "definition": "forever",
+      "pinyin": ["yong3 yuan3"]
+    },
+    "帮助": {
+      "total_fr": 10033,
+      "definition": "assistance",
+      "pinyin": ["bang1 zhu4"]
+    },
+    "来说": {
+      "total_fr": 10026,
+      "definition": "speaking",
+      "pinyin": "lai2 shuo1"
+    },
+    "多少": {
+      "total_fr": 9965,
+      "definition": "number",
+      "pinyin": ["duo1 shao3", "duo1 shao5"]
+    },
+    "哇": { "total_fr": 9951, "definition": "Wow!", "pinyin": ["wa1", "wa5"] },
+    "名": { "total_fr": 9950, "definition": "name", "pinyin": ["ming2"] },
+    "它们": {
+      "total_fr": 9933,
+      "definition": "they (for inanimate objects)",
+      "pinyin": ["ta1 men5"]
+    },
+    "总": { "total_fr": 9898, "definition": "always", "pinyin": ["zong3"] },
+    "确定": {
+      "total_fr": 9889,
+      "definition": "definite",
+      "pinyin": ["que4 ding4"]
+    },
+    "有人": {
+      "total_fr": 9877,
+      "definition": "someone",
+      "pinyin": ["you3 ren2"]
+    },
+    "清楚": {
+      "total_fr": 9836,
+      "definition": "clear",
+      "pinyin": ["qing1 chu5"]
+    },
+    "晚上": {
+      "total_fr": 9574,
+      "definition": "evening",
+      "pinyin": ["wan3 shang5"]
+    },
+    "安全": { "total_fr": 9541, "definition": "safe", "pinyin": ["an1 quan2"] },
+    "怎样": { "total_fr": 9529, "definition": "how", "pinyin": ["zen3 yang4"] },
+    "没什么": {
+      "total_fr": 9452,
+      "definition": "nothing",
+      "pinyin": ["mei2 shen2 me5"]
+    },
+    "块": {
+      "total_fr": 9365,
+      "definition": "lump (of earth)",
+      "pinyin": ["kuai4"]
+    },
+    "回家": {
+      "total_fr": 9360,
+      "definition": "to return home",
+      "pinyin": ["hui2 jia1"]
+    },
+    "留": {
+      "total_fr": 9272,
+      "definition": "old variant of 留[liu2]",
+      "pinyin": ["liu2"]
+    },
+    "周": {
+      "total_fr": 9241,
+      "definition": "to make a circuit",
+      "pinyin": ["zhou1"]
+    },
+    "愿意": {
+      "total_fr": 9191,
+      "definition": "to wish",
+      "pinyin": ["yuan4 yi4"]
+    },
+    "计划": { "total_fr": 9169, "definition": "plan", "pinyin": ["ji4 hua4"] },
+    "爸": { "total_fr": 9154, "definition": "father", "pinyin": ["ba4"] },
+    "俩": {
+      "total_fr": 9037,
+      "definition": "two (colloquial equivalent of 兩個|两个)",
+      "pinyin": ["lia3"]
+    },
+    "停": { "total_fr": 9028, "definition": "to stop", "pinyin": ["ting2"] },
+    "不能": {
+      "total_fr": 9019,
+      "definition": "cannot",
+      "pinyin": ["bu4 neng2"]
+    },
+    "他妈的": {
+      "total_fr": 9006,
+      "definition": "(taboo curse) damn it!",
+      "pinyin": ["ta1 ma1 de5"]
+    },
+    "说话": {
+      "total_fr": 8985,
+      "definition": "to speak",
+      "pinyin": ["shuo1 hua4"]
+    },
+    "另": { "total_fr": 8973, "definition": "other", "pinyin": ["ling4"] },
+    "心": { "total_fr": 8955, "definition": "heart", "pinyin": ["xin1"] },
+    "花": { "total_fr": 8947, "definition": "flower", "pinyin": ["hua1"] },
+    "她们": { "total_fr": 8912, "definition": "they", "pinyin": ["ta1 men5"] },
+    "有些": { "total_fr": 8889, "definition": "some", "pinyin": ["you3 xie1"] },
+    "门": { "total_fr": 8879, "definition": "gate", "pinyin": ["men2"] },
+    "感谢": {
+      "total_fr": 8860,
+      "definition": "(express) thanks",
+      "pinyin": ["gan3 xie4"]
+    },
+    "谈谈": {
+      "total_fr": 8820,
+      "definition": "to discuss",
+      "pinyin": ["tan2 tan2"]
+    },
+    "定": { "total_fr": 8761, "definition": "to set", "pinyin": ["ding4"] },
+    "于": { "total_fr": 8727, "definition": "to go", "pinyin": ["yu2"] },
+    "以后": { "total_fr": 8698, "definition": "after", "pinyin": ["yi3 hou4"] },
+    "管": {
+      "total_fr": 8697,
+      "definition": "variant of 管[guan3]",
+      "pinyin": ["guan3"]
+    },
+    "照片": {
+      "total_fr": 8687,
+      "definition": "photograph",
+      "pinyin": ["zhao4 pian4"]
+    },
+    "每个": {
+      "total_fr": 8685,
+      "definition": "each/every",
+      "pinyin": "mei3 ge4"
+    },
+    "欢迎": {
+      "total_fr": 8674,
+      "definition": "to welcome",
+      "pinyin": ["huan1 ying2"]
+    },
+    "敢": { "total_fr": 8664, "definition": "to dare", "pinyin": ["gan3"] },
+    "兄弟": {
+      "total_fr": 8631,
+      "definition": "brothers",
+      "pinyin": ["xiong1 di4"]
+    },
+    "从来": {
+      "total_fr": 8581,
+      "definition": "always",
+      "pinyin": ["cong2 lai2"]
+    },
+    "总是": {
+      "total_fr": 8552,
+      "definition": "always",
+      "pinyin": ["zong3 shi4"]
+    },
+    "嘴": { "total_fr": 8513, "definition": "mouth", "pinyin": ["zui3"] },
+    "跳": { "total_fr": 8496, "definition": "to jump", "pinyin": ["tiao4"] },
+    "拜托": {
+      "total_fr": 8456,
+      "definition": "to request sb to do sth",
+      "pinyin": ["bai4 tuo1"]
+    },
+    "女儿": {
+      "total_fr": 8450,
+      "definition": "daughter",
+      "pinyin": ["nu:3 er2"]
+    },
+    "抓": { "total_fr": 8430, "definition": "to grab", "pinyin": ["zhua1"] },
+    "小姐": {
+      "total_fr": 8423,
+      "definition": "young lady",
+      "pinyin": ["xiao3 jie5"]
+    },
+    "动": {
+      "total_fr": 8406,
+      "definition": "(of sth) to move",
+      "pinyin": ["dong4"]
+    },
+    "赢": { "total_fr": 8363, "definition": "to beat", "pinyin": ["ying2"] },
+    "消息": { "total_fr": 8346, "definition": "news", "pinyin": ["xiao1 xi5"] },
+    "女": {
+      "total_fr": 8343,
+      "definition": "female",
+      "pinyin": ["nu:3", "ru3"]
+    },
+    "忙": { "total_fr": 8342, "definition": "busy", "pinyin": ["mang2"] },
+    "或许": {
+      "total_fr": 8315,
+      "definition": "perhaps",
+      "pinyin": ["huo4 xu3"]
+    },
+    "如此": {
+      "total_fr": 8305,
+      "definition": "in this way",
+      "pinyin": ["ru2 ci3"]
+    },
+    "队": { "total_fr": 8286, "definition": "squadron", "pinyin": ["dui4"] },
+    "无法": { "total_fr": 8226, "definition": "unable", "pinyin": ["wu2 fa3"] },
+    "房子": {
+      "total_fr": 8223,
+      "definition": "house",
+      "pinyin": ["fang2 zi5"]
+    },
+    "拉": { "total_fr": 8219, "definition": "to pull", "pinyin": ["la1"] },
+    "衣服": {
+      "total_fr": 8130,
+      "definition": "clothes",
+      "pinyin": ["yi1 fu5"]
+    },
+    "听说": {
+      "total_fr": 8098,
+      "definition": "to hear (sth said)",
+      "pinyin": ["ting1 shuo1"]
+    },
+    "救": {
+      "total_fr": 8095,
+      "definition": "variant of 救[jiu4]",
+      "pinyin": ["jiu4"]
+    },
+    "参加": {
+      "total_fr": 8081,
+      "definition": "to participate",
+      "pinyin": ["can1 jia1"]
+    },
+    "办法": { "total_fr": 8059, "definition": "means", "pinyin": ["ban4 fa3"] },
+    "睡": { "total_fr": 8031, "definition": "to sleep", "pinyin": ["shui4"] },
+    "唯一": { "total_fr": 8023, "definition": "only", "pinyin": ["wei2 yi1"] },
+    "回去": {
+      "total_fr": 7993,
+      "definition": "to return",
+      "pinyin": ["hui2 qu5"]
+    },
+    "人们": {
+      "total_fr": 7990,
+      "definition": "people",
+      "pinyin": ["ren2 men5"]
+    },
+    "晚": { "total_fr": 7970, "definition": "evening", "pinyin": ["wan3"] },
+    "该死": {
+      "total_fr": 7905,
+      "definition": "Damn it!",
+      "pinyin": ["gai1 si3"]
+    },
+    "闭": { "total_fr": 7894, "definition": "to close", "pinyin": ["bi4"] },
+    "选择": {
+      "total_fr": 7885,
+      "definition": "to select",
+      "pinyin": ["xuan3 ze2"]
+    },
+    "坏": { "total_fr": 7842, "definition": "bad", "pinyin": ["huai4"] },
+    "原因": {
+      "total_fr": 7829,
+      "definition": "cause",
+      "pinyin": ["yuan2 yin1"]
+    },
+    "下去": {
+      "total_fr": 7767,
+      "definition": "to go down",
+      "pinyin": ["xia4 qu4"]
+    },
+    "受": { "total_fr": 7756, "definition": "to receive", "pinyin": ["shou4"] },
+    "连": { "total_fr": 7706, "definition": "to link", "pinyin": ["lian2"] },
+    "好好": { "total_fr": 7704, "definition": "well", "pinyin": ["hao3 hao3"] },
+    "全": { "total_fr": 7693, "definition": "all", "pinyin": ["quan2"] },
+    "确实": {
+      "total_fr": 7630,
+      "definition": "indeed",
+      "pinyin": ["que4 shi2"]
+    },
+    "挺": { "total_fr": 7603, "definition": "straight", "pinyin": ["ting3"] },
+    "此": { "total_fr": 7595, "definition": "this", "pinyin": ["ci3"] },
+    "水": { "total_fr": 7581, "definition": "water", "pinyin": ["shui3"] },
+    "混蛋": {
+      "total_fr": 7572,
+      "definition": "scoundrel",
+      "pinyin": ["hun2 dan4"]
+    },
+    "杯": { "total_fr": 7541, "definition": "cup", "pinyin": ["bei1"] },
+    "保证": {
+      "total_fr": 7515,
+      "definition": "guarantee",
+      "pinyin": ["bao3 zheng4"]
+    },
+    "学校": {
+      "total_fr": 7502,
+      "definition": "school",
+      "pinyin": ["xue2 xiao4"]
+    },
+    "卖": { "total_fr": 7475, "definition": "to sell", "pinyin": ["mai4"] },
+    "信": { "total_fr": 7450, "definition": "letter", "pinyin": ["xin4"] },
+    "接受": {
+      "total_fr": 7444,
+      "definition": "to accept",
+      "pinyin": ["jie1 shou4"]
+    },
+    "改变": {
+      "total_fr": 7434,
+      "definition": "to change",
+      "pinyin": ["gai3 bian4"]
+    },
+    "舞": { "total_fr": 7420, "definition": "to dance", "pinyin": ["wu3"] },
+    "看来": {
+      "total_fr": 7416,
+      "definition": "apparently",
+      "pinyin": ["kan4 lai5"]
+    },
+    "高": { "total_fr": 7415, "definition": "high", "pinyin": ["gao1"] },
+    "麻烦": {
+      "total_fr": 7376,
+      "definition": "inconvenient",
+      "pinyin": ["ma2 fan5"]
+    },
+    "出现": {
+      "total_fr": 7322,
+      "definition": "to appear",
+      "pinyin": ["chu1 xian4"]
+    },
+    "打算": {
+      "total_fr": 7315,
+      "definition": "to plan",
+      "pinyin": ["da3 suan4"]
+    },
+    "电影": {
+      "total_fr": 7249,
+      "definition": "movie",
+      "pinyin": ["dian4 ying3"]
+    },
+    "试": { "total_fr": 7231, "definition": "to test", "pinyin": ["shi4"] },
+    "身上": {
+      "total_fr": 7228,
+      "definition": "on the body",
+      "pinyin": ["shen1 shang5"]
+    },
+    "房间": {
+      "total_fr": 7208,
+      "definition": "room",
+      "pinyin": ["fang2 jian1"]
+    },
+    "美": {
+      "total_fr": 7200,
+      "definition": "the Americas",
+      "pinyin": ["Mei3", "mei3"]
+    },
+    "不管": {
+      "total_fr": 7185,
+      "definition": "not to be concerned",
+      "pinyin": ["bu4 guan3"]
+    },
+    "书": {
+      "total_fr": 7152,
+      "definition": "abbr. for 書經|书经[Shu1 jing1]",
+      "pinyin": ["Shu1", "shu1"]
+    },
+    "特别": {
+      "total_fr": 7131,
+      "definition": "especially",
+      "pinyin": ["te4 bie2"]
+    },
+    "注意": {
+      "total_fr": 7129,
+      "definition": "to take note of",
+      "pinyin": ["zhu4 yi4"]
+    },
+    "球": { "total_fr": 7121, "definition": "ball", "pinyin": ["qiu2"] },
+    "查": {
+      "total_fr": 7121,
+      "definition": "to research",
+      "pinyin": ["cha2", "zha1"]
+    },
+    "忘": { "total_fr": 7120, "definition": "to forget", "pinyin": ["wang4"] },
+    "甚至": {
+      "total_fr": 7100,
+      "definition": "even",
+      "pinyin": ["shen4 zhi4"]
+    },
+    "保护": {
+      "total_fr": 7094,
+      "definition": "to protect",
+      "pinyin": ["bao3 hu4"]
+    },
+    "真正": {
+      "total_fr": 7090,
+      "definition": "genuine",
+      "pinyin": ["zhen1 zheng4"]
+    },
+    "结果": {
+      "total_fr": 7085,
+      "definition": "to bear fruit",
+      "pinyin": ["jie1 guo3", "jie2 guo3"]
+    },
+    "表现": {
+      "total_fr": 7082,
+      "definition": "to show",
+      "pinyin": ["biao3 xian4"]
+    },
+    "拍": { "total_fr": 7076, "definition": "to pat", "pinyin": ["pai1"] },
+    "其实": {
+      "total_fr": 7067,
+      "definition": "actually",
+      "pinyin": ["qi2 shi2"]
+    },
+    "小心": {
+      "total_fr": 7022,
+      "definition": "to be careful",
+      "pinyin": ["xiao3 xin1"]
+    },
+    "进来": {
+      "total_fr": 6999,
+      "definition": "to come in",
+      "pinyin": ["jin4 lai2"]
+    },
+    "路": { "total_fr": 6993, "definition": "road", "pinyin": ["lu4"] },
+    "呆": { "total_fr": 6983, "definition": "foolish", "pinyin": ["dai1"] }
+  }
+}

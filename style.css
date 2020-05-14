@@ -1,0 +1,498 @@
+@font-face {
+  font-family: MaShanZheng;
+  src: url(fonts/MaShanZheng-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoMono;
+  src: url(fonts/Roboto_Mono/RobotoMono-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoMono;
+  src: url(fonts/Roboto_Mono/RobotoMono-Bold.ttf);
+  font-weight: bold;
+}
+
+body {
+  margin: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  font-family: "MaShanZheng";
+}
+
+a {
+  color: #00909e;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffb367;
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.en {
+  font-family: "RobotoMono";
+}
+
+ul {
+  list-style-type: square;
+  padding-inline-start: 5px;
+}
+
+li {
+  margin: 20px;
+  line-height: 1.4;
+}
+
+/* SIDEBAR */
+#sidebar {
+  font-size: 3.6vw;
+  color: #000000;
+  text-align: left;
+  padding: 2%;
+  background: rgba(238, 238, 238, 0.8);
+  position: relative;
+  z-index: 2;
+  width: 18%;
+  height: 100%;
+}
+
+#titleTextContainer .titleText {
+  display: inline-block;
+}
+
+#enTitle {
+  font-size: 2.2vw;
+  margin-top: 5px;
+  margin-block-end: 0;
+}
+
+/* OVERLAY BUTTONS AND ABOUT, INSTRUCTIONS PAGES */
+
+#overlayButtonContainer {
+  padding-top: 8%;
+  font-size: 0px;
+}
+
+#overlayButtonContainer .en {
+  font-size: 1.1vw;
+}
+
+/* three buttons in sidebar */
+.overlayButton {
+  background-color: rgb(0, 144, 158);
+  border: none;
+  border-radius: 10px;
+  color: #ffffff;
+  display: inline-block;
+  margin-top: 4%;
+  opacity: 1;
+  padding-left: 4%;
+  padding-right: 4%;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.overlayButton:disabled {
+  background-color: rgba(181, 181, 181, 0.625);
+}
+
+.overlayButton:hover {
+  opacity: 1;
+}
+
+.overlayButton:focus {
+  outline: none;
+  box-shadow: 0 0 6px 6px rgba(96, 134, 138, 0.5);
+}
+
+/* graph settings slider window */
+.slideDown {
+  border-radius: 10px;
+  width: 100%;
+  height: 0%;
+  font-size: 1.1vw;
+  margin-top: 3%;
+  position: relative;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(171, 240, 233, 0.8);
+  overflow-y: hidden;
+  transition: 0.5s;
+}
+
+#graphSettingsOptions {
+  margin: 8% 6%;
+  overflow: auto;
+  max-height: 100%;
+}
+
+#graphSettingsOptions .en {
+  font-size: 1vw;
+}
+
+#toggleHoverContainer {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+#toggleTextContainer {
+  margin-bottom: 20px;
+}
+
+#changeNodeNumContainer {
+  border-style: solid none solid none;
+  border-color: rgba(0, 144, 158, 0.2);
+  padding-bottom: 20px;
+}
+
+#currentNumChar {
+  cursor: default;
+  padding: 2px 4px;
+}
+
+#numberCharWarning {
+  color: #ff4f4d;
+}
+
+#currentSliderNumChar {
+  width: 20%;
+  font-size: 1vw;
+  text-align: center;
+  padding: 3px;
+  border-style: none;
+}
+
+#updateCurrentNumChar {
+  margin-left: 5px;
+  font-size: 1vw;
+  padding: 2px 8px;
+}
+
+#resetGraphViewButton {
+  background-color: #ffb367;
+  color: black;
+  padding: 10px 15px;
+  margin-top: 30px;
+  font-size: 1vw;
+}
+
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 3em;
+  height: 1.7em;
+  vertical-align: middle;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 1.3em;
+  width: 1.3em;
+  left: 0.2em;
+  bottom: 0.2em;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: rgb(0, 144, 158);
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px rgb(0, 144, 158);
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(1.3em);
+  -ms-transform: translateX(1.3em);
+  transform: translateX(1.3em);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.rangeSliderContainer {
+  width: 100%;
+}
+
+.rangeSlider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 25px;
+  background: #ffffffde;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.rangeSlider:hover {
+  opacity: 1;
+}
+
+.rangeSlider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: rgb(0, 144, 158);
+  cursor: pointer;
+}
+
+.rangeSlider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: rgb(0, 144, 158);
+  cursor: pointer;
+}
+
+/* overlay page that appears */
+.overlayPage {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Black background with opacity */
+  z-index: 4; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  word-wrap: break-word;
+  cursor: default;
+}
+
+.overlayPage .overlayContentContainer {
+  width: 40%;
+  height: 80%;
+  margin: 5% auto;
+  background-color: rgba(171, 240, 233, 0.8);
+  border-radius: 50px;
+  padding: 20px;
+}
+
+.overlayPage .overlayTitle {
+  font-size: 3.5vw;
+  text-align: center;
+  margin: 10px;
+}
+
+.overlayPage .overlayContent {
+  margin: 10px auto;
+  padding: 15px;
+  text-align: left;
+  width: 90%;
+  height: 75%;
+  overflow: auto;
+  border-style: solid none;
+  border-color: rgba(0, 144, 158, 0.2);
+}
+
+.overlayPage .overlayButton {
+  margin: 0 40%;
+  font-size: 1.5vw;
+  background-color: rgba(0, 144, 158, 0.6);
+  color: #000000;
+  width: 20%;
+  cursor: pointer;
+}
+
+/* show instructions by default */
+#instructions {
+  display: block;
+}
+
+/* FORCE GRAPH */
+
+#graph {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+/* NODE INFO PANEL ON RIGHT */
+
+#info {
+  position: absolute;
+  width: 18%;
+  max-height: 50%;
+  right: 20px;
+  top: 20px;
+  background-color: rgba(171, 240, 233, 0.95);
+  box-shadow: 2px 2px 6px rgba(27, 27, 180, 0.25);
+  border-radius: 6px;
+  padding: 20px;
+  display: none;
+  overflow: auto;
+  pointer-events: auto;
+}
+
+#info .en {
+  font-size: 1.2vw;
+}
+
+b {
+  color: rgb(0, 144, 158);
+}
+
+#infoHeader {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+#closeButton {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  float: right;
+  font-size: 1.5vw;
+  color: rgb(45, 70, 70);
+  background: transparent;
+  vertical-align: text-top;
+  border: none;
+}
+
+#sideChar {
+  position: relative;
+  float: left;
+  margin: 0;
+  font-size: 3.5vw;
+}
+
+#infoContent {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-style: none none solid none;
+  border-color: rgba(99, 183, 175, 0.2);
+  margin-top: 25%;
+  display: block;
+  overflow: auto;
+}
+
+#infoContent .ch {
+  font-size: 1.5vw;
+  vertical-align: text-middle;
+}
+
+#sideRadical {
+  padding: 0 0 10px 0;
+  border-style: solid none;
+  border-color: rgba(99, 183, 175, 0.3);
+}
+
+#toggleSameRadicalHighlightContainer {
+  display: none;
+  text-align: left;
+  margin: 10px 0 20px 0;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+}
+
+#sideWords {
+  padding: 10px 0;
+}
+
+.charListItem {
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.65);
+  cursor: pointer;
+}
+
+summary:focus {
+  outline: none;
+  box-shadow: 3px rgba(56, 131, 114, 0.2);
+}
+
+/* ON NODE HOVER CONTENT */
+
+#nodeHoverContainer {
+  opacity: 0;
+  width: 25%;
+  height: auto;
+  display: inline-block;
+  position: absolute;
+  background-color: rgba(183, 229, 243, 0.95);
+  box-shadow: 2px 2px 6px rgba(27, 27, 180, 0.25);
+  color: #000000;
+  text-align: center;
+  border-radius: 15px;
+  z-index: 4;
+  padding: 20px;
+  font-size: 2.5vw;
+  word-wrap: break-word;
+
+  pointer-events: none;
+}
+
+#nodeHoverContainer .ch {
+  font-size: 2.8vw;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: block;
+}
+
+#nodeHoverContainer .en {
+  font-size: 1.2vw;
+  margin-top: 5px;
+  margin-bottom: 0;
+  display: block;
+}
